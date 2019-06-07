@@ -1,0 +1,1107 @@
+EARS276 Topics in Earth Surface Proces@Carl Renshaw, Marisa Palucis@1
+QBS146 Foundation of Bioinformatics I@Michael Whitfield@1
+SOCY07.01 Race and Ethnicity@Emily Walton@1
+SOCY011 Research Methods@Janice McCabe@3
+GENE148 Biol Mass Spectrometry & Prote@Scott Gerber@1
+EARS270 Topics in Ice and Climate@Robert Hawley, Erich Osterberg@1
+SOCY026 CapitalismProsperity&Crisis@Misagh Parsa@1
+SOCY49.18 Third World Revolutions@Misagh Parsa@1
+BIOC106 Questn at Frontier of Cell Dyn@James Moseley, William Wickner@1
+GENE297 Grad Research II: Level A@Jay Dunlap@1
+GENE260 Biological Rhythms Journal Clu@Jay Dunlap@1
+GENE299 Grad Research II: Level C@Jay Dunlap@1
+GENE298 Grad Research II: Level B@Jay Dunlap@1
+GENE261 Cancer Biology@Michael Cole@1
+GENE106 Neuro Through Lens Devel Brain@Hermes Yeh@1
+GENE109 Principles Animal Development@Yasmath Ahmed, Erik Griffin, Patrick Dolph@1
+GENE108 Mol Gene Manipul & App to Neur@Bryan Luikart@1
+GENE146 Molecular & Computat Genomics@Michael Whitfield@1
+CLST030 Classical Art&Archaeology@Timothy Shea@1
+QSS30.12 Quantitative Literary Crit@Joseph Dexter@1
+FREN003 Intermediate French@Sandra Mefoude Obiono@33
+LAT003 Intermediate Latin@Scott Arcenas@10
+LAT085 Independ Reading & Research@Margaret Graver@1
+CLST085 Independ Reading & Research@Margaret Graver@1
+CLST10.09 Quantitative Literary Crit@Joseph Dexter@1
+CLST10.08 Laughter and Humor@Neeltje Kuin@1
+LACS30.13 The Tropical Fantastic@Jessica Smolin@1
+COLT52.04 The Tropical Fantastic@Jessica Smolin@1
+CLST031 Ancient Literature&History@Paul Christesen@1
+CLST019 Methods&Theory Ancient Hist@Scott Arcenas@1
+GRK085 Independ Reading&Research@Margaret Graver@1
+CLST087 Thesis I@Margaret Graver@1
+CLST12.02 Greek & Roman Engg. & Tech.@Margaretha Kramer@1
+THEA012 Tragedy&Comedy Greece&Rome@Afroditi Manthati-Angelopoulou@1
+CLST002 Tragedy&Comedy Greece&Rome@Afroditi Manthati-Angelopoulou@3
+CLST030 Classical Art&Archaeology@Timothy Shea@1
+GRK087 Thesis@Margaret Graver@1
+GRK020 Homer@Afroditi Manthati-Angelopoulou@2
+LING087 Honors Thesis@David Peterson@1
+LING80.07 Variation and Dialects@James Stanford@1
+COSC072 Accelerated Comp@Natalie Schrimpf@1
+LING07.06 The Indo-Europeans@Timothy Pulju@1
+LING021 Phonology@Laura McPherson@1
+LING033 Typology@Lindsay Whaley@1
+GRK010 Readings Greek Prose&Poetry@Lindsay Whaley@1
+LAT003 Intermediate Latin@Neeltje Kuin@10
+LAT010 Readings Latin Prose&Poetry@Jennifer Lynn@1
+LAT26.02 Roman Satire@Margaret Graver@1
+CHEM006 General Chemistry(Laboratory)@Anita Prasad@14
+CHEM076 Physical Chemistry II(Laboratory)@Robert Ditchfield@1
+CHEM006 General Chemistry(Laboratory)@Anita Prasad@14
+CHEM006 General Chemistry(Laboratory)@Anita Prasad@14
+CHEM076 Physical Chemistry II(Laboratory)@Robert Ditchfield@1
+LING001 Introductory Linguistics@David Peterson@97
+LING048 Accelerated Comp Lingustics@Natalie Schrimpf@1
+MATH013 Calc of Vector-Valued Fctns@Warren Lord@30
+LING001 Introductory Linguistics@David Peterson@97
+LING017 Sociolinguistics@James Stanford@12
+MATH022 Linear Algebra w/Applicatns@Mitsuo Kobayashi@26
+MATH008 Calc Func One/Sev Variable@Samuel Schiavone@28
+MATH022 Linear Algebra w/Applicatns@Bjoern Muetzel@26
+MATH022 Linear Algebra w/Applicatns@Bjoern Muetzel@26
+CHEM041 Biological Chemistry(Laboratory)@Margaret Carpenter@4
+CHEM041 Biological Chemistry(Laboratory)@Margaret Carpenter@4
+MATH010 Introductory Statistics@Edward Taylor@1
+MATH022 Linear Algebra w/Applicatns@David Webb@26
+MATH020 Discrete Probability@Martin Tassy@11
+MATH013 Calc of Vector-Valued Fctns@Sara Chari@30
+MATH148 Independent Project@Rosa Orellana@1
+MATH156 Graduate Research@Rosa Orellana@1
+MATH149 Supervised Teaching@Rosa Orellana@1
+MATH105 Topics in Number Theory@Thomas Shemanske@1
+MATH038 Graph Theory@Sergi Elizalde@3
+MATH008 Calc Func One/Sev Variable@Samantha Allen@28
+MATH158 Independent Research@Rosa Orellana@1
+MATH157 Thesis Research@Rosa Orellana@1
+MATH102 Topics in Geometry@Peter Doyle@1
+MATH070 Top:Mathematical Statistics@Eugene Demidenko@1
+MATH136 Applied Mathematics II@Dorothy Wallace@1
+MATH046 Intro to Applied Math@Dorothy Wallace@1
+MATH027 Adv Calc &Dynamcs Biol &Med@Dorothy Wallace@1
+MATH107 Supervised Tutoring@Rosa Orellana@1
+MATH097 Undergraduate Research@Dana Williams@1
+MATH137 Independent Reading@Rosa Orellana@1
+MATH127 Reading Course@Rosa Orellana@1
+MATH043 Functns of Complex Variable@Dana Williams@1
+MATH113 Analysis@Dana Williams@1
+MATH087 Reading Course@Dana Williams@1
+MATH029 Intro Computability@Marcia Groszek@1
+MATH072 Geometry,Honors Section@Craig Sutton@1
+MATH074 Topology II@Johannes van Erp@1
+MATH114 Algebraic Topology@Johannes van Erp@1
+MATH017 Intro: Math Beyond Calculus@John Voight@3
+MATH004 Appl Calculus Medicine/Biol@Dorothy Wallace@1
+MATH013 Calc of Vector-Valued Fctns@Rosa Orellana@30
+MATH118 Combinatorics@Rosa Orellana@1
+MATH010 Introductory Statistics@Johannes van Erp@1
+MATH022 Linear Algebra w/Applicatns@Vardayani Ratti@26
+CHEM051 Organic Chemistry(Laboratory)@Catherine Welder@18
+GERM085 Independent Study@Veronika Fuechtner@1
+MUS035 Jazz Language@Frederick Haas@1
+MATH066 Topics in Modern Physics@John Trout@2
+GERM087 Honors Thesis I@Veronika Fuechtner@1
+SPAN003 Spanish III@Maria Gonzalez Borgaro@46
+FILM096 Honors Project II@Paul Young@1
+EARS090 Thesis Research II@Carl Renshaw@1
+FILM42.16 Cinema of Black Protest@Matthew Richardson@1
+QSS082 Major One Quarter Project@Michael Herron@1
+SART076 Senior Seminar I@Karolina Kawiaka@1
+RUSS085 Independent Reading@Mikhail Gronas@1
+PEMM143 PEMM Research Rotation III@Hermes Yeh@1
+ANTH50.26 Art & Activism in Americas@Yana Stainova@1
+QBS192 Health Informatics@Inas Khayal@1
+GOVT095 Washington DC@Joseph Bafumi@1
+SOCY066 Markets and Management@Brooke Harrington@2
+GOVT094 Washington DC@Joseph Bafumi@3
+SPAN030 Intro Hispanic Studies I@Joseph Aguado@6
+THEA092 Honors Thesis II@Laura Edmondson@1
+THEA080 Independent Study@Laura Edmondson@1
+SPAN73.06 AesthDevianceContArgentina@Julio Ariza@1
+COSC89.21 Data Min & Knowl Disc@Soroush Vosoughi@1
+SOCY098 Honors Thesis I@Marc Dixon@1
+SOCY090 Senior Ind Study Project@Marc Dixon@1
+SOCY036 Sociology of Family@Emily Walton@1
+SOCY027 Organizations in Society@Brooke Harrington@5
+SOCY091 Sociological Imagination@Deborah King@3
+SOCY046 Cnstructing Black Womanhood@Deborah King@1
+SOCY080 Independent Study@Marc Dixon@1
+WGSS33.01 Cnstructing Black Womanhood@Deborah King@1
+SOCY099 Honors Thesis II@Marc Dixon@1
+ANTH50.28 Racial Geographies@Celina de Sa@1
+ENGS093 Statistical Mthds in Engg@Ronald Lasky@1
+HIST92.06 Russia and the West@Stuart Finkel@1
+FREN012 Adv Writ&Speaking in French@Keith Walker@1
+RUSS013 Vampires,Witches&Firebirds@Lynn Patyk@16
+ENGS156 Heat,Mass&Momentum Transfer@Jane Hill@1
+ENGG298 Graduate Research 3@@1
+ENGG297 Graduate Research 2@@1
+ENGS110 Signal Processing@Eric Hansen@1
+ENGG194 PhD Oral Qualifier(Discussion)@@1
+ENGG296 Graduate Research 1@@1
+ENGS155 Intermediate Thermodynamics@Harold Frost@1
+ENGM180 Corporate Finance@Katarzyna Lewellen@1
+ENGS145 Modern Control Theory@Minh Phan@1
+ENGS146 Comp/Aided Mech Engg Design@Solomon Diamond@1
+ENGM183 Operations Management@Laurens Debo@1
+ENGG390 Master of Engg Mgmt Proj@Geoffrey Parker@1
+MALS127 Independent Study@Regine Rosenthal@1
+SART17.19 Cut and Paste Cinema@Jodie Mack@1
+MALS127 Independent Study@Regine Rosenthal@1
+MALS127 Independent Study@Barbara Kreiger@1
+QSS017 Data Visualization@@1
+GOVT016 Data Visualization@@2
+RAD004 Medical Physics Practicum@David Gladstone@1
+QBS139 Adv Methods in Hlth Serv Res@Tracy Onega@1
+SPAN009 Culture and Conversation@Roberto Rey Agudo@55
+QBS140 Decision & Cost-Effect Analys@Anna Tosteson, James Stahl@1
+ENGG192 Independ Study in Engg Science@Margaret Ackerman@1
+PHYS123 Optics@Geoffrey Luke@1
+CRWT010 Writing and Reading Fiction@William Craig@1
+WGSS37.06 Women in Asian Cities@Aparna Parikh@1
+COSC189 Topics in Applied Comp Sci@Xing-Dong Yang@1
+EDUC051 Educational Testing@David Kraemer@1
+ASCL62.08 Mod-Contemporary Korean Art@Sunglim Kim@1
+EEES141 Econ of Ecological Resources@Richard Howarth@1
+BIOL147 Genomics:From Data-Analysis@Olga Zhaxybayeva@1
+CHEM96.04 Chemistry of Macromolecules@Jane Lipson@1
+WGSS34.02 Gender Idnts&Politcs-Africa@Ayo Coly@1
+EARS141 Thesis Research Level I@Carl Renshaw@1
+ASCL089 Independent Research@Allen Hockley@1
+BIOC299 Grad Res in BIOC Post Qual III@Charles Barlowe@1
+LACS032 Borderlands Art & Theory@Tatiana Reinoza@1
+COGS085 Independent Study&Research@Adina Roskies@1
+EEES147 Genomics:From Data-Analysis@Olga Zhaxybayeva@1
+AAAS83.08 The Global Caribbean@Chelsey Kivland@1
+CHIN049 Ind Adv Study in Chinese@Allen Hockley@1
+COCO025 Crisis and Strategy@David Rezvani@1
+EARS131 Project Research@Carl Renshaw@1
+CHEM041 Biological Chemistry@F Jon Kull@4
+MUS013 Literature and Music@John Kopper@1
+COCO021 What's in Your Shoebox?@Francine A'Ness, Prudence Merton@1
+COLT60.01 Literature and Music@John Kopper@1
+BIOC198 Grad Res in BIOC Pre-Qual II@Charles Barlowe@1
+ARTH26.02 Foreign Study II@Ada Cohen@1
+CHEM051 Organic Chemistry@Ivan Abrahamian@18
+ANTH064 Evolution of Pregnancy@Zaneta Thayer@1
+COGS001 Intro to Cognitive Science@Adina Roskies, Jonathan Phillips@1
+BIOL266 Res Colloq:Ecology & Evolution@Mark Laidre@1
+COSC189 Topics in Applied Comp Sci@Charles Palmer@1
+BIOC298 Grad Res in BIOC Post-Qual II@Charles Barlowe@1
+ASCL62.06 Explore Korea Through Films@Sunglim Kim@1
+ARTH62.71 Islamic Architecture@Nicola Camerlenghi@1
+BIOC197 Grad Res in BIOC Pre-Qual I@Charles Barlowe@1
+ANTH065 Conservation & Development@Kenneth Bauer@1
+REL066 Women, Rlgn, Soc Chg in Afr@Robert Baum@1
+BIOC260 Structural Biology@Charles Barlowe@1
+ARTH26.01 Foreign Study I@Ada Cohen@1
+WGSS44.03 Women, Rlgn, Soc Chg in Afr@Robert Baum@1
+ASCL70.18 SocialRevolutionsJapan&US@James Dorsey@1
+BIOL016 Ecology@Matthew Ayres@9
+LACS038 The Global Caribbean@Chelsey Kivland@1
+CHIN003 First Yr Courses in Chinese@Alan Li@1
+ARTH61.71 Italian Renaissance Arch.@Nicola Camerlenghi@1
+WGSS085 Independent Study@Susan Ackerman@1
+THEA024 Asian Performance@Woon-Ping Chin@1
+ENGL096 Reading Course@Andrew McCann@1
+ENGS026 Control Theory@Ulf Osterberg@1
+ARAB033 Advanced Arabic@El Mostafa Ouajjani@1
+ANTH062 Health&Disease:Evol Persp@Theresa Gildner@1
+EEES199 Grad Research I:Level III@Thomas Jack@1
+EARS071 River Prcsses&Watershed Sci@Francis Magilligan@1
+SPAN70.01 Don Quijote@Isabel Lozano-Renieblas@1
+GOVT30.12 Affirmative Action in HEduc@Melissa Herman@1
+ANTH50.04 Digital Heritage@Meredith Ferguson@1
+GOVT099 Honors Thesis@John Carey, Benjamin Valentino@1
+EEES198 Grad Research I:Level II@Thomas Jack@1
+RUSS032 20th C. Russian Fiction@Lynn Patyk@2
+CHEM076 Physical Chemistry II@Robert Ditchfield@1
+PSYC028 Cognition@Annemarie Brown@1
+QBS197 Grad Research in QBS I@Kristine Giffin@1
+GEOG035 River Prcsses&Watershed Sci@Francis Magilligan@1
+ITAL003 Introductory Italian III@Damiano Benvegnu@8
+COSC99.01 Thesis Research I@Thomas Cormen@1
+COSC010 ProbSolving:Object-Oriented@Timothy Pierson@29
+EEES197 Graduate Research I:Level I@Thomas Jack@1
+ASCL70.17 Women in Asian Cities@Aparna Parikh@1
+CLST11.14 Gender Sexualty Ancnt Grce@Margaretha Kramer@1
+ARAB023 Intermediate Arabic@Mokhtar Bouba@1
+SPAN003 Spanish III@Paloma Asensio@46
+ITAL088 Senior Ind Reading&Research@David Laguardia@1
+PSYC91.01 Honors Neurosci Research I@Jeffrey Taube@1
+MUS54.01 IIP Woodwinds 1@Neil Boyer, Rachel Braude, Jan Halloran, Michael Zsoldos, Janet Polk, Frederick Haas@1
+QBS198 Grad Research in QBS II@Kristine Giffin@1
+EEES169 Supervised Teaching EEES@Bing He@1
+MUS57.01 IIP Voice 1@Louis Burkot, Erma Mellinger@1
+WGSS31.04 Women and Politics@Deborah Brooks@1
+QBS195 Independent Study@Kristine Giffin@1
+ANTH045 Asian Medical Systems@Ann Armbrecht@1
+WGSS21.03 Gender Sexualty Ancnt Grce@Margaretha Kramer@1
+THEA030 Acting I@Timothy Hackett@30
+SPAN009 Culture and Conversation@Julio Ariza@55
+ITAL085 Independ Reading & Research@David Laguardia@1
+RUSS003 Introductory Russian@Deborah Garretson@2
+WGSS30.05 Maid in America@Francine A'Ness@1
+GEOG80.07 Race, Space, and Nature@Brian Williams@1
+NAS07.06 Native Americans and Sports@Maurice Crandall@1
+QBS299 Adv Grad Research in QBS III@Kristine Giffin@1
+SART077 Senior Seminar II@Christina Seely@1
+FREN089 Honors Seminar@David Laguardia@1
+GOVT20.01 Women and Politics@Deborah Brooks@1
+THEA054 Directing@Timothy Hackett@1
+SPEE20.01 &nbspPublic Speaking@Joshua Compton@1
+COSC052 Full-Stack Web Development@Tim Tregubov@9
+GEOG016 Moral Econ of Development@Susanne Freidberg@1
+PSYC090 Ind. Neuroscience Research@Jeffrey Taube@1
+QBS270 QBS Seminar Series@Hildreth Frost, Erika Moen@1
+SPAN003 Spanish III@Rosa Matorras@46
+LACS036 Maid in America@Francine A'Ness@1
+THEA042 Scene Design I@Lawrence Moten@3
+HIST96.27 Great Historians@Darrin McMahon@1
+BIOL097 Honors Research Biology I@Natasha Grotz@1
+NAS30.18 Indians Who Rock the World@Davina Two Bears@1
+COSC69.13 Multirobot Systems@Alberto Quattrini Li@1
+THEA07.01 Theater for Social Change@Mara Sabinson@1
+QBS133 Clinical Epidemiology@Michael Passarelli@1
+NAS008 Perspectives-Nat Am Studies@Vera Palmer@10
+LATS099 Honors Thesis II@Matthew Garcia@1
+GOVT07.03 Media and Politics@Deborah Brooks@1
+GEOG015 Food and Power@Susanne Freidberg@4
+BIOL096 Ind Research Biology II@Natasha Grotz@1
+RUSS029 Intermediate Russian III@Victoria Somoff@1
+FREN087 Thesis Reading and Research@David Laguardia@1
+THEA07.01 Theater for Social Change@Mara Sabinson@1
+GOVT84.06 Identity and Power@Lisa Baldez@1
+COSC89.11 Cognitive Comp. with Watson@Charles Palmer@1
+NAS087 Native Amer Studies Honors@Colin Calloway@1
+GEOG005 Global Climate Change@Jonathan Winter@1
+SPAN003 Spanish III@Rosa Matorras@46
+REL043 Buddhism in America@Reiko Ohnuma@1
+ECON049 Topics International Econ@Nina Pavcnik@2
+ENGS025 Intro to Thermodynamics@Lee Lynd@1
+PSYC83.07 Problem of Other Minds@Meghan Meyer@1
+ENGS262 Adv Biol Circuit Engg@Rahul Sarpeshkar@1
+ENGG325 Intro to Surgical Innovation@Keith Paulsen@1
+ENGG195 Seminar on Sci,Tech & Society(Discussion)@Brian Pogue@1
+ENGS159 Molec Sensors & Nanodevices@Xiaojing Zhang@1
+ENGS154 Aircraft Design@Brenden Epps@1
+ENGS129 Biomedical Circuits & Systems@Kofi Odame@1
+ENGM182 Data Analytics@Geoffrey Parker@1
+ENGS133 Mthds of Matls Characteriz@Ian Baker@1
+ENGS169 Intermediate Biomedical Engg@Ryan Halter@1
+ENGG260 Advances in Biotechnology@Margaret Ackerman, Karl Griswold@1
+ENGS112 Modern Info Technologies@Eugene Santos@1
+ENGS111 Digital Image Processing@Alexander Hartov@1
+ENGS128 Advanced Digital System Design@Eric Hansen@1
+ENGS123 Optics@Geoffrey Luke@1
+ENGG300 Enterprise Experience Project@Eric Fossum@1
+ENGS175 Energy Systems@Amro Farid@1
+ENGS158 Chemical Kinetics and Reactors@Mark Laser@1
+ENGS126 Analog Integrat Circuit Design@Kofi Odame@1
+ENGS165 Biomaterials@Douglas Van Citters@1
+COLT51.04 Languag&Rebellion: Arab Lit@Hoda Barakat@1
+ANTH044 Language,Gender & Sexuality@Sabrina Billings@2
+GOVT40.15 Commodities,Globaliztn,Devl@Peter DeShazo@1
+GENE197 Grad Research I: Level A@Jay Dunlap@1
+ENGL64.02 Garden Politics@Melissa Zeiger@1
+FREN003 Intermediate French@Sandra Mefoude Obiono@33
+EEES298 Grad Research II:Level II@Thomas Jack@1
+PSYC07.02 Brain Evolution@Richard Granger@1
+GEOG036 Climate Extremes@Justin Mankin@1
+RUSS50.01 Russia and the West@Stuart Finkel@1
+GOVT006 Political Ideas@Michelle Clarke@24
+ENGL64.04 Jacques Lacan@Azeen Khan@1
+ENGS031 Digital Electronics@Geoffrey Luke@5
+MES15.08 Art of Novel: Hoda Barakat@Hoda Barakat@1
+PSYC088 Independent Psych Research@Catherine Cramer@1
+PHYS297 Grad Research II:Lev I@John Thorstensen@1
+EEES297 Grad Research II:Level I@Thomas Jack@1
+COSC077 Computer Graphics@Bo Zhu@1
+GEOG012 Wildrnss,Culture&Envr Cnsrv@Francis Magilligan@4
+EARS171 River Prcsses&Watershed Sci@Francis Magilligan@1
+BIOC262 Lipid Biol & Neurodegeneration@Ta Yuan Chang@1
+ENVS020 Conservation&Biodiversity@Douglas Bolger@4
+HIST046 Spain in the Golden Age@Paul Lagomarsino@3
+ECON081 Adv Topics Microeconomics@Christopher Snyder@3
+COLT07.09 Litofthe Colonial Encounter@Ayo Coly@1
+MICR264 Immunology@Yina Huang@1
+HEBR003 1st Yr Course in Mod Hebrew@Nurit Ben-Yehuda@2
+BIOL063 RNA:The Real Secret of Life@Kevin Peterson@1
+LACS024 Mexican Cinema@Desiree Garcia@1
+HIST94.08 Hist/Culture Jews:Classical@Rachel Greenblatt@1
+WGSS65.08 Black LGBTQ History@Matthew Richardson@1
+FILM46.04 Broadcst &Elect. Journalism@Mark Williams@1
+EEES265 Res Colloq:Micr Ecol & Env Bio@Carey Nadell@1
+COLT53.04 Love,Death in Mediterranean@Yasser Elhariry@1
+MICR265 Molecular Pathogenesis@Deborah Hogan, Robert Cramer@1
+MALS226 Screenwriting@William Phillips@1
+ENGS088 Honors Thesis@Erland Schulson@1
+FILM42.14 Mexican Cinema@Desiree Garcia@1
+GERM42.07 Intercultural Communication@Heidi Denzel@1
+ANTH50.23 DNA, Identity, and Power@Ricky Smith@1
+ENVS012 Energy and the Environment@Andrew Friedland@9
+LATS041 Latinos in Media/Arts@Douglas Moody@5
+BIOL169 Supervised Teaching Biology@Bing He@1
+JWST010 Hist/Culture Jews:Classical@Rachel Greenblatt@1
+INTS82.01 Global Health Field Res@Lisa Adams, Ronald Shaiko, Sienna Craig@1
+FILM47.26 Film and Fashion@Mary Desjardins@1
+CHEM261 Materials Chemistry@Chenfeng Ke@1
+GERM015 Nazis, Neonazis, Antifa and@Irene Kacandes@1
+ARTH48.06 Borderlands Art & Theory@Tatiana Reinoza@1
+GEOG80.08 Geospatial Technologies@Luis Alvarez Leon@1
+SART030 Photography II@Virginia Beahan@2
+QBS147 Genomics:From Data-Analysis@Olga Zhaxybayeva@1
+GOVT85.27 Terrorism&Counterterrorism@Daniel Benjamin@1
+ENGL099 Honors Course II@Andrew McCann@1
+PSYC388 Graduate Research@Thalia Wheatley@1
+MUS55.02 IIP Brass 2@Timothy Atherton, Patrick Kennelly, Edward Carroll@1
+FREN001 Introductory French I@Kelly McConnell@37
+ENGS012 Design Thinking@Eugene Korsunskiy@36
+EARS091 Science Communication@Carl Renshaw@1
+GEOG80.06 Women in Asian Cities@Aparna Parikh@1
+ENGL07.51 Shakespeare: Community, Law@George Edmondson@1
+BIOL07.02 Biology:Politicized Topics@Brittny Calsbeek@1
+GOVT83.08 Localism in America@Trevor Latimer@1
+HIST021 Modern Am Thought & Culture@Leslie Butler@5
+HIST91.01 Christian,Jew&Muslm Crusade@Christopher MacEvitt@1
+COSC056 Digital Electronics@Geoffrey Luke@1
+MUS50.23 Contemporary Music@Amy Garapic@1
+EARS152 Structural Geology(Laboratory)@Leslie Sonder@1
+PHYS087 Undergraduate Research@John Thorstensen@1
+COSC039 Theory of Computation@Amit Chakrabarti@1
+ENGL53.29 The Black Outdoors@Joshua Bennett@1
+BIOL012 Cell Structure and Function@Bing He@4
+ECON045 Topics Industrial Orgnizatn@John Scott@2
+SART074 Printmaking III@Sarah Amos@1
+REL033 Christian,Jew&Muslm Crusade@Christopher MacEvitt@1
+EARS171 River Prcsses&Watershed Sci(Laboratory)@Francis Magilligan@1
+ENGS073 Materials Process&Selection@Ulrike Wegst@2
+HEBR059 Indp Adv Stdy/Hebr Lang/Lit@Tarek El-Ariss@1
+PSYC128 Cognitive Neuroscience@Peter Tse@1
+COSC065 Smartphone Programming@Andrew Campbell@1
+MES15.09 Languag&Rebellion: Arab Lit@Hoda Barakat@1
+EARS074 Soil Chem&Contaminants@Brian Jackson@1
+WGSS40.04 Black Women's Activism@Treva Ellison@1
+REL087 Honors@Reiko Ohnuma@1
+SART028 Printmaking II@Sarah Amos@1
+ENGS071 Structural Analysis@Vicki May@1
+BIOL123 Advanced Community Ecology@Mark McPeek@1
+PSYC81.11 Real World Scene Perception@Caroline Robertson@1
+PHYS085 Reading Course@John Thorstensen@1
+BIOL069 Cell Signaling@Patrick Dolph@2
+HIST052 Modern Germany 1871-1990@Udi Greenberg@3
+ECON045 Topics Industrial Orgnizatn@John Scott@2
+REL084 Advanced Independent Study@Reiko Ohnuma@1
+ENGL07.37 Writing Into the Silence@Cynthia Huntington@1
+WGSS016 Contemp. Issues in Feminism@Treva Ellison@1
+PHYS299 Grad Research II:Levl III@John Thorstensen@1
+ENGS057 Intermediate Biomed Engg@Ryan Halter@1
+PSYC52.05 Science and Pseudoscience@John Pfister@1
+SART027 Printmaking I - Etching@Sarah Amos@2
+BIOL173 Cell Signaling@Patrick Dolph@1
+COSC165 Smartphone Programming@Andrew Campbell@1
+ENGL73.02 Toni Morrison@Shalene Moodie@1
+GEOG050 Geographical Info Systems(Laboratory)@Ryan McKeon@1
+GEOG062 Black Women¿s Activism@Treva Ellison@1
+EARS174 Soils & Aqueous Geochemistry@Brian Jackson@1
+FREN021 Francophone Lit/Culture@Yasser Elhariry@4
+ECON022 Macroeconomics@Diego Comin@62
+PSYC011 Lab in Psyc Science@Catherine Cramer@2
+REL083 Independent Study Religion@Reiko Ohnuma@1
+AAAS88.15 Black Women's Activism@Treva Ellison@1
+CRWT010 Writing and Reading Fiction@Thomas O'Malley@1
+GEOG050 Geographical Info Systems(Laboratory)@Ryan McKeon@1
+ENGS056 Intro Biomed. Engineering@P Jack Hoopes, Xiaojing Zhang@2
+COSC89.14 Research Topics in HCI@Xing-Dong Yang@1
+FREN009 LSA: Readings in French Lit@Keith Walker@1
+ECON022 Macroeconomics@Diego Comin@62
+EARS067 Environmental Geomechanics@Marisa Palucis@1
+PHYS298 Grad Research II:Lev II@John Thorstensen@1
+REL082 Joint Research-Rel Studies@Reiko Ohnuma@1
+CRWT020 Intermediate Fiction I@Thomas O'Malley@1
+GENE199 Grad Research I: Level C@Jay Dunlap@1
+LING11.03 Language Cultures Mid East@Lewis Glinert@1
+WGSS53.07 Language,Gender & Sexuality@Sabrina Billings@1
+COSC177 Computer Graphics@Bo Zhu@1
+ENGS044 Sustainable Design@Benoit Roisin@1
+EARS167 Environmental Geomechanics@Marisa Palucis@1
+EEES299 Grad Research II:Level III@Thomas Jack@1
+LACS50.08 Commodities,Globaliztn,Devl@Peter DeShazo@1
+PSYC060 Brain Mapping with fMRI@Luke Chang@2
+EEES266 Res Colloq:Ecology & Evolution@Mark Laidre@1
+PHYS257 Supervised UG Teaching@John Thorstensen@1
+EARS038 Sedimentary Systems@Justin Strauss@1
+COSC99.02 Thesis Research II@Thomas Cormen@1
+PBPL027 Affirmative Action in HEduc@Melissa Herman@1
+CRWT022 Intermediate Poetry I@Matthew Olzmann@1
+ARAB059 Ind Adv Study Arab Lang&Lit@Tarek El-Ariss@1
+GEOG085 Senior Thesis I@Christopher Sneddon@1
+CHEM264 Biophysical Chemistry@Dale Mierke@1
+FREN002 Introductory French II@Loic Lerme@44
+FILM43.02 Family Matters: Almodovar@Annabel Martin@1
+THEA027 Movement Fundamentals II@Keith Coughlin@6
+ENGS030 Biological Physics@Jane Hill@1
+ARAB043 Advanced Arabic@Hussein Kadhim@1
+SPEE030 Speechwriting@Joshua Compton@1
+CHEM161.5 Protein Crystallography@Michael Ragusa@1
+COSC124 Computer Animation@Patricia Hannaway@1
+PSYC001 Introductory Psychology@Bradley Duchaine, Thalia Wheatley@111
+GEOG035 River Prcsses&Watershed Sci(Laboratory)@Ryan McKeon@1
+ENVS056 Environ Econ & Governance@D.G. Webster@1
+INTS015 Violence and Security@William Wohlforth@2
+ARTH41.04 European Art: 1850-1900@Allan Doyle@1
+HUM03.02 Two Empires under the Sun@Roberta Stewart, Gil Raz@1
+ENGL017 John Milton@Thomas Luxon@3
+GERM10.03 Understanding German Media@Petra McGillen@1
+JAPN049 Ind Adv Stdy Japn Lang&Lit@Allen Hockley@1
+GEOG056 Geog of Health & Disease@Xun Shi, Ryan McKeon@1
+AAAS099 Honors Thesis@Jesse Shipley@1
+MES16.36 Love,Death in Mediterranean@Yasser Elhariry@1
+CHEM159 Chem of Heterocyclic Compounds@Peter Jacobi@1
+ARTH62.20 Mod-Contemporary Korean Art@Sunglim Kim@1
+GEOG050 Geographical Info Systems@Xun Shi@1
+ENVS015 EnvironIssue:Earth'sColdRgn@Ross Virginia@2
+AAAS098 Honors Thesis@Jesse Shipley@1
+ANTH033 The Global Caribbean@Chelsey Kivland@3
+CHIN043 Adv Chinese(4th Yr Level)@Alan Li@1
+HUM03.01 Humanity by Design@Samuel Levey, Mark Williams@1
+WGSS67.04 Humanities & Human Rights@Annabel Martin@1
+EARS149 Supervised Under Teaching@Carl Renshaw@1
+GEOG087 Senior Thesis II@Christopher Sneddon@1
+AAAS097 Senior Ind Research in AAAS@Jesse Shipley@1
+EEES137 Ecol & Evol Interdiscip Wkshop@Jennifer Brentrup@1
+ENGS087 Undergrad Investigations@Erland Schulson@1
+INTS17.08 Humanities & Human Rights@Annabel Martin@1
+GERM002 Introductory German@Nicolay Ostrau@7
+CHIN023 Intermediate Modern Chinese@Shengyu Li@1
+EDUC001 Introduction to Education@Donna Coch@23
+ANTH003 Intro-Cultural Anthropology@Chelsey Kivland@9
+EARS143 Thesis Research Level III@Carl Renshaw@1
+EARS142 Thesis Research Level II@Carl Renshaw@1
+EEES156 Environ Econ & Governance@D.G. Webster@1
+BIOC259 Actin Cytoskeleton@Henry Higgs@1
+GERM003 Intermediate German@Nicolay Ostrau@4
+GOVT093 Washington DC-Internship@Joseph Bafumi@1
+ENGS086 Independent Project@Erland Schulson@1
+FILM47.07 Migration Stories@Gerd Gemunden, Silvia Spitta@1
+ARTH26.03 Foreign Study III@@1
+ECON001 The Price System@Elisabeth Curtis@134
+COSC210 Computer Science Colloquium@Amit Chakrabarti@1
+ASCL54.06 Ethnicities of India@Pankhuree Dube@1
+BIOL012 Cell Structure and Function@Sharon Bickel@4
+BIOC297 Grad Res in BIOC Post-Qual I@Charles Barlowe@1
+ENVS050 Env Prob Analysis&Plcy Fmtn@Nicholas Reo@1
+AAAS089 Readngs in Af/Af-Am Studies@Jesse Shipley@1
+GOVT080 Readings in Government@James Muirhead@1
+ITAL089 Honors Seminar@David Laguardia@1
+CHEM058 Honors Organic Chemistry@Glenn Micalizio@8
+ECON001 The Price System@Elisabeth Curtis@134
+EEES171 River Prcsses&Watershed Sci@Francis Magilligan@1
+COSC091 Write & Present CS papers@Thomas Cormen@1
+COGS087 Honors Thesis@Adina Roskies@1
+BIOC199 Grad Res in BIOC Pre-Qual III@Charles Barlowe@1
+ENVS07.04 COVER Stories@Terry Osborne@1
+BIOL268 Res Colloq:Genes&Gene Products@Roger Sloboda@1
+ARTH15.01 Gothic Art@Jane Carroll@1
+ENGS084 Reading Course@Erland Schulson@1
+ASCL10.01 Intro to Chinese Culture@Allen Hockley, Levi Gibbs@1
+COLT57.05 Migration Stories@Gerd Gemunden, Silvia Spitta@1
+COSC189 Topics in Applied Comp Sci@Temiloluwa Prioleau@1
+EEES140 Clim Extreme on Warming Planet@Justin Mankin@1
+ENGL037 Contemporary Amer Poetry@Gary Lenhart@2
+FILM038 Advanced Animation@Jodie Mack@1
+COLT57.08 Humanities & Human Rights@Annabel Martin@1
+CHIN023 Intermediate Modern Chinese@Lei Yan@1
+ARTH48.07 Michelangelo¿s Modernism@Allan Doyle@1
+EDUC050 The Reading Brain@Donna Coch@1
+ECON042 Topics in Macroeconomics@David Blanchflower@1
+COGS086 Honors Research@Adina Roskies@1
+GOVT60.22 Law, Power & Society@Maron Greenleaf@1
+FRIT33.01 Dante:The Divine Comedy@@1
+PHYS014 Introductory Physics II@James LaBelle@23
+GOVT86.31 PoliticalPhilosophyNietzche@Michelle Clarke@1
+COSC191 Write & Present CS papers@Thomas Cormen@1
+SART025 Painting I@Jennifer Caine@5
+WGSS07.15 Looks, Lookism and the Law@Jennifer Sargent@1
+MUS57.02 IIP Voice 2@Louis Burkot, Erma Mellinger@1
+PSYC115 Supervised Ugrad Teaching@Thalia Wheatley@1
+BIOL098 Honors Research Biology II@Natasha Grotz@1
+GOVT003 American Political System@Mia Costa@43
+PHYS014 Introductory Physics II@James LaBelle@23
+CRWT099 Honors Course II@Thomas O'Malley@1
+ENGS069 Smartphone Programming@Andrew Campbell@1
+SPAN001 Spanish I@Irasema Saucedo@60
+WGSS56.03 Family Matters: Almodovar@Annabel Martin@1
+ENGS07.05 Perspectives: Med Imaging@Keith Paulsen@1
+PSYC53.13 Social Neuroscience@Meghan Meyer@1
+WRIT44.02 Science &Technology Writing@Rachel Obbard@1
+ECON046 Topics in Money and Finance@Eric Zitzewitz@5
+COSC031 Algorithms@Deeparnab Chakrabarty@8
+ENGL07.52 Freud & Culture@Azeen Khan@1
+ECON026 Intermediaries and Markets@Jonathan Zinman@19
+HIST080 Hist of Captlsm in Lat Amer@Pamela Voekel@2
+MUS55.03 IIP Brass 3@Timothy Atherton, Patrick Kennelly, Edward Carroll@1
+SART015 Drawing I@John Wilson@63
+PSYC288 Graduate Research@Thalia Wheatley@1
+EEES123 Advanced Community Ecology@Mark McPeek@1
+ENGS015 Undergrad Investigations@Erland Schulson@1
+PSYC117 Specialist Requirement@Thalia Wheatley@1
+JWST36.01 Christian,Jew&Muslm Crusade@Christopher MacEvitt@1
+CRWT089 Creative Writing Project@Thomas O'Malley@1
+ECON026 Intermediaries and Markets@Jonathan Zinman@19
+EARS001 How the Earth Works@Meredith Kelly, Christopher Keller@26
+FREN015 Business Fren&Fren Economy@Brigitte Mosenthal@2
+EARS019 Habitable Planets@Ryan Hickox, Mukul Sharma@1
+GEOG07.17 Charting Self-Driving Cars@Luis Alvarez Leon@1
+SART075 Photography III@Virginia Beahan@1
+GOVT003 American Political System@Mia Costa@43
+ENVS80.08 Science Policy & Diplomacy@Melody Burkins@1
+JWST062 Jewish Mysticism@Shaul Magid@1
+MALS411 MALS Thesis Presentation@Donald Pease@1
+ASCL10.03 Intro Japanese Culture@Allen Hockley@1
+COLT087 Tutorial Thesis@Gerd Gemunden@1
+PHIL006 Logic and Language@Timothy Rosenkoetter@6
+HIST08.02 Mkng Mod Wrld Econ1800-2014@Stefan Link@1
+GOVT60.17 Arab Political Thought@Ezzedine Fishere@1
+MICR149 Emerg Model Sys in Microbiol@George O'Toole, Deborah Hogan@1
+EEES145 Prac combin Theor, Models&Data@Matthew Ayres@1
+PSYC188 Graduate Research@Thalia Wheatley@1
+MUS53.03 IIP Keyboards 3@Diane Belcher, Frederick Haas, Sally Pinkas, Gregory Hayes@1
+SPAN005 Language Study Abroad@Beatriz Pastor@4
+COSC25.01 Intro to UI/UX Design I@Lorie Loeb@1
+WGSS07.17 Watch Your Language!@Eman Morsi@1
+REL19.27 Female Saints@Timothy Baker@1
+PHYS040 Quantum Physics of Matter@Roberto Onofrio, James Whitfield@1
+THEA029 Dance Theater Performance@John Heginbotham, Rebecca Stenn@1
+EARS001 How the Earth Works(Laboratory)@Meredith Kelly, Christopher Keller@26
+BIOL130 Adv topics in Biostatistics@Mark McPeek@1
+PHYS004 General Physics II@Kristina Lynch@5
+WRIT041 Writing&Speaking PublicPlcy@Julie Kalish@1
+MUS50.11 Chamber Music@Marcia Cassidy, Gregory Hayes@1
+REL015 Christianity: A History@Christopher MacEvitt@2
+SART023 Figure Sculpture@@1
+HIST099 Thesis@Leslie Butler@1
+EARS001 How the Earth Works(Laboratory)@Meredith Kelly, Christopher Keller@26
+COLT56.02 U.S. & Italian Engagement@Matteo Gilebbi@1
+THEA017 Theater and Society III@Monica Ndounou@2
+GOVT86.25 Adam Smith & Political Econ@Henry Clark@1
+ITAL005 Italian Express@Tonia Convertini@1
+WGSS61.06 FeministReproductiveEthics@Ann Bumpus@1
+REL32.09 Heresy and Authority@Timothy Baker@1
+SART068 Architecture III@Zenovia Toloudi@1
+COSC89.22 AR and VR Development@James Mahoney@1
+HIST013 Planters Pirates & Puritans@Paul Musselwhite@1
+ECON022 Macroeconomics@Marjorie Rose@62
+PSYC89.02 Honors Psych Research II@Catherine Cramer@1
+ASCL70.07 Asian Performance@Woon-Ping Chin@1
+ECON022 Macroeconomics@Marjorie Rose@62
+REL57.06 History of Heaven@James Wright@1
+SART066 Architecture II@Zenovia Toloudi@2
+PSYC118 Research Presentation@Thalia Wheatley@1
+REL19.28 Material Religion@Candace Mixon@1
+COSC169 Topics in Computer Systems@Alberto Quattrini Li@1
+FRIT37.07 U.S. & Italian Engagement@Matteo Gilebbi@1
+ASTR019 Habitable Planets@Ryan Hickox, Mukul Sharma@1
+BIOL263 Res Colloq:Cell Biology@Erik Griffin@1
+PSYC91.02 Honors Neurosci Research II@Jeffrey Taube@1
+SART065 Architecture I@Zenovia Toloudi@4
+COSC89.20 Data Science for Health@Temiloluwa Prioleau@1
+WGSS099 Honors Thesis II@Susan Ackerman@1
+PHYS066 RelativisticElectrodynamics@Yi-Hsin Liu@1
+ECON046 Topics in Money and Finance@Eric Zitzewitz@5
+THEA10.55 Curating Black Theater@Monica Ndounou@1
+WRIT005 Expository Writing@Colleen Lannon@97
+GOVT84.36 The Future of Intl Order@Jacob Sullivan@1
+HIST066 Hist of Africa since 1800@Jeremy Dell@1
+PHIL04.01 FeministReproductiveEthics@Ann Bumpus@1
+GOVT010 Quantit Political Analysis@Dotan Haim@31
+COSC011 Foundations of Applied CS@Lorenzo Torresani@1
+WRIT07.23 The Art of the Interview@Susan Reynolds@1
+ECON046 Topics in Money and Finance@Eric Zitzewitz@5
+SPAN003 Spanish III@Beatriz Pastor@46
+EARS003 Elementary Oceanography@Xiahong Feng@10
+REL004 Rel of Israel:Hebrew Bible@James Wright@1
+FREN002 Introductory French II@Loic Lerme@44
+ENGL07.50 Writing Wild@Patricia McKee@1
+MICR199 Graduate Research I: Level III@David Leib@1
+JAPN003 First-Yr Crses in Japanese@Ikuko Washburn@3
+ENVS061 Governing the Environment@Michael Cox@1
+GOVT010 Quantit Political Analysis@David Cottrell@31
+JWST37.02 Nazis, Neonazis, Antifa and@Irene Kacandes@1
+ENVS07.14 Hidden From View@David Lutz@1
+JWST061 Modern Judaism@Shaul Magid@1
+PSYC126 Systems/Behavioral Neuroscienc@Jeffrey Taube@1
+BIOL197 Graduate Research I:Level I@Thomas Jack@1
+BIOL047 Genomics:From Data-Analysis@Olga Zhaxybayeva@2
+GEOG082 Independent Study Czech Rep@Coleen Fox@1
+CHEM262 Synthetic Organic Chemistry@Jimmy Wu@1
+MUS020 Intro to Music Theory@Diane Belcher@11
+MICR299 Graduate Research II:Level III@David Leib@1
+BIOC295 Independent Study@Charles Barlowe@1
+BIOL099 Senior Seminar in Biology@George Schaller@2
+CHEM006 General Chemistry@Robert Cantor@14
+PHIL01.05 Reasons, Values, Persons@Christine Thomas@1
+REL74.17 Islam in Africa@Robert Baum@1
+ASCL60.92 Theory&Practice of Translation@James Dorsey@1
+MALS137 Thesis Research@Donald Pease@1
+MUS53.01 IIP Keyboards 1@Diane Belcher, Frederick Haas, Sally Pinkas, Gregory Hayes@1
+MES12.05 Arab Political Thought@Ezzedine Fishere@1
+MICR128 Enterprise Experience Intern@Giovanni Bosco@1
+ENVS090 Independent Study&Research@Richard Howarth@1
+BIOL269 Res Colloq:Plant Molecular Bio@George Schaller@1
+ENGL034 &nbspModern American Drama@Donald Pease@4
+GEOG081 Social & Physical Landscape@Christopher Sneddon@1
+REL74.12 Merchant of Venice@Susannah Heschel, Patricia McKee@1
+JAPN023 Intermed. Modern Japanese@Ikuko Washburn@1
+MES07.01 Arab Revolutions@Ezzedine Fishere@1
+FREN030 French Literature: FSP@Lynn Higgins@1
+MALS297 Autobiography & Selfie Culture@James Dobson@1
+ECON021 Microeconomics@Erzo Luttmer@36
+INTS17.04 Migration Stories@Gerd Gemunden, Silvia Spitta@1
+LACS098 Honors Thesis I@Matthew Garcia@1
+FILM051 Game Design Studio@Mary Flanagan@1
+MALS291 Capitalism, Labor, & The Law@Gabrielle Clark@1
+JWST070 Merchant of Venice@Susannah Heschel, Patricia McKee@1
+FILM080 Independent Study@Paul Young@1
+JWST016 Intro Hebraic&Israel Cultre@Lewis Glinert@1
+PBPL091 Ind Study Public Policy@Ronald Shaiko@1
+HIST069 Islam in Africa@Robert Baum@3
+COSC297 Graduate Research@Amit Chakrabarti@1
+ANTH005 Introduction to Archaeology@Kathryn Grossman@2
+JAPN033 Advanced Japanese@Mayumi Ishida@1
+FREN45.05 Pol of Lit 19th Cent France@Robert St. Clair@1
+ENGL003 Literary History III@Nirvana Tanoukhi@3
+GOVT004 Politics of the World@Jeremy Horowitz@50
+BIOL037 Endocrinology@Lee Witters@5
+ECON021 Microeconomics@Erzo Luttmer@36
+MES05.02 Intro Hebraic&Israel Cultre@Lewis Glinert@1
+FREN029 French Civilization:FSP@Lynn Higgins@1
+ASTR087 Undergrad Res in Astronomy@John Thorstensen@1
+MALS346 Diasporas & Migrations@Klaus Milich, Regine Rosenthal@1
+FREN10.10 Du mal/On Evil@Robert St. Clair@1
+NAS080 Adv S Native Amer Studies@Vera Palmer@1
+COLT103 Workshop in Critical Writing@George Edmondson@1
+PHIL087 Research in Philosophy@Samuel Levey@1
+MALS206 Craft & Culture of Journalism@Christopher Wren@1
+ENGS005 Healthcare&Biotech in 21stC@Peter Robbie, Joseph Rosen@5
+PEMM263 Graduate Research Colloquium(Discussion)@Brock Christensen@1
+LACS089 Independent Study@Matthew Garcia@1
+COSC296 Supervised UG Teaching@Amit Chakrabarti@1
+ENGL55.15 Merchant of Venice@Susannah Heschel, Patricia McKee@1
+MICR297 Graduate Research II:Level I@David Leib@1
+ITAL011 Intensive Italian@Giorgio Alberti@2
+ASCL80.07 Hist of Development in Asia@Edward Miller@1
+MUS55.01 IIP Brass 1@Timothy Atherton, Patrick Kennelly, Edward Carroll@1
+BIOL11.08 Animal Minds@Thomas Jack, Mark Laidre@1
+GEOG047 Czech Republc in New Europe@Christopher Sneddon@1
+GERM82.06 Translation:Theory&Practice@@1
+WGSS36.01 Gendr Cross Cltrl Perspctve@Sabrina Billings@1
+COSC295 Exp Learning in Grad Comp Sci@Sean Smith@1
+ITAL003 Introductory Italian III@Giorgio Alberti@8
+ANTH031 Gendr Cross Cltrl Perspctve@Sabrina Billings@4
+MUS051 Oral Tradition Musicianship@Hafiz Farel Shabazz@32
+COSC294 Reading Course@Sean Smith@1
+EARS087 Special Projects@Carl Renshaw@1
+FILM034 Writing for the Screen II@William Phillips@3
+PBPL051 Leadership Civil Society@Ronald Shaiko@1
+HEBR051 The Hebrew of the Bible@Nurit Ben-Yehuda@1
+COLT64.01 Nazis, Neonazis, Antifa and@Irene Kacandes@1
+BIOL058 Advanced Community Ecology@Mark McPeek@1
+ENGL55.19 Maroons to Marley@Shalene Moodie@1
+FREN022 Middle Ages & Renaissance@David Laguardia@1
+CHEM257 Suprvisd UG Teachng in Chem@Dean Wilcox@1
+EARS052 Structural Geology(Laboratory)@Leslie Sonder@1
+ECON010 Intro Statistical Methods@Ryan Edwards@21
+BIOL104 CurrTop in Micro, MAPS, Motors@Wei Lih Lee@1
+PHYS137 Graduate Research I:Level I@John Thorstensen@1
+REL015 Christianity: A History(Discussion)@Christopher MacEvitt@2
+MUS58.01 IIP Percussion 1@Amy Garapic@1
+HIST097 Independent Study@Robert Bonner@1
+GOVT067 Civ. Librty Legl&Norm Aprch@Sonu Bedi@1
+ITAL07.06 Environmental Italy@Damiano Benvegnu@1
+LACS30.11 Brazil's Shifting Society@Carlos Cortez Minchillo@1
+ECON010 Intro Statistical Methods@Ryan Edwards@21
+GOVT85.15 Economic Statecraft in IR@Michael Mastanduno@1
+MUS50.21 Contemporary Music@Amy Garapic@1
+REL027 The Qur'an and the Prophet@Candace Mixon@1
+NAS015 AmIndian&Expansion1800-1924@Colin Calloway@1
+SART016 Sculpture I@Joseph Montroy@14
+WRIT07.27 Philosophy of Science@James Binkoski@1
+SPAN003 Spanish III@Carmen Bascunan@46
+ASTR001 Exploration of Solar System@John Thorstensen, Brian Chaboyer@9
+JWST004 Rel of Israel:Hebrew Bible@James Wright@3
+REL32.02 Dante:The Divine Comedy@@1
+GOVT30.10 American Conservatism@Trevor Latimer@1
+COSC189 Topics in Applied Comp Sci@Soroush Vosoughi@1
+WRIT07.19 The Stories We Tell@Deanne Harper@1
+BIOL026 Global Change Biology@Caitlin Pries@1
+ECON001 The Price System@Naama Shenhav@134
+SART031 Painting II@Thomas Ferrara@4
+CHEM260 Organometallic Chemistry@David Glueck@1
+REL20.02 Magic,Science&Religion@Ehud Benor@1
+SART071 Drawing III@Jennifer Caine@1
+PHYS129 Enterprise Experience Internsh@John Thorstensen@1
+COSC98.02 Sr. Design&Impl Project II@Tim Tregubov@1
+GENE198 Grad Research I: Level B@Jay Dunlap@1
+SART077 Senior Seminar II@Karolina Kawiaka@1
+AAAS86.04 Brazil's Shifting Society@Carlos Cortez Minchillo@1
+FRIT37.05 Black Queer & Trans Futures@Nathalie Batraville@1
+HIST015 AmIndian&Expansion1800-1924@Colin Calloway@4
+MUS023 Timbre and Form@Richard Beaudoin@1
+ECON001 The Price System@Naama Shenhav@134
+SART020 Drawing II@Jennifer Caine@1
+ASTR116 Galactic Systems@Jedidah Isler@1
+COSC028 Adv Projects in Digital Art@Lorie Loeb@1
+PBPL041 Writing&Speaking PublicPlcy@Julie Kalish@4
+GOVT81.27 Politics, Gender & Film@Jameson Doig, Johanna Evans@1
+HIST08.06 Food History@Matthew Garcia@1
+BIOL025 Intro Marine Biol&Ecology@Celia Chen@6
+WGSS52.06 Black Queer & Trans Futures@Nathalie Batraville@1
+PORT35.01 Brazil's Shifting Society@Carlos Cortez Minchillo@1
+ECON005 Adam Smith & Political Econ@Henry Clark@1
+BIOL145 Prac combin Theor, Models&Data@Matthew Ayres@1
+COSC29.22 AR and VR Design@James Mahoney@1
+EARS001 How the Earth Works(Laboratory)@Christopher Keller, Meredith Kelly@26
+MUS56.01 IIP Strings 1@Marcia Cassidy, Karl Doty, Jason Ennis, Miki Sophia Cloud, John Muratore, John Dunlop@1
+REL21.01 Religion and Social Capital@Devin Singh@1
+SPAN006 Language Study Abroad@Beatriz Pastor@1
+HIST07.32 Civil War Photographs@Robert Bonner@1
+PSYC89.01 Honors Psych Research I@Catherine Cramer@1
+ECON038 Urban & Land Use Economics@William Fischel@3
+MUS59.12 Jazz Ensemble@Taylor Bynum@1
+HIST96.33 Global Hist of Human Rights@Golnar Nikpour@1
+ITAL002 Introductory Italian II@Matteo Gilebbi@7
+ECON042 Topics in Macroeconomics@David Blanchflower@1
+CHEM006 General Chemistry(Laboratory)@Anita Prasad@14
+SPAN002 Spanish II@Natalia Monetti@59
+PHYS019 Relativistic & Quantum Phys@Devin Walker, Miles Blencowe@4
+MUS50.32 Jazz Improvisation@Frederick Haas@1
+WRIT019 Multilingual Writing@Elizabeth Tremmel@1
+SPEE20.02 Public Speaking@Svetlana Grushina@1
+CHEM006 General Chemistry@Katherine Mirica@14
+MUS025 Introduction to Sonic Arts@Seth Woods@1
+SPAN020 Writ&Read Critical&Cltr App@Analola Santana@11
+SART015 Drawing I@Karolina Kawiaka@63
+WRIT44.01 Life Sciences Writing&Comm.@Sarah Smith@1
+FREN010 Intro to French Literature@Keith Walker@17
+ECON002 Econ Principles & Policies@William Fischel@7
+PHYS31.01 Nonlinear Physics@Alexander Rimberg@1
+HIST008 Body Parts, Body Wholes@Soyoung Suh@1
+WRIT07.26 Jane Eyre and Vict. Culture@Colleen Lannon@1
+SPAN45.02 Diaspora & Econ Imaginaries@Israel Reyes@1
+PHYS104 Statistical Mechanics I@Lorenza Viola@1
+HIST061 Britain and the Sea@Carl Estabrook@1
+SPAN020 Writ&Read Critical&Cltr App@Silvia Spitta@11
+SART072 Painting III@Thomas Ferrara@1
+CHEM101.4 Chemistry of Macromolecules@Jane Lipson@1
+MUS084 Special Study: Performance@Kui Dong@1
+FREN003 Intermediate French@Keith Walker@33
+ECON039 International Trade@William Johnson@24
+PHYS138 Grad Research I:Level II@John Thorstensen@1
+FREN031 The French Language:FSP@Lynn Higgins@1
+ECON015 Political Economy of China@John Welborn@1
+PHYS075 Quantum Comptatn&Informatn@Chandrasekhar Ramanathan@2
+HIST050 Modern Britain 1780-Present@Carl Estabrook@5
+SPAN015 Latinx Writing&Composition@Israel Reyes@1
+SART015 Drawing I@John Wilson@63
+MUS58.03 IIP Percussion 3@Amy Garapic@1
+WRIT07.24 Past Imperfect@Cynthia Monroe@1
+SART090 Independent Study@Enrico Riley@1
+CHIN033 Adv Chinese (3rd Yr Level)@Shengyu Li@1
+MICR105 Bugs and Thugs@Brent Berwin, Robert Cramer, Joshua Obar@1
+ENVS092 Thesis Research in ENVS II@Richard Howarth@1
+MES16.03 Language Cultures Mid East@Lewis Glinert@1
+BIOL198 Grad Research I:Level II@Thomas Jack@1
+ENVS045 Colnlsm,Dvlpmt&Env-Afr&Asia@Douglas Haynes@1
+MICR108 Fundamentals of Virology@David Leib@1
+ANTH50.27 Killing Time@Bernard Perley@1
+REL023 Jewish Mysticism@Shaul Magid@1
+ENGL53.20 Indian Killers Murder&Myst@Melanie Benson Taylor@1
+PHIL025 PHIL of Cognitive Science@Adina Roskies@3
+PHIL01.09 Science and Superstition@Peter Lewis@1
+ENVS091 Thesis Research ENVS I@Richard Howarth@1
+MES16.07 Arabian Nights East & West@Hussein Kadhim@1
+MICR295 Independent Study@David Leib@1
+COLT10.21 Coming to America@Gerd Gemunden@1
+MALS137 Thesis Research@Donald Pease@1
+ENGL006 Journalism@Alexis Jetter@1
+EARS07.06 Life on Mars?@William Leavitt@1
+REL022 Modern Judaism@Shaul Magid@2
+EARS089 Thesis Research I@Carl Renshaw@1
+MUS006 Masterpces of Western Music@Diane Belcher@4
+JAPN043 Advanced Japanese@Ikuko Washburn@1
+ENGL032 Native American Literature@Melanie Benson Taylor@1
+ENGS15.02 Senior Design Challenge II@Eugene Korsunskiy@1
+ENGS020 Intro Scientific Computing@Petra Taylor@24
+GOVT016 Data Visualization@Robert Cooper@2
+LATS089 Independent Study@Matthew Garcia@1
+ANTH50.25 Law, Power & Society@Maron Greenleaf@1
+GOVT84.26 Ethnic Conflict@Jeremy Horowitz@1
+PHYS127 Reading Course@John Thorstensen@1
+EARS152 Structural Geology@Leslie Sonder@1
+FREN008 Exploring Fren Culture&Lang@Annabelle Cone@14
+RUSS013 Vampires,Witches&Firebirds@Victoria Somoff@16
+CHEM299 Grad Investig in Chem C@Dean Wilcox@1
+EARS203 Scientific Writing@Mukul Sharma, Robert Hawley@1
+ENGS020 Intro Scientific Computing@Petra Taylor@24
+PHIL16.01 Subject in German Idealism@Timothy Rosenkoetter@1
+CHEM298 Grad Investig in Chem B@Dean Wilcox@1
+ANTH088 Anthropology Honors@Jesse Casana@1
+GEOG001 Intro to Human Geography@Patricia Lopez@21
+ECON020 Econometrics@Lauren Russell@28
+FILM095 Honors Project I@Paul Young@1
+BIOL298 Grad Research II:Level II@Thomas Jack@1
+ENGL55.17 Disability and Literature@Michael Chaney, Sara Chaney@1
+FILM093 Major Project@Paul Young@1
+MICR298 Graduate Research II:Level II@David Leib@1
+PHIL006 Logic and Language(Discussion)@Timothy Rosenkoetter@6
+CHEM297 Grad Investig in Chem A@Dean Wilcox@1
+CHIN003 First Yr Courses in Chinese@Lei Yan@1
+GOVT069 Federal Indian Law@N Bruce Duthu@1
+ENGL55.18 Research As Picture Books@Michael Chaney@1
+QSS017 Data Visualization@Robert Cooper@1
+MES087 Honors Thesis@Tarek El-Ariss@1
+BIOL297 Grad Research II:Level I@Thomas Jack@1
+QSS041 Analysis of Social Networks@Jun Zhao@2
+MICR198 Graduate Research I: Level II@David Leib@1
+HIST076 History of Modern SouthAsia@Douglas Haynes@2
+PSYC81.09 Storytelling with Data@Jeremy Manning@1
+NAS81.02 Amer Indian Intellectuals@Dale Turner@1
+ANTH040 Human Functional Anatomy@Nathaniel Dominy@1
+MES085 Independent Research@Tarek El-Ariss@1
+PHIL037 Ethical Theory@Kenneth Walden@1
+ENGS012 Design Thinking@Peter Robbie@36
+ENGL55.12 &nbspDartmouth Fictions@James Dobson@1
+QSS081 Major Thesis Research@Michael Herron@1
+PHIL09.06 Ethics Special Relationshps@Kenneth Walden@1
+BIOL271 Res Progess Colloquium@Thomas Jack@1
+PSYC010 Exp Design & Methodology@Alireza Soltani@9
+ANTH076 Evolution Upright Walking@Jeremy DeSilva@1
+CHEM140 Chemistry Research Colloquia@Dean Wilcox@1
+EARS272 Topic in Historical Geobiology@William Leavitt, Justin Strauss@1
+NAS035 Native American Literature@Melanie Benson Taylor@2
+MICR197 Graduate Research I: Level I@David Leib@1
+THEA10.45 Arab Theatre@Eman Morsi@1
+ENGL045 Intro to Literary Theory@Christian Haines@1
+HIST075 Colnlsm,Dvlpmt&Env-Afr&Asia@Douglas Haynes@1
+ENGS009 Everyday Technology@Scott Davis@1
+BIOL199 Grad Research I:Level III@Thomas Jack@1
+MUS026 Elect. Music Synthesis@Spencer Topel@1
+ANTH006 Intro to Biological Anth@Jeremy DeSilva, Nathaniel Dominy@18
+CHEM131 Topics in Adv Inorganic Chem@David Glueck@1
+JWST085 Independ Study & Research@Susannah Heschel@1
+PHIL80.05 Metametaphysics@Amie Thomasson@1
+PSYC80.01 Neuroscience of Reward@Kyle Smith@1
+COSC001 Intro Programming&Computatn@Vasanta Lakshmi Kommineni@309
+ENGL022 The Rise of the Novel@Alysia Garrison@8
+MES81.01 Arab Theatre@Eman Morsi@1
+ENGL027 Early American Poetry@Ivy Schweitzer@1
+ECON020 Econometrics@Lauren Russell@28
+PEMM126 Cancer Biology@Todd Miller@1
+COSC298 Thesis Research@Amit Chakrabarti@1
+NAS032 Indian Killers Murder&Myst@Melanie Benson Taylor@1
+MUS011 Introduction to Opera@Steve Swayne@1
+FREN003 Intermediate French@Kelly McConnell@33
+JAPN003 First-Yr Crses in Japanese@Mayumi Ishida@3
+JWST07.05 Nietzsche and the Jews@Michael McGillen@1
+PHIL01.03 Philosophy and Economics@Asya Passinsky@1
+MUS59.43 Handel Society@Robert Duff@1
+MUS59.42 Handel Society@Robert Duff@1
+MUS59.11 Jazz Ensemble@Taylor Bynum@1
+MUS57.03 IIP Voice 3@Louis Burkot, Erma Mellinger@1
+MUS59.52 Symphony Orchestra@Filippo Ciabatti@1
+MUS063 Advanced Study/Strings@Marcia Cassidy, Karl Doty, Jason Ennis, Miki Sophia Cloud, John Muratore, John Dunlop@1
+MUS54.02 IIP Woodwinds 2@Neil Boyer, Rachel Braude, Jan Halloran, Michael Zsoldos, Janet Polk, Frederick Haas@1
+MUS083 Sp Studies:Compositn&Theory@Kui Dong@1
+MUS064 Advanced Study/Voice@Louis Burkot, Erma Mellinger@1
+MUS58.02 IIP Percussion 2@Amy Garapic@1
+MUS088 Honors@Kui Dong@1
+MUS065 Advanced Study/Percussion@Amy Garapic@1
+MUS03.02 Covers, Theft&Mus Borrowing@Richard Beaudoin@1
+MUS139 Directed Research III@Michael Casey@1
+MUS50.13 Chamber Music@Marcia Cassidy, Gregory Hayes@1
+SPAN003 Spanish III@Kianny Antigua@46
+MUS56.02 IIP Strings 2@Marcia Cassidy, Karl Doty, Jason Ennis, Miki Sophia Cloud, John Muratore, John Dunlop@1
+SPAN07.06 Quixote and the Quixotic@Paul Carranza@1
+MUS59.33 Gospel Choir@Walter Cunningham@1
+MUS59.13 Jazz Ensemble@Taylor Bynum@1
+HIST045 Early Modern Europe 1300-1650@Erika Monahan@3
+SPAN65.09 Performeras on LatAmerStage@Analola Santana@1
+SPAN80.16 Planeta Paraguay@Sebastian Diaz@1
+MUS137 Directed Research I@Michael Casey@1
+SPAN009 Culture and Conversation@Sebastian Diaz@55
+MUS001 Beginning Music Theory@Michael Zsoldos@10
+HIST07.34 Histories of Crime@David Petruccelli@1
+THEA10.65 Performeras on LatAmerStage@Analola Santana@1
+MUS59.31 Gospel Choir@Walter Cunningham@1
+MUS59.41 Handel Society@Robert Duff@1
+PHYS030 Biological Physics@Jane Hill@1
+HIST019 US Political Hist 20th Cent@Annelise Orleck@11
+MUS082 Musicology/Ethnomusicology@Kui Dong@1
+ECON016 Political Economy of Reg@John Welborn@1
+SPAN001 Spanish I@Irasema Saucedo@60
+MUS062 Advanced Study/Brass@Timothy Atherton, Patrick Kennelly, Edward Carroll@1
+HIST07.33 Reading Lincoln@Leslie Butler@1
+PORT020 Portuguese Speaking World@Carlos Cortez Minchillo@1
+MUS086 Other Special Studies@Kui Dong@1
+PHYS07.07 Nanotechnology and Society@Martin Wybourne@1
+HIST25.03 US & the World since 1945@Edward Miller@1
+SPAN033 Argentine Civilization@Raul Bueno@1
+ECON029 Intl Fin & Open-Econ Macro@Yang Jiao@10
+ASTR015 Stars & the Milky Way@Elisabeth Newton@1
+MUS50.33 Jazz Improvisation@Frederick Haas@1
+ECON087 Senior Thesis@James Feyrer@1
+SPAN035 Studies Span-Am Lit&Culture@Raul Bueno@1
+MUS104 Computer Music Composition@Seth Woods@1
+PHYS07.06 The Origin of the Universe@Yorke Brown@1
+HIST8.08 Horse History@Pamela Crossley@1
+SPAN002 Spanish II@Paul Carranza@59
+MUS50.12 Chamber Music@Marcia Cassidy, Gregory Hayes@1
+ECON029 Intl Fin & Open-Econ Macro@Yang Jiao@10
+HIST41.02 Revolutions in the Atlantic@Pamela Voekel@1
+PHYS002 Understanding the Universe@Marcelo Gleiser@10
+ECON028 Public Economics@Jonathan Skinner@9
+MUS50.22 Contemporary Music@Amy Garapic@1
+PHYS001 UnderstandingUniverse w/Lab@Marcelo Gleiser@6
+LATS008 Food History@Matthew Garcia@1
+SPAN023 Argentine Culture:ContmpryI@Raul Bueno@1
+MUS138 Directed Research II@Michael Casey@1
+ASCL64.04 Christianity in Korea@Soyoung Suh@1
+ECON039 International Trade@William Johnson@24
+REL32.01 Christianity in Korea@Soyoung Suh@1
+ECON085 Independ Study in Economics@James Feyrer@1
+ASTR117 Interstellar Astrophysics@Hans-Reinhard Mueller@1
+SPAN002 Spanish II@Gema Mayo-Prada@59
+PHYS076 Methods Experimental Phys@Kevin Wright@1
+CHEM263 Bioinorganic Chemistry@Dean Wilcox@1
+MUS59.32 Gospel Choir@Walter Cunningham@1
+HIST96.25 WWII in the Pacific 1931-45@Jennifer Miller@1
+FREN55.04 India in French Imagination@Faith Beasley@1
+HIST078 Christianity in Korea@Soyoung Suh@1
+ECON085 Independ Study in Economics@James Feyrer@1
+PORT002 Portuguese II@Rodolfo Franconi@1
+PHYS106 Electromagnetic Theory II@Barrett Rogers@1
+SPAN002 Spanish II@Natalia Monetti@59
+PHYS072 Intro Particle Physics@Devin Walker@2
+MUS060 Advanced Study/Keyboard@Diane Belcher, Frederick Haas, Sally Pinkas, Gregory Hayes@1
+WRIT07.22 Technology and Sport@Rachel Obbard@1
+CHEM051 Organic Chemistry(Laboratory)@Catherine Welder@18
+CHEM058 Honors Organic Chemistry(Laboratory)@Catherine Welder@8
+QBS193 Independent Study Journal Club(Discussion)@Kristine Giffin@1
+MATH023 Differential Equations@Marisabel Rodriguez Messan@10
+MATH024 Linear Algebra@Thomas Shemanske@7
+MATH023 Differential Equations@Yoonsang Lee@10
+CHEM041 Biological Chemistry(Laboratory)@Margaret Carpenter@4
+CHEM091 Topics in Adv Inorganic Chem@David Glueck@1
+ARAB003 First Yr Courses in Arabic@El Mostafa Ouajjani@3
+PEMM128 Enterprise Experience Intern@Todd Miller@1
+MUS59.53 Symphony Orchestra@Filippo Ciabatti@1
+MUS061 Advanced Study/Woodwinds@Neil Boyer, Rachel Braude, Jan Halloran, Michael Zsoldos, Janet Polk, Frederick Haas@1
+MUS52.01 Conducting&Artist Direction@Filippo Ciabatti@1
+MUS59.51 Symphony Orchestra@Filippo Ciabatti@1
+CHEM051 Organic Chemistry(Laboratory)@Catherine Welder@18
+THEA10.08 Creativity & Collaboration@Daniel Kotlowitz, Melinda Evans@1
+MUS56.03 IIP Strings 3@Marcia Cassidy, Karl Doty, Jason Ennis, Miki Sophia Cloud, John Muratore, John Dunlop@1
+MUS54.03 IIP Woodwinds 3@Neil Boyer, Rachel Braude, Jan Halloran, Michael Zsoldos, Janet Polk, Frederick Haas@1
+MUS53.02 IIP Keyboards 2@Diane Belcher, Frederick Haas, Sally Pinkas, Gregory Hayes@1
+MUS50.31 Jazz Improvisation@Frederick Haas@1
+QBS297 Adv Grad Research in QBS I@Kristine Giffin@1
+FILM47.21 Scenes from the City@Mary Desjardins, Mona Domosh@1
+COSC024 Computer Animation@Patricia Hannaway@3
+ENGS023 Distributed Systems&Fields@B Stuart Trembly@4
+BIOL166 Molecular Basis of Cancer@Natasha Grotz@1
+PEMM137 Qualifying Exam@Hermes Yeh@1
+PHIL09.02 Environmental Ethics@James Binkoski@1
+LACS008 Transnational Central Am.@Jorge Cuellar@1
+GOVT50.08 Psychology&Intl Politics@Kathleen Powers@1
+CRWT061 SrWrkshp:CreativeWrt-NonFic@Jeffrey Sharlet@1
+REL060 Reformations@Randall Balmer, Jane Carroll, Steve Swayne@2
+COSC050 Software Design&Implement'n@David Kotz@17
+FILM032 Filmmaking II@Samantha Davidson@1
+PHIL086 Res in Phil - Ethics Minor@Sonu Bedi@1
+GOVT86.33 Wittgenstein Contempory Pol@Dale Turner@1
+ARAB003 First Yr Courses in Arabic@Jamila Chahboun@3
+ENGS022 Systems@Jason Stauth, Markus Testorf@8
+PEMM298 Thesis Research@Hermes Yeh@1
+THEA050 Playwriting I@Joseph Sutton@3
+PSYC022 Learning@Travis Todd@7
+ENGL53.08 Weird Fiction@Christian Haines@1
+TUCK001 Financial Accounting@Phillip Stocken@3
+PEMM299 Thesis Research@Hermes Yeh@1
+COSC094 Reading Course@Thomas Cormen@1
+PHIL50.28 Philosophy of Time@Peter Lewis@1
+REL41.01 Mahayana Buddhist Texts@Reiko Ohnuma@1
+BIOL043 Developmental Biology@Erik Griffin@1
+QBS123 Biostatistics Consulting Lab@Todd MacKenzie, Tor Devin Tosteson@1
+WGSS23.02 American Women in 20th C.@Annelise Orleck@1
+MUS034 Sound Art Practice@Spencer Topel@2
+THEA040 Technical Production@Jennifer Hard, Jason Merwin@1
+TUCK001 Financial Accounting@Phillip Stocken@3
+LATS037 Migrant Lives and Labor@Douglas Moody@1
+LATS098 Honors Thesis I@Matthew Garcia@1
+REL21.02 Rel&Poltcs:Ancient-Medieval@Devin Singh@1
+ENGS021 Intro to Engineering@Vicki May@23
+GOVT058 Intl Political Economy@Michael Mastanduno@4
+NAS050 Federal Indian Law@N Bruce Duthu@1
+SART029 Photography I@Christina Seely@3
+LATS025 Race & Gender in Amer Film@Desiree Garcia@1
+ENGL75.02 Climate Fiction@Alysia Garrison@1
+GOVT068 The Future of Capitalism@Douglas Irwin, James Muirhead, Charles Wheelan@3
+PSYC065 Systems Neuroscience w/Lab@Jeffrey Taube@4
+HIST028 American Women in 20th C.@Annelise Orleck@1
+FILM47.24 Race & Gender in Amer Film@Desiree Garcia@1
+FREN008 Exploring Fren Culture&Lang@Keith Walker@14
+PHIL090 Honors Program II@Samuel Levey@1
+COSC299 Full Time Thesis Research@Amit Chakrabarti@1
+PHYS139 Grad Research I:Level III@John Thorstensen@1
+ENGL07.36 Immigr Wmn Wrtng in Amer@Melissa Zeiger@1
+NAS30.17 Trickster re: mediations@Bernard Perley@1
+EARS052 Structural Geology@Leslie Sonder@1
+GEOG017 Geopolitics/3rd Wrld Devel@Patricia Lopez@6
+ENGS024 Science of Materials@Jifeng Liu, Christopher Levey@1
+BIOL095 Ind Research Biology I@Natasha Grotz@1
+ECON024 Development Economics@Paul Novosad@3
+GOVT005 International Politics@William Wohlforth@168
+QBS121 Foundation of Biostatistics II@Tor Devin Tosteson, Todd MacKenzie@1
+PSYC046 Cellular&Molecular Neurosci@Robert Maue@2
+NAS086 Independent Research in NAS@Colin Calloway@1
+THEA036 Voice for the Stage@James Rice@3
+COSC027 Projects in Digital Arts@James Mahoney@1
+GOVT81.25 Defying Convention@Lisa Baldez@1
+SPAN50.02 New Sex&Soc Id:Post-Franco@Joseph Aguado@1
+QBS108 Applied Machine Learning@Saeed HassAnpour@1
+AAAS90.01 Identity and Power@Lisa Baldez@1
+BIOL299 Grad Research II:Level III@Thomas Jack@1
+ECON024 Development Economics@Paul Novosad@3
+PEMM297 Thesis Research@Hermes Yeh@1
+THEA051 Playwriting II@Joseph Sutton@1
+LACS80.02 Identity and Power@Lisa Baldez@1
+GOVT053 International Security@Daryl Press@6
+ANTH087 Research Course@Jesse Casana@1
+CRWT021 Intermed Creative Nonfict I@Jeffrey Sharlet@1
+ECON049 Topics International Econ@Nina Pavcnik@2
+COSC127 Projects in Digital Arts@James Mahoney@1
+PHIL034 Language and Thought@Christine Thomas@2
+QBS298 Adv Grad Research in QBS II@Kristine Giffin@1
+PEMM263 Graduate Research Colloquium(Discussion)@Hermes Yeh, Michael Hoppa@1
+BIOL049 Cellular&Molecular Neurosci@Robert Maue@1
+FILM44.02 Cut and Paste Cinema@Jodie Mack@1
+ENGL52.18 Netflix & the Serial Novel@Christie Harner@1
+GOVT005 International Politics@Daryl Press@168
+FILM07.15 Women & Comedy in Film@Joanna Rapf@1
+BIOL265 Res Colloq:Micr Ecol & Env Bio@Carey Nadell@1
+HIST047 The French Revolution@Darrin McMahon@2
+COGS025 PHIL of Cognitive Science@Adina Roskies@1
+COSC200 Current Topics in Computer Sci@Devin Balkcom@1
+ANTH50.18 Anthropocene Imaginaries@Tracey Heatherington@1
+PSYC54.03 Forms of Therapy@William Hudenko@1
+QBS196 QBS Supervised Teaching@Kristine Giffin@1
+GEOG80.04 Scenes from the City@Mary Desjardins, Mona Domosh@1
+BIOL066 Molecular Basis of Cancer@Natasha Grotz@2
+COSC258 Advanced Operating Systems@Sean Smith@2
+QBS199 Grad Research in QBS III@Kristine Giffin@1
+ENGL54.04 Introduction to Aesthetics@Nirvana Tanoukhi@1
+NAS085 Independent Study in NAS@Colin Calloway@1
+HIST03.03 Europe in Age of Violence@David Petruccelli, Udi Greenberg@1
+CHEM087 UG Investigation in Chem@Dean Wilcox@1
+ANTH085 Reading Course@Jesse Casana@1

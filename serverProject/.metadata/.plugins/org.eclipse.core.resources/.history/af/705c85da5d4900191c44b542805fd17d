@@ -1,0 +1,49 @@
+package dartmouthTimetableScannerServer;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.concurrent.ExecutionException;
+
+import com.google.auth.oauth2.GoogleCredentials;
+import com.google.cloud.firestore.DocumentReference;
+import com.google.cloud.firestore.Firestore;
+import com.google.cloud.firestore.WriteResult;
+import com.google.firebase.FirebaseApp;
+import com.google.firebase.FirebaseOptions;
+import com.google.firebase.cloud.FirestoreClient;
+import com.google.api.core.*;
+
+public class Database {
+	private static final String KEY_LOCATION = "dartdrop-firebase-keys.json";
+	Firestore db;
+
+	public Database() throws IOException {
+		FileInputStream serviceAccount = new FileInputStream(KEY_LOCATION);
+		
+		FirebaseOptions options = new FirebaseOptions.Builder()
+		    .setCredentials(GoogleCredentials.fromStream(serviceAccount))
+		    .setDatabaseUrl("https://dartdrop-eadff.firebaseio.com")
+		    .build();
+
+		FirebaseApp.initializeApp(options);
+		
+		this.db = FirestoreClient.getFirestore();
+	}
+	
+	public void insert(String table, String title, Map<String, Object> data) throws InterruptedException, ExecutionException {
+		DocumentReference docRef = db.collection(table).document(title);
+		ApiFuture<WriteResult> result = docRef.set(data);
+		System.out.println("Update time : " + result.get().getUpdateTime());
+	}
+	
+	public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
+		
+	}
+	
+	public static double sigmoid(double x) {
+		return (1/( 1 + Math.pow(Math.E,(-1*x))));
+	}
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="com.google.firebase.FirebaseOptions"/>
+<fullyQualifiedTypeName name="com.google.auth.oauth2.GoogleCredentials"/>
+<fullyQualifiedTypeName name="com.google.firebase.FirebaseApp"/>
+<fullyQualifiedTypeName name="com.google.api.services.storage.Storage.BucketAccessControls.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.google.firebase.messaging.FirebaseMessaging"/>
+<fullyQualifiedTypeName name="com.google.firebase.messaging.TopicManagementResponse"/>
+<fullyQualifiedTypeName name="com.google.firebase.messaging.Message"/>
+<fullyQualifiedTypeName name="com.google.api.services.storage.model.Notification"/>
+<fullyQualifiedTypeName name="com.google.firebase.messaging.Notification"/>
+<fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.PrintStream"/>
+<fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
+<fullyQualifiedTypeName name="org.jsoup.nodes.Document"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

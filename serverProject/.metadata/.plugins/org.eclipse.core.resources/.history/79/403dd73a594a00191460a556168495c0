@@ -1,0 +1,55 @@
+package dartmouthTimetableScannerServer;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+import com.google.auth.oauth2.GoogleCredentials;
+import com.google.firebase.FirebaseApp;
+import com.google.firebase.FirebaseOptions;
+import com.google.firebase.messaging.FirebaseMessaging;
+import com.google.firebase.messaging.FirebaseMessagingException;
+import com.google.firebase.messaging.Message;
+import com.google.firebase.messaging.Notification;
+
+/**
+ * Push notification server via. Google Firebase.
+ * Includes methods to specifically target a topic or individual client.
+ * Quick note: if topic oriented push notifs are too high latency, recommend
+ * switching to individualized notifying
+ *  
+ * @author John McCambridge
+ */
+
+public class Push {
+	private static final String KEY_LOCATION = "dartdrop-firebase-keys.json";
+	
+	public Push() throws IOException {
+		FileInputStream serviceAccount = new FileInputStream(KEY_LOCATION);
+		
+		// Initialize Firebase
+		FirebaseOptions options = new FirebaseOptions.Builder()
+		    .setCredentials(GoogleCredentials.fromStream(serviceAccount))
+		    .setDatabaseUrl("https://dartdrop-eadff.firebaseio.com")
+		    .build();
+
+		FirebaseApp.initializeApp(options);		
+	}
+	
+	// always call this method fully, never partially
+	public void send(String topic, String title, String msg) throws FirebaseMessagingException {
+		String condition = "'weather' in topics || 'industry-tech' in topics";
+
+		// See documentation on defining a message payload.
+		Message message = Message.builder()
+		    .setNotification(new Notification(
+		        "$GOOG up 1.43% on the day",
+		        "$GOOG gained 11.80 points to close at 835.67, up 1.43% on the day."))
+		    .setCondition(condition)
+		    .build();
+		
+		String response = FirebaseMessaging.getInstance().send(message);
+		// Response is a message ID string.
+		System.out.println("Successfully sent message: " + response);
+	}
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="             &lt;/tbody&gt;&#x0A;            &lt;/table&gt;&#x0A;           &lt;/div&gt;&#x0A;          &lt;/form&gt;&lt;/td&gt;&#x0A;        &lt;/tr&gt;&#x0A;       &lt;/tbody&gt;&#x0A;      &lt;/table&gt;&lt;/td&gt;&#x0A;    &lt;/tr&gt;&#x0A;   &lt;/tbody&gt;&#x0A;  &lt;/table&gt;&#x0A; &lt;/body&gt;&#x0A;&lt;/html&gt;"/>
+			<item value="&lt;html"/>
+			<item value="&lt;html&gt;"/>
+			<item value="html"/>
+			<item value="response"/>
+			<item value="&lt;/html&gt;"/>
+			<item value="Slavery"/>
+			<item value="Reading Course"/>
+			<item value="Meredith Kelly, Christopher Keller"/>
+			<item value="https://dartdrop.000webhostapp.com/"/>
+			<item value="scanCourses"/>
+			<item value="scan"/>
+			<item value="writeOutput"/>
+			<item value="GOVT005"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="294" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="408" key="DIALOG_HEIGHT"/>
+		<item value="674" key="DIALOG_X_ORIGIN"/>
+		<item value="415" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
