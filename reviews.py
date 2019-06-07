@@ -13,7 +13,7 @@ URL = "https://www.layuplist.com/best?page="
 def main():
 
     try:
-        open("professor_reviews.txt", "r")
+        open("professor_reviews_full.txt", "r")
         print("File has already been generated!")
         return True
     except FileNotFoundError:
@@ -42,13 +42,13 @@ def main():
 
     # Obtain all the course data
 
-    for i in range(1,2):
+    for i in range(1,44):
 
         # Scrape url
         result = session_requests.get(URL + str(i), headers = dict(referer = URL))
         tree = html.fromstring(result.content)
 
-        print("Fetching partition: " + str(i) + "/51")
+        print("Fetching partition: " + str(i) + "/44")
 
         for link in tree.xpath("//a[starts-with(@href, '/course/')]"):
             address = link.get("href")
@@ -109,7 +109,7 @@ def main():
     print("Total Reviews Collected: " + str(total_reviews))
     print("=======================")
 
-    review_file = open("professor_reviews.txt", "w")
+    review_file = open("professor_reviews_full.txt", "w")
 
     for course in review_rankings.keys():
         course_reviews = review_rankings[course]
