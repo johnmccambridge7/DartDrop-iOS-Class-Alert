@@ -1,14 +1,12 @@
-from ibm_watson import ToneAnalyzerV3
-import paralleldots
 import requests
 import json
 import re
 import math
 
-API_KEY = "AIzaSyBE5sR66tiwk-TEPdIM2K18Qljv2lkNbgE"
-FILE_NAME = "professor_reviews.txt"
-FILE_RATINGS_NAME = "reviews_rating.txt"
-FILE_RAW_NAME = "reviews_rating_raw.txt"
+API_KEY = "AIzaSyDQajRqj-uuVvUzXpw4ZAAjp0VoqGF0_uU"
+FILE_NAME = "cormen.txt"
+FILE_RATINGS_NAME = "reviews_rating_cor.txt"
+FILE_RAW_NAME = "reviews_rating_raw_cor.txt"
 THRESHOLD = 0.6
 
 # fix the course ID issue in the file
@@ -106,6 +104,7 @@ def analyze_tone(prof, text):
                 joy += ((score * 10)**2) / 10 # joy factor squares for comment relative to professor
             else:
                 joy += (score) / 5 # joy factor which is not relative is diluted
+
         number_of_items += 1
 
     return (anger, joy, number_of_items)
@@ -156,7 +155,7 @@ def main():
 
             reviews[course_id][professor][0] += anger_rating
             reviews[course_id][professor][1] += joy_rating
-            reviews[course_id][professor][2] = review_no
+            reviews[course_id][professor][2] += review_no
             
             i += 1
 
