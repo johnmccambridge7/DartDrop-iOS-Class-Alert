@@ -1,12 +1,13 @@
+import time
 import requests
 import json
 import re
 import math
 
 API_KEY = "AIzaSyDQajRqj-uuVvUzXpw4ZAAjp0VoqGF0_uU"
-FILE_NAME = "cormen.txt"
-FILE_RATINGS_NAME = "reviews_rating_cor.txt"
-FILE_RAW_NAME = "reviews_rating_raw_cor.txt"
+FILE_NAME = "professor_reviews_full.txt"
+FILE_RATINGS_NAME = "professor_review_ratings_PRODUCTION.txt"
+FILE_RAW_NAME = "professor_review_ratings_PRODUCTION_RAW.txt"
 THRESHOLD = 0.6
 
 # fix the course ID issue in the file
@@ -113,6 +114,7 @@ def analyze_tone(prof, text):
     # course-id: prof -> [angry rating, joy rating, number of reviews]
 
 def main():
+    start_time = time.time()
     professor_reviews = open(FILE_NAME, "r").read().split("@")
     reviews = {}
     review_file = open(FILE_RATINGS_NAME, "w")
@@ -152,6 +154,7 @@ def main():
             print("Anger: " + str(anger_rating) + "\n")
             print("Joy: " + str(joy_rating) + "\n")
             print("\t\n")
+            print("Time Elasped Since Start: " + str(time.time() - start_time) + " seconds")
 
             reviews[course_id][professor][0] += anger_rating
             reviews[course_id][professor][1] += joy_rating
@@ -170,4 +173,5 @@ def main():
             review_file.write(str(scores[2]) + "\n")
             review_file.write("@\n")
 
+    print("\n Analysis Completed in: " + str(time.time() - start_time) + " second. \n")
 main()

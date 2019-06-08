@@ -1,0 +1,105 @@
+Fieke Fabricant
+/course/1274
+Review #0
+Anger: 4.0
+Joy: 0.9
+Fieke Fabricant
+/course/1274
+Review #1
+Anger: 6.66
+Joy: 0.38
+Fieke Fabricant
+/course/1274
+Review #2
+Anger: 0.3
+Joy: 6.8999999999999995
+Fieke Fabricant
+/course/1274
+Review #3
+Anger: 0
+Joy: 6.64
+Fieke Fabricant
+/course/1274
+Review #4
+Anger: 3.8800000000000003
+Joy: 1.0
+Fieke Fabricant
+/course/1274
+Review #5
+Anger: 0
+Joy: 2.54
+Fieke Fabricant
+/course/1274
+Review #6
+Anger: 8.2
+Joy: 0.04
+Fieke Fabricant
+/course/1274
+Review #7
+Anger: 0
+Joy: 21.14
+Fieke Fabricant
+/course/1274
+Review #8
+Anger: 0.18
+Joy: 0.02
+Kelly Mcconnell
+/course/1274
+Review #9
+Anger: 0
+Joy: 14.78
+Kelly Mcconnell
+/course/1274
+Review #10
+Anger: 0
+Joy: 13.339999999999998
+Kelly Mcconnell
+/course/1274
+Review #11
+Anger: 0
+Joy: 8.44
+Virginia E.
+/course/1274
+Review #12
+Anger: 15.8
+Joy: 0.04
+Virginia E.
+/course/1274
+Review #13
+Anger: 0
+Joy: 6.5600000000000005
+Catherine Prat
+/course/1274
+Review #14
+Anger: 0
+Joy: 2.8600000000000003
+Catherine Prat
+/course/1274
+Review #15
+Anger: 0
+Joy: 25.1
+Michael A.
+/course/1274
+Review #16
+Anger: 0
+Joy: 0
+Michael A.
+/course/1274
+Review #17
+Anger: 0.02
+Joy: 1.84
+Giacomo Mannironi
+/course/1274
+Review #18
+Anger: 0.9
+Joy: 0.1
+Giacomo Mannironi
+/course/1274
+Review #19
+Anger: 0
+Joy: 5.08
+Giampiero Bevagna
+/course/1274
+Review #20
+Anger: 0.1
+Joy: 0
