@@ -2,10 +2,11 @@ import requests
 import json
 import re
 import math
+import hashlib
 
 API_KEY = "AIzaSyDQajRqj-uuVvUzXpw4ZAAjp0VoqGF0_uU"
 FILE_NAME = "cormen.txt"
-FILE_RATINGS_NAME = "reviews_rating_cor.txt"
+FILE_RATINGS_NAME = "review_data/PRODUCTION_reviews_rating.txt"
 FILE_RAW_NAME = "reviews_rating_raw_cor.txt"
 THRESHOLD = 0.6
 
@@ -13,8 +14,8 @@ THRESHOLD = 0.6
 # number of reviews not updated
 # consider sigmoid of the differnce as the rating
 
-def sigmoid(x):
-  return 1 / (1 + math.exp(-x))
+def sigmoid(x, scale):
+  return 100 / (1 + math.exp(-(scale * x)))
 
 # will determine if a sentence is relative to a professor
 # check for prof and professor, pronouns, and the name of the professor
@@ -112,7 +113,7 @@ def analyze_tone(prof, text):
 # data-structure:
     # course-id: prof -> [angry rating, joy rating, number of reviews]
 
-def main():
+def generate_analysis():
     professor_reviews = open(FILE_NAME, "r").read().split("@")
     reviews = {}
     review_file = open(FILE_RATINGS_NAME, "w")
@@ -170,4 +171,43 @@ def main():
             review_file.write(str(scores[2]) + "\n")
             review_file.write("@\n")
 
-main()
+def normalize(review_file, output_file):
+    reviews = open(review_file, "r").read().split("@")
+
+    for review in reviews:
+        review_data = review.split("\n")
+        review_data = list(filter(None, review_data))            
+
+        if len(review_data) > 2:
+            try:
+                joy_score = float(review_data[2])
+                angry_score = float(review_data[3])
+                normalization_score = float(review_data[4])
+
+                score = rate_class(joy_score, angry_score, normalization_score)
+
+                print("Professor Rating: " + str(score))
+            except IndexError:
+                print("ERROR" + str(review_data))
+
+def rate_class(joy, angry, normalization):
+    if normalization == 0: return False
+
+    j = float(joy)  / float(normalization)
+    a = float(angry) / float(normalization)
+
+    delta_score = sigmoid(a - j, 5)
+
+    return delta_score
+
+def generate_class_code(class_name, prof):
+    class_hash = hashlib.md5(prof.encode()).hexdigest()
+    class_hash = class_hash[0:10]
+
+    return class_name + "-" + class_hash
+
+normalize("professor_review_ratings_PRODUCTION.txt", FILE_RATINGS_NAME)
+
+angry = 60
+joy = 50
+reviews = 25

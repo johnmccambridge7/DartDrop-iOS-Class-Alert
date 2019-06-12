@@ -1,0 +1,7812 @@
+Thomas Cormen
+/course/3900
+56.720000000000006
+487.5400000000001
+527
+@
+Devin Balkcom
+/course/3900
+20.66
+194.4
+329
+@
+Robert Drysdale
+/course/3900
+17.259999999999994
+147.10000000000002
+255
+@
+Vasanta Lakshmi Kommineni
+/course/3900
+2.22
+82.2
+49
+@
+Hany Farid
+/course/3900
+0.52
+65.74000000000001
+54
+@
+Prasad Jayanti
+/course/3900
+0.52
+49.120000000000005
+27
+@
+Kristen McNall
+/course/3900
+0.1
+5.0
+5
+@
+Stephen Brooks
+/course/3900
+96.62
+575.82
+518
+@
+Daryl Press
+/course/3900
+64.55999999999999
+499.82
+326
+@
+Richard Lebow
+/course/3900
+143.02000000000004
+505.88
+374
+@
+Benjamin Valentino
+/course/3900
+25.499999999999996
+467.6199999999999
+324
+@
+Jennifer Lind
+/course/3900
+108.05999999999999
+235.40000000000003
+251
+@
+Allan C.
+/course/3900
+53.00000000000001
+134.32
+159
+@
+Bridget Coggins
+/course/3900
+30.58
+138.76000000000002
+101
+@
+William Wohlforth
+/course/3900
+16.119999999999997
+78.91999999999999
+80
+@
+Thomas C.
+/course/3900
+9.64
+54.379999999999995
+53
+@
+Kathleen Powers
+/course/3900
+0.33999999999999997
+49.599999999999994
+26
+@
+Cherie Steele
+/course/3900
+6.199999999999999
+8.379999999999999
+8
+@
+Dan Reiter
+/course/3900
+0
+0.5599999999999999
+6
+@
+Andrew Shaver
+/course/3900
+0
+9.18
+6
+@
+Milan Babik
+/course/3900
+0
+13.500000000000002
+6
+@
+Andreas Bentz
+/course/3900
+124.79999999999998
+1285.0600000000002
+812
+@
+Elisabeth Curtis
+/course/3900
+100.13999999999996
+1016.6600000000002
+608
+@
+Jesse Giummo
+/course/3900
+137.26000000000002
+252.29999999999995
+297
+@
+Min Chang
+/course/3900
+233.74
+91.22000000000004
+246
+@
+Patricia Anderson
+/course/3900
+71.48
+106.16
+194
+@
+Scott E.
+/course/3900
+42.199999999999996
+165.22
+169
+@
+Wolfgang H.
+/course/3900
+20.539999999999996
+120.72
+145
+@
+Randall P.
+/course/3900
+38.58
+25.419999999999998
+108
+@
+Evelyn Gick
+/course/3900
+61.379999999999995
+54.900000000000006
+112
+@
+Katerina V.
+/course/3900
+34.83999999999999
+87.33999999999999
+102
+@
+C. Frank
+/course/3900
+11.540000000000003
+57.0
+85
+@
+Sheri L.
+/course/3900
+7.319999999999999
+136.5
+76
+@
+John Scott
+/course/3900
+36.339999999999996
+92.40000000000002
+79
+@
+Parama Chaudhury
+/course/3900
+17.58
+48.480000000000004
+46
+@
+Matias E.
+/course/3900
+19.299999999999997
+17.0
+59
+@
+C Frank Zarnowski
+/course/3900
+2.64
+56.68
+49
+@
+Annamaria Lusardi
+/course/3900
+13.34
+49.099999999999994
+26
+@
+C Frank
+/course/3900
+24.88
+84.28
+109
+@
+Naama Shenhav
+/course/3900
+15.4
+21.740000000000002
+19
+@
+James Thorson
+/course/3900
+14.68
+0.38
+14
+@
+Mirjam Tabea
+/course/3900
+0.86
+0.15999999999999998
+13
+@
+William Fischel
+/course/3900
+9.739999999999998
+1.6
+5
+@
+Robert Kleck
+/course/3900
+120.96000000000001
+299.8400000000001
+796
+@
+William Kelley
+/course/3900
+93.21999999999997
+219.07999999999998
+464
+@
+Howard Hughes
+/course/3900
+12.000000000000002
+36.12
+209
+@
+G. Christian
+/course/3900
+20.92
+70.46
+216
+@
+Ann Clark
+/course/3900
+61.919999999999995
+86.74
+203
+@
+Scott T.
+/course/3900
+31.299999999999997
+1.68
+37
+@
+Bradley Duchaine, Thalia Wheatley
+/course/3900
+0.24
+15.879999999999999
+34
+@
+Thalia Wheatley
+/course/3900
+0.66
+34.35999999999999
+79
+@
+Todd Heatherton
+/course/3900
+5.38
+49.739999999999995
+93
+@
+Kelly A.
+/course/3900
+6.6
+1.2399999999999998
+19
+@
+C. Neil
+/course/3900
+0.02
+0
+2
+@
+Peter Tse
+/course/3900
+0.18
+6.4
+4
+@
+Bradley Duchaine
+/course/3900
+0.24
+15.879999999999999
+34
+@
+Timothy Pulju
+/course/3900
+92.04
+870.78
+625
+@
+Lenore A.
+/course/3900
+32.87999999999999
+119.97999999999999
+199
+@
+Ioana Chitoran
+/course/3900
+39.98
+130.83999999999997
+147
+@
+Thomas Ernst
+/course/3900
+46.14
+181.59999999999997
+133
+@
+David Peterson
+/course/3900
+73.3
+43.07999999999999
+119
+@
+Lindsay J.
+/course/3900
+23.019999999999996
+77.32000000000001
+87
+@
+James Stanford
+/course/3900
+0.9600000000000001
+88.26000000000002
+39
+@
+Laura Mcpherson
+/course/3900
+0.48000000000000004
+27.880000000000006
+12
+@
+Laura McPherson
+/course/3900
+0.48000000000000004
+27.880000000000006
+12
+@
+Enrico Riley
+/course/3900
+23.16
+215.90000000000003
+164
+@
+Colleen Randall
+/course/3900
+22.94
+88.76
+118
+@
+Pamela Thompson
+/course/3900
+21.299999999999997
+102.82
+124
+@
+Susan Walp
+/course/3900
+18.08
+161.64
+131
+@
+Louise Hamlin
+/course/3900
+29.300000000000004
+125.53999999999999
+119
+@
+Benjamin F.
+/course/3900
+14.92
+142.41999999999996
+142
+@
+Deborah Kahn
+/course/3900
+50.12
+25.759999999999998
+51
+@
+Karolina Kawiaka
+/course/3900
+11.74
+62.32
+38
+@
+Daniel E.
+/course/3900
+51.14
+28.520000000000003
+50
+@
+Chuck Holtzman
+/course/3900
+0.13999999999999999
+35.03999999999999
+19
+@
+Charles E.
+/course/3900
+9.88
+6.44
+32
+@
+Ruth Lauer
+/course/3900
+19.18
+4.94
+28
+@
+Brenda Garand
+/course/3900
+6.58
+24.72
+20
+@
+Pahl Hluchan
+/course/3900
+0.15999999999999998
+1.64
+11
+@
+Paul Bowen
+/course/3900
+0.28
+30.68
+21
+@
+Thomas Ferrara
+/course/3900
+1.6
+12.520000000000001
+10
+@
+Jeneen Piccuirro
+/course/3900
+0.1
+10.98
+9
+@
+Gerald Auten
+/course/3900
+8.12
+16.42
+8
+@
+Ginger Levant
+/course/3900
+1.26
+0.13999999999999999
+10
+@
+Katharine Cholnoky
+/course/3900
+0.1
+8.5
+6
+@
+Marilyn J.
+/course/3900
+0
+0.13999999999999999
+3
+@
+John Wilson
+/course/3900
+0
+1.08
+3
+@
+Soo Young
+/course/3900
+3.72
+21.459999999999997
+15
+@
+Ruth Miller-Forge
+/course/3900
+0
+0.13999999999999999
+2
+@
+Francine A'Ness
+/course/3900
+0.42000000000000004
+126.52
+100
+@
+Jennifer Fluri
+/course/3900
+34.12
+84.3
+87
+@
+Phyllis Katz
+/course/3900
+18.6
+26.040000000000006
+66
+@
+Annelise Orleck
+/course/3900
+14.32
+76.46
+103
+@
+Irene Kacandes
+/course/3900
+0.5599999999999999
+63.66
+76
+@
+Michael Bronski
+/course/3900
+0
+36.62
+24
+@
+Faith Beasley
+/course/3900
+18.28
+9.84
+31
+@
+Virginia E.
+/course/3900
+23.1
+11.100000000000001
+41
+@
+Renee Bergland
+/course/3900
+1.6800000000000002
+54.99999999999999
+35
+@
+Ana Merino
+/course/3900
+25.819999999999997
+32.1
+29
+@
+Andrea Tarnowski
+/course/3900
+0.4
+17.58
+15
+@
+Giavanna Munafo
+/course/3900
+0.38000000000000006
+31.619999999999997
+24
+@
+Angela H.
+/course/3900
+0.3
+9.5
+16
+@
+Ulrike Rainer
+/course/3900
+0.1
+3.0
+6
+@
+Ivy Schweitzer
+/course/3900
+0.1
+3.6
+4
+@
+Laura L.
+/course/3900
+0.19999999999999998
+0.02
+5
+@
+Kristin O'rourke
+/course/3900
+0
+0.33999999999999997
+7
+@
+Susan Brison
+/course/3900
+2.52
+8.479999999999999
+7
+@
+Douglas Moody
+/course/3900
+8.459999999999999
+5.98
+16
+@
+Paula A.
+/course/3900
+0
+0.31999999999999995
+5
+@
+Kristin O'Rourke
+/course/3900
+0
+0.33999999999999997
+7
+@
+Marjorie Rose
+/course/3900
+232.06
+530.5400000000001
+478
+@
+James Feyrer
+/course/3900
+79.36
+581.4599999999999
+357
+@
+Avner Bar-Ilan
+/course/3900
+41.74000000000001
+252.66
+183
+@
+Massimiliano DeSantis
+/course/3900
+161.74
+176.32000000000005
+215
+@
+Annamaria Lusardi
+/course/3900
+9.720000000000002
+70.0
+54
+@
+Elisabeth Curtis
+/course/3900
+14.0
+64.47999999999999
+40
+@
+Diego Comin
+/course/3900
+19.28
+42.199999999999996
+54
+@
+Nancy Marion
+/course/3900
+0.42000000000000004
+41.06
+24
+@
+Fahri Ulusoy
+/course/3900
+2.3200000000000003
+34.26
+29
+@
+Carl M.
+/course/3900
+0
+14.879999999999999
+11
+@
+Andrew Levin
+/course/3900
+0.2
+13.260000000000002
+10
+@
+Noam Gruber
+/course/3900
+2.5
+6.88
+8
+@
+Myrna Velez
+/course/3900
+115.25999999999999
+638.0800000000002
+376
+@
+Douglas Moody
+/course/3900
+8.14
+223.92000000000002
+163
+@
+Irasema Saucedo
+/course/3900
+8.459999999999999
+136.1
+76
+@
+Natalia Barantseva
+/course/3900
+1.08
+71.24
+53
+@
+Elizabeth Chamberlain
+/course/3900
+5.720000000000001
+129.92
+64
+@
+Piers Armstrong
+/course/3900
+67.67999999999999
+11.000000000000002
+81
+@
+Maitena Gorostarzu
+/course/3900
+8.74
+15.320000000000002
+21
+@
+Alba Sanchis
+/course/3900
+4.8599999999999985
+57.739999999999995
+64
+@
+Ana M.
+/course/3900
+0.16
+41.78
+14
+@
+Carmen Bascunan
+/course/3900
+0
+42.6
+9
+@
+Rodolfo Franconi
+/course/3900
+0
+17.5
+9
+@
+Julie Lirot
+/course/3900
+0
+1.7000000000000002
+4
+@
+Paloma Asensio
+/course/3900
+0
+1.7000000000000002
+4
+@
+Natalia Monetti
+/course/3900
+9.12
+14.54
+8
+@
+Gema M.
+/course/3900
+9.58
+335.05999999999995
+247
+@
+Gladys Guzman-Bueno
+/course/3900
+13.58
+578.88
+216
+@
+Cecilia I.
+/course/3900
+34.74
+93.33999999999999
+89
+@
+Douglas Moody
+/course/3900
+15.959999999999999
+88.56000000000002
+55
+@
+Natalia Barantseva
+/course/3900
+0.36
+83.6
+51
+@
+Irasema Saucedo
+/course/3900
+3.18
+54.239999999999995
+29
+@
+Rodrigo A.
+/course/3900
+7.26
+23.36
+31
+@
+Paloma Asensio
+/course/3900
+1.22
+51.839999999999996
+29
+@
+Maria I.
+/course/3900
+0.44000000000000006
+8.499999999999998
+13
+@
+Elizabeth Chamberlain
+/course/3900
+0
+75.89999999999999
+20
+@
+Sebastian Diaz
+/course/3900
+11.52
+56.36000000000001
+30
+@
+Maitena Gorostarzu
+/course/3900
+0.16
+9.9
+13
+@
+Carmen Bascunan
+/course/3900
+0.02
+35.18
+15
+@
+Alina Sokol
+/course/3900
+0.42
+14.78
+11
+@
+Julie Lirot
+/course/3900
+0
+12.32
+10
+@
+Paul Carranza
+/course/3900
+4.9
+24.2
+11
+@
+Alba Sanchis
+/course/3900
+0.54
+13.54
+17
+@
+Israel Reyes
+/course/3900
+0
+30.979999999999997
+8
+@
+Rosa Maria
+/course/3900
+8.44
+0
+6
+@
+Xenia Markowitt
+/course/3900
+0
+0.02
+2
+@
+Jorge Quintana-navarrete
+/course/3900
+0
+16.759999999999998
+7
+@
+Kianny Antigua
+/course/3900
+30.24000000000001
+0.1
+12
+@
+Ana M.
+/course/3900
+0
+0.18
+2
+@
+Rosa Matorras
+/course/3900
+0
+2.04
+10
+@
+Ivan M.
+/course/3900
+6.4
+13.36
+10
+@
+Veronica Ingham
+/course/3900
+0
+11.88
+8
+@
+Gema Mayo-Prada
+/course/3900
+0
+17.42
+8
+@
+Jorge Quintana-Navarrete
+/course/3900
+0
+16.759999999999998
+7
+@
+Antonio Gomez
+/course/3900
+4.599999999999998
+274.72
+139
+@
+Ricardo Bardo
+/course/3900
+38.760000000000005
+137.26
+137
+@
+Paloma Asensio
+/course/3900
+18.28
+65.7
+104
+@
+Joseph Aguado
+/course/3900
+3.16
+118.00000000000001
+81
+@
+Elizabeth Chamberlain
+/course/3900
+0.54
+90.25999999999999
+55
+@
+Francine A'Ness
+/course/3900
+0.06
+182.01999999999995
+68
+@
+Ana M.
+/course/3900
+22.92
+32.019999999999996
+54
+@
+Julie Lirot
+/course/3900
+52.86
+19.28
+43
+@
+Paula A.
+/course/3900
+6.44
+30.44
+37
+@
+Robert H.
+/course/3900
+0.48
+86.56
+31
+@
+Isabel Soler-Quintana
+/course/3900
+33.12
+5.2
+21
+@
+Alina Sokol
+/course/3900
+1.78
+13.46
+15
+@
+Roberto Rey Agudo
+/course/3900
+3.02
+24.599999999999994
+16
+@
+Rosa Matorras
+/course/3900
+3.7800000000000002
+34.28
+25
+@
+Isabel Lozano-Renieblas
+/course/3900
+0.1
+9.54
+12
+@
+Rodrigo A.
+/course/3900
+2.74
+0.58
+10
+@
+Rosa Maria
+/course/3900
+3.86
+5.08
+13
+@
+Fritz Glockner
+/course/3900
+1.0
+0.8999999999999999
+17
+@
+Silvia Spitta
+/course/3900
+0
+7.4
+10
+@
+Graciela Monteagudo
+/course/3900
+0.13999999999999999
+8.9
+4
+@
+Francoise E.
+/course/3900
+0.4
+0.24
+5
+@
+Annabel Martin
+/course/3900
+0.02
+8.42
+5
+@
+Noelia Cirnigliaro
+/course/3900
+0
+10.12
+6
+@
+Juan M.
+/course/3900
+11.4
+0
+9
+@
+Carlos A.
+/course/3900
+6.44
+11.84
+6
+@
+Ana Merino
+/course/3900
+0
+4.9
+2
+@
+Eusebio Rodriguez
+/course/3900
+0.28
+4.06
+10
+@
+Israel Reyes
+/course/3900
+0.04
+11.14
+8
+@
+John Carey
+/course/3900
+134.2
+384.0
+453
+@
+Lisa Baldez
+/course/3900
+66.08000000000001
+196.32000000000005
+167
+@
+M. Anne
+/course/3900
+81.86000000000001
+169.45999999999998
+147
+@
+Jeremy Horowitz
+/course/3900
+1.8600000000000003
+86.89999999999999
+87
+@
+Shelley M.
+/course/3900
+9.02
+88.52
+48
+@
+David G.
+/course/3900
+25.26
+27.92
+59
+@
+Martin K.
+/course/3900
+11.220000000000002
+36.94
+33
+@
+Diederik Vandewalle
+/course/3900
+0.4
+26.32
+22
+@
+Dennis M.
+/course/3900
+10.96
+117.52000000000002
+114
+@
+Gladys Guzman-Bueno
+/course/3900
+0.6000000000000001
+225.72
+99
+@
+Elizabeth Chamberlain
+/course/3900
+9.52
+209.5
+92
+@
+Rosa Maria
+/course/3900
+26.160000000000004
+121.76
+72
+@
+Piers Armstrong
+/course/3900
+16.58
+83.17999999999999
+61
+@
+Paula A.
+/course/3900
+8.38
+38.739999999999995
+33
+@
+Paloma Asensio
+/course/3900
+1.6199999999999999
+60.519999999999996
+46
+@
+Julie Lirot
+/course/3900
+18.72
+15.56
+33
+@
+Joseph Aguado
+/course/3900
+0.64
+60.3
+40
+@
+Lorgia Garcia-Pena
+/course/3900
+8.66
+25.02
+17
+@
+Marsha Swislocki
+/course/3900
+0.8
+24.520000000000003
+24
+@
+Antonio Gomez
+/course/3900
+13.8
+29.56
+16
+@
+Alina Sokol
+/course/3900
+0.16
+0.56
+11
+@
+Annabel Martin
+/course/3900
+0.26
+36.099999999999994
+14
+@
+Rosa Matorras
+/course/3900
+13.74
+27.08
+16
+@
+Hugo J.
+/course/3900
+6.0200000000000005
+2.52
+12
+@
+Maria De Greiff
+/course/3900
+2.5
+28.86
+9
+@
+Beatriz Pastor
+/course/3900
+0
+15.6
+8
+@
+Francine A'Ness
+/course/3900
+0.14
+8.26
+6
+@
+Ana Merino
+/course/3900
+0.02
+0.26
+4
+@
+Maria Irene
+/course/3900
+15.18
+0.1
+10
+@
+Raul Bueno-Chavez
+/course/3900
+0
+8.1
+2
+@
+Carlos Cortez
+/course/3900
+0
+6.800000000000001
+7
+@
+Rodrigo A.
+/course/3900
+2.5
+0
+3
+@
+Alexander A.
+/course/3900
+0.12
+0.32
+6
+@
+Jose del
+/course/3900
+0
+4.9
+2
+@
+Carmen Bascunan
+/course/3900
+0
+11.7
+5
+@
+Irasema Saucedo
+/course/3900
+6.4
+10.0
+4
+@
+Lee Witters
+/course/3900
+106.45999999999997
+2078.179999999999
+1417
+@
+Brigitte Mosenthal
+/course/3900
+52.18000000000001
+343.9200000000001
+199
+@
+Anna Minardi
+/course/3900
+3.24
+292.32000000000005
+122
+@
+Annabelle Cone
+/course/3900
+17.68
+151.57999999999996
+114
+@
+Samuel Stark
+/course/3900
+42.82
+63.96000000000001
+78
+@
+Julia Viazmenski
+/course/3900
+3.58
+187.01999999999998
+81
+@
+Regine Tessier
+/course/3900
+18.880000000000003
+35.1
+43
+@
+Giuseppe Cavatorta
+/course/3900
+0.16
+68.08
+30
+@
+Fieke Fabricant
+/course/3900
+0.18
+124.1
+42
+@
+Margaret J.
+/course/3900
+18.1
+14.64
+41
+@
+Sandra Mefoude Obiono
+/course/3900
+24.68
+28.319999999999997
+25
+@
+Laure Marcellesi
+/course/3900
+8.5
+51.5
+24
+@
+Katherine Brown
+/course/3900
+9.0
+56.24000000000001
+25
+@
+Katharine Conley
+/course/3900
+1.78
+26.740000000000002
+20
+@
+Faith Beasley
+/course/3900
+0.2
+51.58
+20
+@
+Yasmine Renault
+/course/3900
+0.52
+30.080000000000002
+17
+@
+Nancy Canepa
+/course/3900
+22.18
+38.34
+34
+@
+Christopher J.
+/course/3900
+18.400000000000002
+3.2
+14
+@
+Olivia Holmes
+/course/3900
+0
+7.720000000000001
+11
+@
+Michael A.
+/course/3900
+3.7
+32.199999999999996
+20
+@
+Andrea Tarnowski
+/course/3900
+8.34
+10.260000000000002
+17
+@
+J. Kathleen
+/course/3900
+3.6
+11.58
+7
+@
+Miriam F.
+/course/3900
+0.46
+5.380000000000001
+11
+@
+Emanuel Rota
+/course/3900
+4.9
+8.52
+7
+@
+Roxana Verona
+/course/3900
+0
+25.28
+9
+@
+Giampiero Bevagna
+/course/3900
+4.0200000000000005
+6.58
+12
+@
+Mary Green
+/course/3900
+0.04
+6.74
+5
+@
+Catherine Prat
+/course/3900
+0
+8.28
+5
+@
+Loic Lerme
+/course/3900
+0
+39.18
+9
+@
+Manuele Gragnolati
+/course/3900
+0
+0.04
+2
+@
+Thatcher Hinman
+/course/3900
+0.04
+6.92
+7
+@
+Anna Maria
+/course/3900
+0
+19.799999999999997
+6
+@
+Diane-Marie Decharme
+/course/3900
+0
+11.879999999999999
+5
+@
+Ronald Shaiko
+/course/3900
+100.50000000000001
+375.66
+423
+@
+Richard Winters
+/course/3900
+105.71999999999996
+223.58
+281
+@
+Deborah Brooks
+/course/3900
+146.70000000000002
+120.27999999999999
+291
+@
+Dean Lacy
+/course/3900
+4.859999999999999
+203.15999999999997
+87
+@
+Linda Fowler
+/course/3900
+11.479999999999999
+105.44
+73
+@
+Emily Clough
+/course/3900
+64.32000000000001
+5.960000000000001
+33
+@
+Michael Herron
+/course/3900
+14.4
+9.24
+12
+@
+Jason Sorens
+/course/3900
+0.14
+53.6
+26
+@
+Jeffrey R.
+/course/3900
+8.1
+0.74
+12
+@
+Yale E.
+/course/3900
+275.36
+191.88000000000002
+433
+@
+David Bucci
+/course/3900
+77.92
+371.7200000000001
+364
+@
+Kirsten Dalrymple
+/course/3900
+2.9
+19.9
+11
+@
+Catherine Cramer
+/course/3900
+1.0
+17.14
+16
+@
+Julie Dumont
+/course/3900
+0.56
+0.06
+7
+@
+Wolfgang H.
+/course/3900
+102.52
+308.4
+330
+@
+Alan Gustman
+/course/3900
+96.58000000000001
+141.6
+243
+@
+Pascaline Dupas
+/course/3900
+33.160000000000004
+192.29999999999998
+188
+@
+Maura Doyle
+/course/3900
+11.719999999999999
+198.4
+137
+@
+Sameer Chandan
+/course/3900
+5.880000000000001
+57.980000000000004
+56
+@
+Avner Bar-Ilan
+/course/3900
+27.220000000000006
+45.519999999999996
+68
+@
+Andreas Bentz
+/course/3900
+14.72
+64.42
+50
+@
+John G.
+/course/3900
+38.6
+58.56000000000001
+95
+@
+Eric Edmonds
+/course/3900
+24.42
+24.779999999999998
+37
+@
+Kathleen McGarry
+/course/3900
+2.04
+26.22
+22
+@
+Francesco Passarelli
+/course/3900
+24.879999999999995
+12.7
+22
+@
+Erzo Luttmer
+/course/3900
+19.2
+31.700000000000003
+28
+@
+Joshua Schwartzstein
+/course/3900
+12.98
+8.82
+17
+@
+Fahri Ulusoy
+/course/3900
+23.740000000000002
+4.3999999999999995
+17
+@
+Katerina V.
+/course/3900
+5.420000000000001
+2.74
+11
+@
+Christopher Snyder
+/course/3900
+5.26
+39.58
+24
+@
+Dmitry Taubinsky
+/course/3900
+3.6
+3.66
+5
+@
+Lauren Russell
+/course/3900
+0.08
+13.280000000000001
+10
+@
+Robert Drysdale
+/course/3900
+50.22
+85.92000000000002
+131
+@
+Timothy Pierson
+/course/3900
+9.28
+27.64
+64
+@
+Prasad Jayanti
+/course/3900
+0
+31.7
+14
+@
+Christopher Bailey-kellogg
+/course/3900
+0.08
+0.5
+9
+@
+Christopher Bailey-Kellogg
+/course/3900
+0.08
+0.5
+9
+@
+Anna Minardi
+/course/3900
+0.4599999999999999
+525.42
+197
+@
+Fieke Fabricant
+/course/3900
+32.04
+142.44
+155
+@
+Giuseppe Cavatorta
+/course/3900
+9.999999999999998
+164.76
+120
+@
+Brigitte Mosenthal
+/course/3900
+4.279999999999999
+171.65999999999997
+85
+@
+Regine Tessier
+/course/3900
+16.08
+45.900000000000006
+49
+@
+Maud Alpi
+/course/3900
+0.2
+81.91999999999999
+42
+@
+Jean M.
+/course/3900
+0.56
+42.38
+38
+@
+Aimee Kilbane
+/course/3900
+0.24000000000000002
+63.099999999999994
+33
+@
+Nancy Canepa
+/course/3900
+7.780000000000001
+29.119999999999997
+32
+@
+Amandine Poivre
+/course/3900
+3.58
+19.18
+32
+@
+Julia Viazmenski
+/course/3900
+0
+36.6
+25
+@
+Marco Ruffini
+/course/3900
+7.6
+42.68
+22
+@
+Eleonora Stoppino
+/course/3900
+1.1600000000000001
+22.7
+21
+@
+Thatcher Hinman
+/course/3900
+0.30000000000000004
+14.82
+11
+@
+Kelly Mcconnell
+/course/3900
+0
+61.21999999999999
+25
+@
+Virginia E.
+/course/3900
+15.8
+6.6000000000000005
+14
+@
+Catherine Prat
+/course/3900
+0
+27.96
+10
+@
+Michael A.
+/course/3900
+0.02
+1.84
+7
+@
+Giacomo Mannironi
+/course/3900
+0.9
+5.18
+6
+@
+Giampiero Bevagna
+/course/3900
+0.1
+0
+2
+@
+Katherine Brown
+/course/3900
+0
+0.48
+4
+@
+Kieran Murphy
+/course/3900
+3.0
+13.26
+11
+@
+Yasmine Renault
+/course/3900
+0.12
+8.36
+11
+@
+Surian C.
+/course/3900
+0.06
+6.5600000000000005
+4
+@
+Julie Delamard
+/course/3900
+0
+1.1
+5
+@
+Emanuel Rota
+/course/3900
+0.16
+6.5600000000000005
+6
+@
+Kelly McConnell
+/course/3900
+0
+61.21999999999999
+25
+@
+Anna Maria
+/course/3900
+0.08
+16.7
+8
+@
+Peter Robbie
+/course/3900
+3.24
+120.75999999999999
+167
+@
+Eugene Korsunskiy
+/course/3900
+0.06
+59.44
+48
+@
+C. Dwight
+/course/3900
+65.57999999999998
+189.04
+264
+@
+Vladimir Chernov
+/course/3900
+26.2
+234.83999999999997
+196
+@
+Scott Pauls
+/course/3900
+196.99999999999997
+63.35999999999999
+192
+@
+Thomas Shemanske
+/course/3900
+6.58
+125.61999999999999
+95
+@
+Marcia Groszek
+/course/3900
+12.3
+128.32000000000002
+211
+@
+Ryan Daileda
+/course/3900
+1.86
+67.88
+74
+@
+Dana Williams
+/course/3900
+5.5600000000000005
+105.56
+87
+@
+Joseph R.
+/course/3900
+1.2200000000000002
+66.32
+66
+@
+John Voight
+/course/3900
+3.66
+82.88
+50
+@
+Craig Sutton
+/course/3900
+4.0
+59.92
+55
+@
+Johannes van
+/course/3900
+0.26
+49.43999999999999
+34
+@
+Mitsuo Kobayashi
+/course/3900
+3.5800000000000005
+29.499999999999993
+45
+@
+Tsvetelina Petkova
+/course/3900
+0.9600000000000001
+19.259999999999998
+18
+@
+Alexander Barnett
+/course/3900
+0.16
+9.980000000000002
+14
+@
+Warren Lord
+/course/3900
+42.919999999999995
+4.1
+24
+@
+Ian Adelstein
+/course/3900
+0
+8.1
+2
+@
+Olivia Prosper
+/course/3900
+0.06
+6.94
+6
+@
+Sergi Elizalde
+/course/3900
+0.08
+16.2
+6
+@
+Rosa Orellana
+/course/3900
+26.619999999999997
+207.52
+124
+@
+Faun C.
+/course/3900
+33.82
+68.24
+73
+@
+Owen Dearricott
+/course/3900
+49.919999999999995
+26.980000000000004
+78
+@
+Geoffrey W.
+/course/3900
+15.74
+36.7
+74
+@
+Alexander N.
+/course/3900
+3.2
+11.76
+31
+@
+Vladimir Chernov
+/course/3900
+28.5
+66.78
+47
+@
+Thomas Shemanske
+/course/3900
+11.54
+52.24000000000001
+50
+@
+Erik R.
+/course/3900
+4.74
+46.39999999999999
+43
+@
+Craig Sutton
+/course/3900
+13.120000000000001
+15.12
+26
+@
+Joseph R.
+/course/3900
+0.12
+22.619999999999997
+14
+@
+John Trout
+/course/3900
+11.040000000000001
+3.7600000000000002
+10
+@
+C. Dwight
+/course/3900
+0.6199999999999999
+15.839999999999998
+29
+@
+Nathan C.
+/course/3900
+10.44
+0.78
+18
+@
+Martin Arkowitz
+/course/3900
+0.08
+11.32
+15
+@
+Aldo J.
+/course/3900
+0
+1.8
+4
+@
+Carolyn Gordon
+/course/3900
+0.3
+0.36
+10
+@
+David I.
+/course/3900
+3.8200000000000003
+4.9
+6
+@
+Constantin D.
+/course/3900
+0.04
+3.3200000000000003
+8
+@
+Amir Barghi
+/course/3900
+6.5600000000000005
+21.56
+14
+@
+Daniel R.
+/course/3900
+0.16
+13.240000000000002
+10
+@
+Martin Tassy
+/course/3900
+0.22
+14.620000000000001
+15
+@
+Stephanie A.
+/course/3900
+0
+0.1
+5
+@
+David Webb
+/course/3900
+0
+16.3
+4
+@
+Sean McGuinness
+/course/3900
+3.7800000000000002
+5.220000000000001
+8
+@
+Johanna Franklin
+/course/3900
+0
+0.24
+3
+@
+Vardayani Ratti
+/course/3900
+0
+18.880000000000003
+7
+@
+Dana Williams
+/course/3900
+0
+5.4
+6
+@
+Hafiz F.
+/course/3900
+1.1800000000000002
+77.94
+80
+@
+Samuel Stark
+/course/3900
+40.2
+186.9
+186
+@
+J. Kathleen
+/course/3900
+2.4400000000000004
+101.48
+80
+@
+Annabelle Cone
+/course/3900
+27.080000000000002
+144.38
+82
+@
+Michael A.
+/course/3900
+18.080000000000002
+29.379999999999995
+50
+@
+Virginia E.
+/course/3900
+3.0600000000000005
+56.88
+37
+@
+Ioana Chitoran
+/course/3900
+14.459999999999999
+28.84
+41
+@
+Regine Tessier
+/course/3900
+12.5
+25.52
+31
+@
+Keith Walker
+/course/3900
+5.5200000000000005
+80.68
+54
+@
+Laure Marcellesi
+/course/3900
+0.62
+57.04
+34
+@
+Brigitte Mosenthal
+/course/3900
+19.660000000000004
+43.620000000000005
+30
+@
+Aimee Kilbane
+/course/3900
+0
+45.559999999999995
+18
+@
+Anna Minardi
+/course/3900
+14.620000000000001
+50.36
+36
+@
+Kelly Mcconnell
+/course/3900
+0.18
+31.759999999999998
+17
+@
+Graziella Parati
+/course/3900
+0.3
+14.62
+9
+@
+Andrea Tarnowski
+/course/3900
+0
+22.28
+17
+@
+Margaret J.
+/course/3900
+0.12
+16.299999999999997
+6
+@
+Giuseppe Cavatorta
+/course/3900
+0
+9.379999999999999
+8
+@
+Emanuel Rota
+/course/3900
+0.04
+8.42
+7
+@
+David P.
+/course/3900
+0
+0.33999999999999997
+3
+@
+Roxana Verona
+/course/3900
+0
+3.6
+2
+@
+Lynn Higgins
+/course/3900
+0
+0.12
+3
+@
+Mario Moroni
+/course/3900
+11.3
+0.18
+4
+@
+Julia Viazmenski
+/course/3900
+0
+8.2
+5
+@
+Anna Maria
+/course/3900
+0.2
+8.719999999999999
+7
+@
+Christopher J.
+/course/3900
+0.02
+0.1
+5
+@
+Eleonora Stoppino
+/course/3900
+0
+6.5600000000000005
+3
+@
+Kelly McConnell
+/course/3900
+0.18
+31.759999999999998
+17
+@
+James Rice
+/course/3900
+7.219999999999998
+295.4600000000001
+424
+@
+Carol Dunne
+/course/3900
+1.28
+91.84000000000002
+65
+@
+Mara Sabinson
+/course/3900
+4.28
+9.44
+24
+@
+James Horton
+/course/3900
+0
+17.24
+14
+@
+Gary Cherniakhovsky
+/course/3900
+0
+10.139999999999999
+7
+@
+Michael Herron
+/course/3900
+74.68000000000002
+320.75999999999993
+240
+@
+Joseph Bafumi
+/course/3900
+76.34
+104.16
+120
+@
+Robert W.
+/course/3900
+28.700000000000003
+65.38
+71
+@
+Matthew J.
+/course/3900
+44.5
+11.72
+75
+@
+David Cottrell
+/course/3900
+0.5800000000000001
+37.02
+31
+@
+Emily Clough
+/course/3900
+9.98
+8.719999999999999
+25
+@
+Yusaku Horiuchi
+/course/3900
+0.56
+15.999999999999998
+22
+@
+Brendan Nyhan
+/course/3900
+0
+16.339999999999996
+5
+@
+William Leblanc
+/course/3900
+7.300000000000001
+0.1
+5
+@
+Jeremy Ferwerda
+/course/3900
+0.02
+9.96
+6
+@
+Allan C.
+/course/3900
+1.08
+0.16
+7
+@
+Constantine J.
+/course/3900
+0.1
+0.27999999999999997
+5
+@
+John Campbell
+/course/3900
+33.28
+774.04
+538
+@
+Douglas Goodman
+/course/3900
+0.16
+8.62
+8
+@
+Christina Gomez
+/course/3900
+0.9
+25.68
+9
+@
+Kimberly Rogers
+/course/3900
+4.199999999999999
+7.48
+8
+@
+Janine Scheiner
+/course/3900
+123.28000000000003
+546.4999999999999
+401
+@
+Abigail A.
+/course/3900
+30.21999999999999
+333.38
+226
+@
+Candice M.
+/course/3900
+35.18000000000001
+65.82
+130
+@
+Margaret Funnell
+/course/3900
+15.04
+164.87999999999997
+133
+@
+Heather N.
+/course/3900
+20.0
+3.9800000000000004
+18
+@
+William Hudenko
+/course/3900
+0.08
+6.58
+4
+@
+James M.
+/course/3900
+30.679999999999996
+109.52000000000002
+196
+@
+James Aronson
+/course/3900
+122.32000000000001
+124.44
+185
+@
+Michael Poage
+/course/3900
+12.88
+88.4
+79
+@
+Meredith Kelly
+/course/3900
+10.16
+105.27999999999999
+103
+@
+Edward Meyer
+/course/3900
+0.1
+0.12
+4
+@
+Ryan Daileda
+/course/3900
+18.0
+91.02
+81
+@
+Alexander N.
+/course/3900
+0.88
+40.46
+42
+@
+Daniel Rockmore
+/course/3900
+7.119999999999999
+28.760000000000005
+49
+@
+Meera Mainkar
+/course/3900
+0.7600000000000001
+1.7400000000000002
+26
+@
+David Webb
+/course/3900
+13.54
+32.42
+36
+@
+Rebecca Weber
+/course/3900
+0.32
+22.5
+18
+@
+Dana Williams
+/course/3900
+4.54
+2.18
+23
+@
+Alison C.
+/course/3900
+5.12
+1.08
+10
+@
+Scott Pauls
+/course/3900
+26.140000000000004
+1.1600000000000001
+14
+@
+Martin Arkowitz
+/course/3900
+6.140000000000001
+15.34
+24
+@
+Alexander Barnett
+/course/3900
+19.24
+16.64
+46
+@
+James E.
+/course/3900
+0.62
+0.08
+10
+@
+Lee J.
+/course/3900
+1.8
+53.980000000000004
+20
+@
+Johannes van
+/course/3900
+0.02
+13.059999999999999
+14
+@
+Rosa Orellana
+/course/3900
+0
+16.74
+5
+@
+John Trout
+/course/3900
+0.08
+0.28
+5
+@
+Annalies Z.
+/course/3900
+0.18
+0
+2
+@
+Jeffrey A.
+/course/3900
+0.18
+3.64
+7
+@
+Carolyn Gordon
+/course/3900
+105.82
+96.45999999999998
+212
+@
+Martin Arkowitz
+/course/3900
+65.4
+126.61999999999998
+214
+@
+Scott Pauls
+/course/3900
+109.12
+193.00000000000003
+265
+@
+Geoffrey W.
+/course/3900
+55.53999999999999
+115.02
+186
+@
+Vincent Vatter
+/course/3900
+19.46
+186.52
+164
+@
+Rebecca Weber
+/course/3900
+22.139999999999997
+69.19999999999999
+134
+@
+Gregory Leibon
+/course/3900
+38.50000000000001
+75.44
+113
+@
+Stephanie A.
+/course/3900
+7.899999999999999
+112.02000000000001
+84
+@
+Robert K.
+/course/3900
+23.220000000000006
+50.900000000000006
+85
+@
+Meera Mainkar
+/course/3900
+63.12
+39.60000000000001
+92
+@
+Thomas Shemanske
+/course/3900
+7.0200000000000005
+89.61999999999999
+66
+@
+Carl Pomerance
+/course/3900
+20.68
+29.819999999999997
+43
+@
+James E.
+/course/3900
+31.48
+12.760000000000002
+62
+@
+Marius Ionescu
+/course/3900
+8.48
+57.480000000000004
+54
+@
+Dana Williams
+/course/3900
+4.280000000000001
+47.48000000000001
+66
+@
+John Trout
+/course/3900
+10.52
+28.18
+29
+@
+Vladimir Chernov
+/course/3900
+0.02
+23.96
+22
+@
+Elizabeth Tripp
+/course/3900
+8.18
+67.11999999999999
+27
+@
+Asa Levi
+/course/3900
+0
+14.759999999999998
+8
+@
+Adrianna Gillman
+/course/3900
+8.799999999999999
+0.12000000000000001
+12
+@
+Angelica Babei
+/course/3900
+5.24
+0
+5
+@
+Constantin D.
+/course/3900
+0.14
+0.98
+5
+@
+Justin Troyka
+/course/3900
+0.9
+0.72
+6
+@
+Andrew Yang
+/course/3900
+1.6800000000000002
+8.559999999999999
+12
+@
+John Bourke
+/course/3900
+0
+6.6000000000000005
+5
+@
+Jonathan Bloom
+/course/3900
+0
+8.9
+3
+@
+Bjoern Muetzel
+/course/3900
+0
+0.24000000000000002
+4
+@
+Dorin Dumitrascu
+/course/3900
+0
+0.5599999999999999
+12
+@
+Debopam Bhattacharya
+/course/3900
+197.69999999999996
+177.94000000000003
+336
+@
+Patricia Anderson
+/course/3900
+113.20000000000002
+109.48000000000003
+241
+@
+Amitabh Chandra
+/course/3900
+23.88
+141.8
+131
+@
+Yusuf S.
+/course/3900
+22.3
+83.02
+89
+@
+Mitali Das
+/course/3900
+89.16
+5.379999999999999
+42
+@
+Kasey S.
+/course/3900
+2.38
+15.86
+25
+@
+Ethan Lewis
+/course/3900
+4.34
+98.08
+67
+@
+Dietrich Vollrath
+/course/3900
+1.24
+6.859999999999999
+16
+@
+Jason M.
+/course/3900
+0.1
+8.28
+4
+@
+Michael Herron
+/course/3900
+5.14
+7.300000000000001
+12
+@
+Taryn Dinkelman
+/course/3900
+1.8800000000000003
+13.32
+11
+@
+James Murphy
+/course/3900
+145.36000000000004
+110.07999999999998
+324
+@
+Lucas Swaine
+/course/3900
+60.499999999999986
+350.24
+318
+@
+Nelson Kasfir
+/course/3900
+80.1
+135.90000000000003
+229
+@
+Michelle Clarke
+/course/3900
+3.72
+70.11999999999999
+41
+@
+Angelia Means
+/course/3900
+0
+13.520000000000001
+13
+@
+Graeme A.
+/course/3900
+0.24
+7.76
+7
+@
+Russell Muirhead
+/course/3900
+0.4
+18.740000000000002
+8
+@
+Henry Clark
+/course/3900
+0.1
+6.88
+10
+@
+James LaBelle
+/course/3900
+106.82
+1124.12
+801
+@
+Robyn Millan
+/course/3900
+191.5
+190.14
+280
+@
+Alexander Rimberg
+/course/3900
+60.32
+79.98
+124
+@
+Delo E.
+/course/3900
+14.7
+73.64
+58
+@
+Miles Blencowe
+/course/3900
+1.44
+35.14000000000001
+58
+@
+James Whitfield
+/course/3900
+106.08
+8.58
+72
+@
+John Thorstensen
+/course/3900
+8.879999999999999
+28.64
+68
+@
+Mary Hudson
+/course/3900
+23.84
+21.22
+53
+@
+Robert Caldwell
+/course/3900
+1.8
+20.06
+15
+@
+James Labelle
+/course/3900
+106.82
+1124.12
+801
+@
+Gary Wegner
+/course/3900
+0.16
+0.22
+5
+@
+John Collier
+/course/3900
+21.080000000000002
+175.24
+412
+@
+William Lotko
+/course/3900
+17.859999999999996
+39.839999999999996
+121
+@
+Ian Baker
+/course/3900
+1.52
+20.760000000000005
+64
+@
+Robert D.
+/course/3900
+0.1
+8.32
+27
+@
+Ulrike Wegst
+/course/3900
+0.13999999999999999
+13.819999999999999
+12
+@
+Vicki May
+/course/3900
+0
+8.1
+2
+@
+Simon Shepherd
+/course/3900
+31.22
+264.99999999999994
+227
+@
+Petra Taylor
+/course/3900
+6.2
+64.88
+46
+@
+Linda F.
+/course/3900
+0.16
+0.18
+6
+@
+Frederic Leblond
+/course/3900
+0.06
+25.279999999999998
+18
+@
+John Thorstensen
+/course/3900
+86.69999999999997
+486.66000000000014
+469
+@
+Robert Fesen
+/course/3900
+59.480000000000004
+389.42
+276
+@
+Cassandra G.
+/course/3900
+186.33999999999997
+113.62
+237
+@
+Robyn Millan
+/course/3900
+12.759999999999998
+141.86000000000004
+194
+@
+Gary Wegner
+/course/3900
+111.31999999999998
+37.6
+174
+@
+Alexander Rimberg
+/course/3900
+89.38000000000001
+10.8
+137
+@
+Brian Chaboyer
+/course/3900
+21.380000000000003
+25.86
+56
+@
+Timothy Smith
+/course/3900
+32.52
+45.019999999999996
+65
+@
+David S.
+/course/3900
+15.66
+67.25999999999999
+66
+@
+Yorke Brown
+/course/3900
+18.84
+58.919999999999995
+69
+@
+Roberto Onofrio
+/course/3900
+7.7
+37.519999999999996
+46
+@
+Jeremy Ouellette
+/course/3900
+0
+29.479999999999997
+9
+@
+Douglas Irwin
+/course/3900
+29.8
+681.3799999999997
+398
+@
+Nina Pavcnik
+/course/3900
+3.2600000000000007
+199.3
+138
+@
+Parama Chaudhury
+/course/3900
+29.700000000000003
+50.54
+78
+@
+David Allen
+/course/3900
+11.36
+12.439999999999998
+17
+@
+Robert Staiger
+/course/3900
+14.299999999999999
+10.379999999999999
+20
+@
+Francesco Passarelli
+/course/3900
+8.36
+0
+5
+@
+Jesse Giummo
+/course/3900
+454.65999999999997
+351.38000000000005
+570
+@
+David Blanchflower
+/course/3900
+466.42
+254.82
+390
+@
+Ethan Lewis
+/course/3900
+49.64000000000001
+234.78000000000006
+231
+@
+Parama Chaudhury
+/course/3900
+17.360000000000003
+92.28
+114
+@
+Sheri L.
+/course/3900
+14.520000000000001
+121.21999999999998
+85
+@
+Justine S.
+/course/3900
+101.42
+24.82
+87
+@
+Elizabeth Cascio
+/course/3900
+0.16
+44.28
+21
+@
+Simone Schaner
+/course/3900
+0.45999999999999996
+23.18
+21
+@
+Leila Agha
+/course/3900
+0.04
+30.939999999999998
+11
+@
+Jason M.
+/course/3900
+37.08
+6.840000000000001
+20
+@
+Daniel Ansari
+/course/3900
+39.2
+48.239999999999995
+97
+@
+Elise Temple
+/course/3900
+9.120000000000001
+63.86
+63
+@
+Michele Tine
+/course/3900
+13.28
+120.96000000000001
+52
+@
+Michael W.
+/course/3900
+18.62
+13.62
+19
+@
+Michelle Tine
+/course/3900
+0.16
+22.619999999999997
+6
+@
+Donna Coch
+/course/3900
+11.76
+0.1
+7
+@
+Robert Fesen
+/course/3900
+0.6
+25.42
+48
+@
+Ryan Hickox
+/course/3900
+5.4399999999999995
+40.3
+23
+@
+Rebecca Biron
+/course/3900
+10.94
+37.66
+41
+@
+Dennis Washburn
+/course/3900
+0.45999999999999996
+28.74
+23
+@
+Coleen Fox
+/course/3900
+199.82000000000002
+482.5599999999998
+621
+@
+Sharlene Mollett
+/course/3900
+75.98
+22.66
+85
+@
+Benjamin Forest
+/course/3900
+6.48
+44.66
+37
+@
+Susanne Freidberg
+/course/3900
+0.06
+0.42
+7
+@
+Patricia Lopez
+/course/3900
+0.12
+24.5
+6
+@
+Kenneth A.
+/course/3900
+93.38000000000001
+267.4
+326
+@
+Seth Dobson
+/course/3900
+46.379999999999995
+310.58
+282
+@
+Nathaniel Dominy
+/course/3900
+0.14
+69.12
+32
+@
+Debra L.
+/course/3900
+0.24
+0.6799999999999999
+11
+@
+Jeremy Desilva
+/course/3900
+0
+2.66
+10
+@
+Zaneta Thayer
+/course/3900
+0.16
+8.98
+10
+@
+Jeremy Desilva And Nathaniel Dominy
+/course/3900
+0
+0.5800000000000001
+5
+@
+Jeremy DeSilva
+/course/3900
+0
+2.66
+10
+@
+Meir Kohn
+/course/3900
+217.94
+329.86
+533
+@
+Katerina V.
+/course/3900
+70.44
+153.51999999999998
+202
+@
+Jonathan Zinman
+/course/3900
+80.9
+108.60000000000002
+232
+@
+Alan Durell
+/course/3900
+31.199999999999996
+39.32
+71
+@
+Maura Doyle
+/course/3900
+12.82
+53.94
+69
+@
+Lawrence Kreicher
+/course/3900
+0.1
+43.08
+36
+@
+Annamaria Lusardi
+/course/3900
+0.9
+15.84
+10
+@
+Dean Wilcox
+/course/3900
+81.68
+532.4600000000003
+603
+@
+Dale Mierke
+/course/3900
+172.63999999999996
+125.06000000000002
+259
+@
+F. Jon
+/course/3900
+15.94
+153.44
+213
+@
+John Winn
+/course/3900
+19.22
+207.32
+151
+@
+Jane Lipson
+/course/3900
+78.84
+117.12
+174
+@
+Robert Cantor
+/course/3900
+62.82000000000001
+72.39999999999999
+132
+@
+Fredrick Kull
+/course/3900
+51.72
+39.7
+136
+@
+Amy C.
+/course/3900
+33.32
+48.160000000000004
+88
+@
+Richard J.
+/course/3900
+21.040000000000003
+103.82
+129
+@
+Sally R.
+/course/3900
+10.98
+80.46
+89
+@
+Ekaterina Pletneva
+/course/3900
+5.460000000000001
+56.52
+46
+@
+Michael Ragusa
+/course/3900
+34.8
+25.7
+53
+@
+Frank A.
+/course/3900
+59.44
+2.68
+32
+@
+Wendy Epps
+/course/3900
+5.7
+62.599999999999994
+29
+@
+Anita Prasad
+/course/3900
+27.14
+17.799999999999997
+27
+@
+Victoria V.
+/course/3900
+17.660000000000004
+63.720000000000006
+156
+@
+Mikhail Gronas
+/course/3900
+48.03999999999999
+35.76000000000001
+160
+@
+Victoria Somoff
+/course/3900
+46.67999999999999
+131.71999999999997
+175
+@
+Lev L.
+/course/3900
+17.740000000000002
+20.88
+100
+@
+Jennifer R.
+/course/3900
+27.18
+10.339999999999998
+70
+@
+Sara L.
+/course/3900
+0.26
+49.2
+32
+@
+John W.
+/course/3900
+21.959999999999997
+6.96
+33
+@
+Lynn Patyk
+/course/3900
+0.28
+16.76
+9
+@
+Kathleen Corrigan
+/course/3900
+114.1
+112.32
+317
+@
+Steven Kangas
+/course/3900
+56.04
+176.84000000000006
+201
+@
+Ada Cohen
+/course/3900
+0.6000000000000001
+9.32
+26
+@
+Christopher S.
+/course/3900
+1.02
+23.94
+34
+@
+Andrew Campbell
+/course/3900
+2.02
+25.22
+41
+@
+Michael J.
+/course/3900
+0.9400000000000001
+31.060000000000006
+52
+@
+Kristen McNall
+/course/3900
+24.879999999999995
+1.8599999999999999
+38
+@
+Thomas Cormen
+/course/3900
+0.38000000000000006
+14.459999999999999
+24
+@
+Xia Zhou
+/course/3900
+10.319999999999999
+21.319999999999997
+23
+@
+David Kotz
+/course/3900
+51.52
+8.299999999999999
+24
+@
+Charles Palmer
+/course/3900
+45.78
+1.0
+36
+@
+Stephen P.
+/course/3900
+9.4
+7.76
+16
+@
+Russell Hughes
+/course/3900
+105.78000000000002
+790.4199999999997
+564
+@
+Peter Jacobi
+/course/3900
+3.4200000000000004
+69.28
+104
+@
+Robert B.
+/course/3900
+14.839999999999998
+34.160000000000004
+104
+@
+Jimmy Wu
+/course/3900
+15.640000000000002
+127.46000000000001
+145
+@
+David M.
+/course/3900
+14.16
+89.53999999999999
+83
+@
+Thomas A.
+/course/3900
+7.76
+30.299999999999997
+39
+@
+Gordon Gribble
+/course/3900
+0.1
+28.78
+14
+@
+Ivan Abrahamian
+/course/3900
+17.160000000000004
+14.72
+21
+@
+Mark Spaller
+/course/3900
+0.31999999999999995
+0
+4
+@
+James Aronson
+/course/3900
+72.64
+111.64000000000001
+190
+@
+Robert Hawley
+/course/3900
+24.02
+61.260000000000005
+90
+@
+Marisa Palucis And Robert Hawley
+/course/3900
+2.3400000000000003
+16.5
+18
+@
+Marisa Palucis
+/course/3900
+0.38
+0.7799999999999999
+18
+@
+George Edmondson
+/course/3900
+24.74
+242.62
+99
+@
+Barbara Will
+/course/3900
+11.6
+180.71999999999997
+112
+@
+Colleen Boggs
+/course/3900
+10.579999999999998
+75.46
+66
+@
+Peter Travis
+/course/3900
+2.8200000000000003
+63.68
+55
+@
+Jon V.
+/course/3900
+1.9600000000000004
+26.979999999999997
+35
+@
+Ivy Schweitzer
+/course/3900
+44.239999999999995
+30.199999999999996
+43
+@
+Thomas Luxon
+/course/3900
+0
+24.0
+9
+@
+Brett Gamboa
+/course/3900
+0.02
+25.879999999999995
+8
+@
+Konrad Kenkel
+/course/3900
+6.340000000000002
+74.22
+76
+@
+Christine Rinne
+/course/3900
+0.34
+50.62
+38
+@
+Irene Kacandes
+/course/3900
+15.08
+82.22
+48
+@
+Klaus Mladek
+/course/3900
+0.9
+32.58
+19
+@
+Christopher Schnader
+/course/3900
+0.54
+36.3
+23
+@
+Eric Miller
+/course/3900
+1.74
+29.18
+21
+@
+Yuliya Komska
+/course/3900
+0
+8.68
+7
+@
+Sandra Alfers
+/course/3900
+0.32
+47.5
+20
+@
+Ulrike Rainer
+/course/3900
+0.8
+32.84
+34
+@
+Bruce Duncan
+/course/3900
+1.26
+11.280000000000001
+26
+@
+Ellis Shookman
+/course/3900
+0.14
+28.78
+10
+@
+Veronika Fuechtner
+/course/3900
+0.08
+5.24
+7
+@
+Eric A.
+/course/3900
+0.04
+13.0
+8
+@
+Minh Phan
+/course/3900
+40.02
+111.82
+144
+@
+Francis E.
+/course/3900
+1.1800000000000002
+92.83999999999999
+77
+@
+Solomon Diamond
+/course/3900
+6.92
+9.6
+16
+@
+Vicki May
+/course/3900
+0.18
+14.520000000000001
+15
+@
+Douglas Van Citters
+/course/3900
+0
+11.82
+7
+@
+Faith Beasley
+/course/3900
+3.2
+123.41999999999999
+82
+@
+Annabelle Cone
+/course/3900
+17.88
+109.22
+67
+@
+J. Kathleen
+/course/3900
+21.520000000000003
+45.89999999999999
+56
+@
+Regine Tessier
+/course/3900
+43.72
+40.14
+56
+@
+Samuel Stark
+/course/3900
+1.52
+25.7
+48
+@
+Vivian Kogan
+/course/3900
+25.240000000000002
+8.66
+24
+@
+Aimee Kilbane
+/course/3900
+13.280000000000001
+17.119999999999997
+29
+@
+Margaret J.
+/course/3900
+0.6200000000000001
+17.52
+21
+@
+Christopher J.
+/course/3900
+0.14
+21.64
+23
+@
+Michael A.
+/course/3900
+0
+41.339999999999996
+18
+@
+Laure Marcellesi
+/course/3900
+0
+41.14
+11
+@
+Virginia E.
+/course/3900
+8.86
+9.06
+16
+@
+Giuseppe Cavatorta
+/course/3900
+0
+8.5
+8
+@
+Keala Jewell
+/course/3900
+0.1
+16.28
+6
+@
+Yasser Elhariry
+/course/3900
+17.0
+4.96
+6
+@
+Allen Koop
+/course/3900
+66.12
+686.3600000000001
+544
+@
+Barrett Rogers
+/course/3900
+67.74000000000001
+252.07999999999996
+481
+@
+John Thorstensen
+/course/3900
+16.060000000000002
+143.07999999999998
+126
+@
+James LaBelle
+/course/3900
+1.06
+16.759999999999998
+42
+@
+Miles Blencowe
+/course/3900
+1.06
+20.26
+13
+@
+Brian Chaboyer
+/course/3900
+6.4
+0.16
+3
+@
+Joseph BelBruno
+/course/3900
+92.44000000000003
+312.55999999999995
+250
+@
+Robert Ditchfield
+/course/3900
+90.48
+653.5800000000002
+332
+@
+David Glueck
+/course/3900
+36.7
+247.44000000000003
+225
+@
+Robert Cantor
+/course/3900
+35.07999999999999
+246.56000000000003
+165
+@
+Fernando Commodari
+/course/3900
+114.71999999999998
+21.28
+78
+@
+John Winn
+/course/3900
+7.679999999999999
+115.38
+67
+@
+Katherine Mirica
+/course/3900
+92.47999999999999
+40.839999999999996
+69
+@
+Dean Wilcox
+/course/3900
+0.8
+115.71999999999998
+51
+@
+F. Jon
+/course/3900
+0.4
+16.759999999999998
+24
+@
+Robert Fesen
+/course/3900
+0
+12.700000000000001
+8
+@
+Ryan Hickox
+/course/3900
+0
+23.220000000000002
+8
+@
+Paula A.
+/course/3900
+29.58
+11.56
+20
+@
+Joseph Aguado
+/course/3900
+1.7200000000000002
+15.059999999999999
+14
+@
+Rodolfo Franconi
+/course/3900
+2.92
+10.62
+8
+@
+Beatriz Pastor
+/course/3900
+0
+19.86
+10
+@
+Jose del
+/course/3900
+0.26
+33.86
+22
+@
+Sara Munoz Muriana
+/course/3900
+0.32
+9.74
+22
+@
+Israel Reyes
+/course/3900
+34.12
+11.1
+21
+@
+Silvia Spitta
+/course/3900
+0
+11.48
+4
+@
+Jorge Quintana-navarrete
+/course/3900
+0
+10.04
+6
+@
+Jose Del Pino
+/course/3900
+0
+8.62
+8
+@
+Piers Armstrong
+/course/3900
+0
+17.24
+6
+@
+Alina Sokol
+/course/3900
+0
+13.299999999999999
+6
+@
+Jose del Pino
+/course/3900
+0
+8.62
+8
+@
+Jorge Quintana-Navarrete
+/course/3900
+0
+10.04
+6
+@
+John Lee
+/course/3900
+21.700000000000003
+110.97999999999999
+103
+@
+Soo Young
+/course/3900
+31.6
+69.24
+76
+@
+Brenda Garand
+/course/3900
+7.160000000000001
+72.12
+67
+@
+Paul Bowen
+/course/3900
+16.44
+24.14
+24
+@
+Elizabeth A.
+/course/3900
+0
+8.24
+3
+@
+Marilyn J.
+/course/3900
+0.23999999999999996
+2.2600000000000002
+15
+@
+Chuck Holtzman
+/course/3900
+0
+8.559999999999999
+5
+@
+Matthew Burke
+/course/3900
+0
+0.3
+3
+@
+Daniel E.
+/course/3900
+0.13999999999999999
+8.34
+6
+@
+Alan Li
+/course/3900
+1.86
+53.12
+34
+@
+Zenghong Chen
+/course/3900
+0.1
+29.96
+19
+@
+Timothy Pulju
+/course/3900
+2.9200000000000004
+99.46000000000001
+53
+@
+Paul Christesen
+/course/3900
+16.5
+89.16000000000001
+72
+@
+Amanda Loud
+/course/3900
+10.899999999999999
+77.64
+44
+@
+Edward Bradley
+/course/3900
+3.64
+29.060000000000002
+23
+@
+Holly Haynes
+/course/3900
+0.26
+50.86
+23
+@
+Bryce Walker
+/course/3900
+0.1
+14.100000000000001
+9
+@
+Kevin G.
+/course/3900
+16.06
+13.5
+51
+@
+Samuel Findley
+/course/3900
+0.1
+22.66
+7
+@
+Jeremy Rutter
+/course/3900
+3.24
+22.84
+22
+@
+Mary J.
+/course/3900
+0.3
+20.58
+19
+@
+Giampiero Bevagna
+/course/3900
+0.04
+0.31999999999999995
+4
+@
+Hakan Tell
+/course/3900
+0
+0.26
+3
+@
+Emilia Barbiero
+/course/3900
+0
+8.219999999999999
+3
+@
+Jennifer Lynn
+/course/3900
+0
+8.64
+6
+@
+Elissa Faro
+/course/3900
+0.14
+0.04
+4
+@
+Katherine Kretler
+/course/3900
+5.12
+0
+4
+@
+Brice L.
+/course/3900
+0
+6.4
+3
+@
+Roberta Stewart
+/course/3900
+0
+0
+2
+@
+Joanna E.
+/course/3900
+37.08
+139.44000000000003
+184
+@
+Amy Lawrence
+/course/3900
+50.33999999999999
+89.13999999999997
+144
+@
+Mark Williams
+/course/3900
+75.80000000000001
+88.98
+156
+@
+Jodie Mack
+/course/3900
+2.3200000000000003
+40.08
+31
+@
+Jeffrey Ruoff
+/course/3900
+0.52
+55.17999999999999
+41
+@
+Joel Levine
+/course/3900
+19.539999999999996
+54.720000000000006
+72
+@
+Robert L.
+/course/3900
+0.18
+24.34
+22
+@
+Michael Herron
+/course/3900
+0.16
+1.38
+7
+@
+Kevin Peterson
+/course/3900
+8.08
+120.88
+53
+@
+Vera Palmer
+/course/3900
+1.1
+91.4
+69
+@
+Steven R.
+/course/3900
+8.859999999999998
+97.88000000000001
+98
+@
+Scott Paulin
+/course/3900
+0.18
+0.5599999999999999
+9
+@
+Richard Beaudoin
+/course/3900
+0.06
+15.319999999999999
+10
+@
+Mary Ann
+/course/3900
+0.08
+0.7599999999999999
+8
+@
+Michael Casey
+/course/3900
+0.02
+14.860000000000001
+10
+@
+Julia L.
+/course/3900
+17.68
+126.55999999999999
+98
+@
+John Crocker
+/course/3900
+4.38
+86.86
+55
+@
+Kenneth Walden
+/course/3900
+1.6800000000000002
+14.72
+14
+@
+Eugene Marshall
+/course/3900
+0
+21.48
+9
+@
+Timothy Rosenkoetter
+/course/3900
+4.9
+6.78
+7
+@
+Daniel Putnam
+/course/3900
+0
+1.34
+5
+@
+Kenny Walden
+/course/3900
+0.1
+10.6
+4
+@
+Susan Brison
+/course/3900
+0
+5.02
+4
+@
+Jonathan Skinner
+/course/3900
+22.740000000000002
+319.06
+179
+@
+Wolfgang H.
+/course/3900
+28.159999999999993
+75.63999999999999
+121
+@
+Charles Wheelan
+/course/3900
+21.520000000000003
+176.04000000000002
+132
+@
+Constantin D.
+/course/3900
+2.14
+105.46
+92
+@
+Mark Skandera
+/course/3900
+15.34
+29.04
+56
+@
+Vladimir Chernov
+/course/3900
+10.16
+55.18
+50
+@
+Louis W.
+/course/3900
+8.82
+7.16
+28
+@
+David P.
+/course/3900
+0.2
+46.36
+36
+@
+Scott Pauls
+/course/3900
+10.4
+38.35999999999999
+64
+@
+Carolyn Gordon
+/course/3900
+0.26
+14.68
+23
+@
+Robert K.
+/course/3900
+5.34
+13.62
+18
+@
+Craig Sutton
+/course/3900
+1.78
+25.939999999999998
+23
+@
+Alexander N.
+/course/3900
+7.18
+9.98
+26
+@
+Rosa Orellana
+/course/3900
+0.18
+10.52
+14
+@
+Geoffrey W.
+/course/3900
+0.9
+9.599999999999998
+14
+@
+Walter P.
+/course/3900
+155.04000000000008
+443.6800000000002
+550
+@
+Eugene Marshall
+/course/3900
+0.48
+46.27999999999999
+44
+@
+John Kulvicki
+/course/3900
+32.44
+23.060000000000002
+66
+@
+Adina Roskies
+/course/3900
+52.31999999999999
+33.04
+80
+@
+Jay C.
+/course/3900
+13.239999999999998
+491.79999999999995
+391
+@
+Nancy Marion
+/course/3900
+14.840000000000002
+104.66
+64
+@
+Andres E.
+/course/3900
+2.7800000000000002
+40.17999999999999
+30
+@
+Wayne Edwards
+/course/3900
+22.0
+24.200000000000003
+48
+@
+Matthew J.
+/course/3900
+0
+20.52
+15
+@
+Jozef G.
+/course/3900
+0
+13.4
+5
+@
+Stuart Weiner
+/course/3900
+0.22
+21.26
+9
+@
+Robert Johnson
+/course/3900
+11.3
+0
+4
+@
+Amit Chakrabarti
+/course/3900
+2.46
+63.81999999999999
+75
+@
+Afra Zomorodian
+/course/3900
+7.28
+77.32
+69
+@
+Carl Pomerance
+/course/3900
+11.62
+38.86
+48
+@
+Prasad Jayanti
+/course/3900
+15.34
+45.94
+33
+@
+Ramgopal R.
+/course/3900
+0
+0.1
+5
+@
+Peter Robbie
+/course/3900
+13.540000000000001
+9.64
+99
+@
+William J.
+/course/3900
+2.2199999999999998
+1.56
+46
+@
+Joseph Rosen
+/course/3900
+6.5200000000000005
+4.08
+16
+@
+Ehud Benor
+/course/3900
+44.58000000000002
+242.92000000000002
+302
+@
+Dale Turner
+/course/3900
+14.499999999999998
+84.4
+112
+@
+N Bruce Duthu
+/course/3900
+0.1
+34.599999999999994
+14
+@
+N. Bruce
+/course/3900
+0.04
+23.94
+16
+@
+Angela Parker
+/course/3900
+0.46
+0.64
+8
+@
+Laura Conkey
+/course/3900
+32.839999999999996
+65.38
+97
+@
+Francis Magilligan
+/course/3900
+3.0200000000000005
+55.86
+53
+@
+Laurie Grigg
+/course/3900
+37.26
+19.68
+51
+@
+Stephanie Spera
+/course/3900
+0
+0.26
+4
+@
+Roger Ulrich
+/course/3900
+44.33999999999999
+143.01999999999995
+212
+@
+Samuel Findley
+/course/3900
+47.52000000000001
+68.94000000000001
+102
+@
+James H.
+/course/3900
+37.699999999999996
+34.120000000000005
+54
+@
+Myles McDonnell
+/course/3900
+11.86
+1.1800000000000002
+10
+@
+Inger Kuin
+/course/3900
+13.12
+0.33999999999999997
+15
+@
+Timothy Peter
+/course/3900
+6.44
+0
+3
+@
+Howard Hughes
+/course/3900
+35.300000000000004
+296.15999999999997
+211
+@
+Peter Tse
+/course/3900
+96.33999999999999
+173.08
+190
+@
+Scott Pauls
+/course/3900
+45.84
+141.58
+138
+@
+Owen Dearricott
+/course/3900
+93.67999999999999
+27.860000000000003
+101
+@
+Vladimir Chernov
+/course/3900
+14.24
+140.27999999999997
+73
+@
+Mark Skandera
+/course/3900
+11.22
+46.82
+52
+@
+Dorothy Wallace
+/course/3900
+109.05999999999997
+66.08
+96
+@
+Ryan Daileda
+/course/3900
+1.7599999999999998
+61.900000000000006
+50
+@
+Alexander Barnett
+/course/3900
+6.379999999999999
+69.18
+56
+@
+Robert K.
+/course/3900
+7.159999999999999
+24.319999999999997
+38
+@
+Craig Sutton
+/course/3900
+29.000000000000004
+31.0
+64
+@
+Gabriela G.
+/course/3900
+5.24
+12.3
+14
+@
+John Trout
+/course/3900
+11.36
+28.979999999999997
+24
+@
+Johannes van
+/course/3900
+0.7
+15.779999999999998
+27
+@
+Constantin D.
+/course/3900
+0.4
+46.0
+14
+@
+Rustam Sadykov
+/course/3900
+0
+11.159999999999998
+8
+@
+Laura Petto
+/course/3900
+1.6600000000000001
+6.6000000000000005
+9
+@
+Geoffrey W.
+/course/3900
+5.640000000000001
+4.9
+10
+@
+Martin Arkowitz
+/course/3900
+0
+0.02
+2
+@
+Carolyn Gordon
+/course/3900
+0.6000000000000001
+12.04
+11
+@
+Elizabeth T.
+/course/3900
+0
+0.3
+3
+@
+Anne Gelb
+/course/3900
+0
+10.6
+5
+@
+Carl Estabrook
+/course/3900
+88.34000000000002
+183.08
+207
+@
+Jay Hull
+/course/3900
+41.68000000000001
+469.94
+334
+@
+Peter Tse
+/course/3900
+87.72000000000001
+64.42
+122
+@
+John Pfister
+/course/3900
+20.839999999999996
+136.97999999999996
+82
+@
+Tyler S.
+/course/3900
+33.63999999999999
+74.56
+107
+@
+Courtney B.
+/course/3900
+35.78
+81.3
+73
+@
+Keilah Worth
+/course/3900
+6.28
+13.58
+13
+@
+James Haxby
+/course/3900
+26.619999999999997
+1.7000000000000002
+14
+@
+Christopher Sneddon
+/course/3900
+19.819999999999997
+25.36
+137
+@
+Richard Howarth
+/course/3900
+18.880000000000003
+46.559999999999995
+115
+@
+Anne Kapuscinski
+/course/3900
+6.48
+25.259999999999998
+20
+@
+D.g. Webster
+/course/3900
+5.28
+2.7
+8
+@
+D.G. Webster
+/course/3900
+5.28
+2.7
+8
+@
+Damiano Benvegnu
+/course/3900
+0
+8.959999999999999
+17
+@
+Mona Domosh
+/course/3900
+123.65999999999998
+143.31999999999996
+173
+@
+Mark A.
+/course/3900
+11.38
+18.22
+40
+@
+Ben Gerlofs
+/course/3900
+0
+6.74
+6
+@
+Carl Pomerance
+/course/3900
+2.72
+75.25999999999999
+48
+@
+Peter Winkler
+/course/3900
+13.54
+53.7
+35
+@
+Emily B.
+/course/3900
+1.9800000000000002
+43.48
+32
+@
+Marius Ionescu
+/course/3900
+38.44
+19.54
+34
+@
+James E.
+/course/3900
+51.63999999999999
+2.1000000000000005
+42
+@
+John M.
+/course/3900
+2.3000000000000007
+29.68
+39
+@
+Mark Skandera
+/course/3900
+12.18
+18.32
+24
+@
+Owen Dearricott
+/course/3900
+58.400000000000006
+0.2
+21
+@
+Sergi Elizalde
+/course/3900
+0.06
+23.880000000000003
+19
+@
+Geoff R.
+/course/3900
+0.06
+1.94
+6
+@
+Scott Pauls
+/course/3900
+0.18
+28.380000000000003
+18
+@
+Jeffrey A.
+/course/3900
+3.9000000000000004
+0.4
+10
+@
+Juan Auli Botero
+/course/3900
+0
+11.700000000000001
+4
+@
+Joseph R.
+/course/3900
+0
+0.8400000000000001
+10
+@
+Paul A.
+/course/3900
+8.299999999999999
+0
+4
+@
+Rosa Orellana
+/course/3900
+0
+0.32
+4
+@
+Geoffrey W.
+/course/3900
+27.18
+0.13999999999999999
+9
+@
+Nathan McNew
+/course/3900
+0.04
+14.860000000000001
+8
+@
+Amir Barghi
+/course/3900
+13.139999999999999
+0.06
+8
+@
+Edward Berger
+/course/3900
+240.50000000000003
+248.8
+513
+@
+Thomas Jack
+/course/3900
+9.48
+41.82
+128
+@
+Eric J.
+/course/3900
+26.999999999999996
+16.02
+53
+@
+Rebecca Irwin
+/course/3900
+2.16
+31.780000000000005
+46
+@
+C. Robertson
+/course/3900
+7.0
+17.2
+54
+@
+Patrick Dolph
+/course/3900
+15.56
+32.44
+64
+@
+Mark McPeek
+/course/3900
+5.54
+22.740000000000002
+32
+@
+Matthew Ayres
+/course/3900
+0.06
+14.879999999999999
+11
+@
+Caitlin Pries
+/course/3900
+2.52
+8.719999999999999
+8
+@
+David Peart
+/course/3900
+38.879999999999995
+154.3
+222
+@
+Mark McPeek
+/course/3900
+56.839999999999996
+61.30000000000001
+171
+@
+Samuel Velez
+/course/3900
+102.28
+183.92000000000002
+206
+@
+Matthew Ayres
+/course/3900
+12.600000000000001
+34.339999999999996
+137
+@
+Kathryn Cottingham
+/course/3900
+31.379999999999995
+55.0
+72
+@
+Mara H.
+/course/3900
+0.26
+26.240000000000002
+24
+@
+Robert Maue
+/course/3900
+0.02
+21.36
+10
+@
+Hannah Ter Hofstede
+/course/3900
+0.13999999999999999
+23.259999999999998
+10
+@
+Hannah ter Hofstede
+/course/3900
+0.13999999999999999
+23.259999999999998
+10
+@
+Donald E.
+/course/3900
+84.72000000000001
+259.11999999999995
+285
+@
+Reiko Ohnuma
+/course/3900
+0.45999999999999996
+42.040000000000006
+35
+@
+Anna Minardi
+/course/3900
+0.02
+21.52
+10
+@
+Julia Viazmenski
+/course/3900
+0.1
+5.02
+10
+@
+Damiano Benvegnu
+/course/3900
+0
+6.8
+5
+@
+William Phillips
+/course/3900
+35.580000000000005
+112.34000000000003
+139
+@
+Cirri M.
+/course/3900
+1.02
+8.299999999999999
+6
+@
+James Binkoski
+/course/3900
+0.12000000000000001
+10.14
+17
+@
+Edward Miller
+/course/3900
+10.22
+127.70000000000002
+77
+@
+Ronald Edsforth
+/course/3900
+6.080000000000001
+26.200000000000006
+41
+@
+Lorie Loeb
+/course/3900
+0.42000000000000004
+48.5
+50
+@
+Mayumi Ishida
+/course/3900
+3.0
+32.620000000000005
+31
+@
+Devin Balkcom
+/course/3900
+0.58
+14.7
+33
+@
+William Fischel
+/course/3900
+27.119999999999997
+353.38
+400
+@
+James Thorson
+/course/3900
+1.2200000000000002
+17.84
+23
+@
+Karolina Kawiaka
+/course/3900
+7.66
+71.88000000000001
+79
+@
+Gerald Auten
+/course/3900
+0.88
+5.7
+17
+@
+John Wilson
+/course/3900
+1.8
+11.52
+8
+@
+Zenovia Toloudi
+/course/3900
+0
+16.86
+7
+@
+Roger Ulrich
+/course/3900
+6.74
+75.05999999999999
+74
+@
+Jeremy Rutter
+/course/3900
+2.7600000000000002
+93.97999999999999
+71
+@
+Brice L.
+/course/3900
+13.42
+55.02
+36
+@
+Holly Haynes
+/course/3900
+32.44
+6.54
+20
+@
+Elissa Faro
+/course/3900
+2.52
+45.36
+18
+@
+John Scott
+/course/3900
+38.940000000000005
+132.24
+213
+@
+Justine S.
+/course/3900
+9.299999999999999
+17.740000000000002
+17
+@
+Sheri L.
+/course/3900
+0.12000000000000001
+15.919999999999998
+17
+@
+Christopher Snyder
+/course/3900
+4.9399999999999995
+8.9
+14
+@
+Daryl Press
+/course/3900
+64.69999999999999
+192.06
+173
+@
+Benjamin Valentino
+/course/3900
+0.1
+7.0
+9
+@
+Nicholas Miller
+/course/3900
+0
+47.16000000000001
+17
+@
+Joseph Aguado
+/course/3900
+25.02
+51.24
+46
+@
+Alvaro Salvador
+/course/3900
+31.779999999999994
+0.16
+25
+@
+Ana Merino
+/course/3900
+0.12000000000000001
+41.300000000000004
+21
+@
+Jose del
+/course/3900
+1.06
+17.24
+17
+@
+Beatriz Pastor
+/course/3900
+0
+42.98
+17
+@
+Silvia Spitta
+/course/3900
+0.24
+8.1
+5
+@
+Rebecca Biron
+/course/3900
+0.14
+22.68
+7
+@
+Annabel Martin
+/course/3900
+0
+1.4
+5
+@
+Sebastian Diaz
+/course/3900
+2.62
+14.98
+8
+@
+Julio Ariza
+/course/3900
+0
+0.18
+3
+@
+Susanne Freidberg
+/course/3900
+50.26
+95.67999999999999
+148
+@
+Coleen Fox
+/course/3900
+5.2
+11.74
+14
+@
+Magdalena Bezanilla
+/course/3900
+0.06
+30.1
+16
+@
+Anna Minardi
+/course/3900
+0
+16.659999999999997
+7
+@
+Nancy Canepa
+/course/3900
+0.44
+16.84
+9
+@
+
+/course/3900
+0.44
+42.279999999999994
+23
+@
+Marysa Navarro
+/course/3900
+30.339999999999996
+30.82
+41
+@
+Lisa Baldez
+/course/3900
+2.7600000000000002
+51.52
+38
+@
+Felipe Arocena
+/course/3900
+0.1
+13.38
+16
+@
+Pamela Voekel
+/course/3900
+0.38
+23.459999999999997
+15
+@
+Tillman Gerngross
+/course/3900
+4.52
+100.02000000000001
+93
+@
+David A.
+/course/3900
+10.88
+0.4
+7
+@
+Deborah Garretson
+/course/3900
+3.7600000000000002
+54.980000000000004
+43
+@
+Mikhail Gronas
+/course/3900
+0.5
+46.62
+31
+@
+Jamilya Nazyrova
+/course/3900
+0.12
+22.379999999999995
+30
+@
+Alfia Rakova
+/course/3900
+0.9
+50.97999999999999
+22
+@
+Sara L.
+/course/3900
+0
+8.42
+4
+@
+Mary Lou
+/course/3900
+0.5800000000000001
+5.84
+63
+@
+Natasha Grotz
+/course/3900
+0.18
+0.74
+14
+@
+Amy Lawrence
+/course/3900
+40.2
+79.55999999999999
+115
+@
+Mary Desjardins
+/course/3900
+34.92
+69.9
+91
+@
+Mark Williams
+/course/3900
+7.86
+15.580000000000002
+42
+@
+Katerina V.
+/course/3900
+135.66
+112.07999999999998
+224
+@
+Steven Venti
+/course/3900
+12.96
+114.28
+113
+@
+Andrew Samwick
+/course/3900
+84.24
+157.98000000000002
+201
+@
+Massimiliano DeSantis
+/course/3900
+28.939999999999998
+76.46
+68
+@
+Ilias Papaioannou
+/course/3900
+0
+9.38
+8
+@
+Lawrence Kreicher
+/course/3900
+6.68
+25.239999999999995
+19
+@
+Lee Lynd
+/course/3900
+29.66
+123.38000000000001
+167
+@
+B. Stuart
+/course/3900
+23.639999999999997
+57.160000000000004
+118
+@
+Charles Sullivan
+/course/3900
+7.48
+3.5599999999999996
+30
+@
+B Stuart
+/course/3900
+0.52
+1.3600000000000003
+16
+@
+Amro Farid
+/course/3900
+21.560000000000002
+8.66
+33
+@
+Xiaojing Zhang
+/course/3900
+0.12
+5.0200000000000005
+5
+@
+Amy Gladfelter
+/course/3900
+14.4
+161.86
+127
+@
+Elizabeth Smith
+/course/3900
+9.339999999999998
+167.83999999999997
+108
+@
+Roger Sloboda
+/course/3900
+85.22
+42.3
+154
+@
+George Schaller
+/course/3900
+22.819999999999997
+39.760000000000005
+43
+@
+Bing He
+/course/3900
+8.2
+10.92
+14
+@
+Sharon Bickel
+/course/3900
+0.1
+13.0
+4
+@
+Jennifer M.
+/course/3900
+46.699999999999996
+12.7
+41
+@
+Michael Casey
+/course/3900
+0.18
+26.900000000000002
+19
+@
+Fred Haas
+/course/3900
+0.06
+7.42
+10
+@
+David Newsam
+/course/3900
+0
+2.4000000000000004
+8
+@
+Colin Calloway
+/course/3900
+0.8800000000000001
+48.620000000000005
+42
+@
+Warren G.
+/course/3900
+0
+20.78
+8
+@
+Lev L.
+/course/3900
+0.6
+63.059999999999995
+44
+@
+John Kopper
+/course/3900
+0
+13.42
+8
+@
+Richard R.
+/course/3900
+0
+16.72
+6
+@
+Patricia Anderson
+/course/3900
+14.52
+144.08
+133
+@
+Rosa Orellana
+/course/3900
+0.2
+5.4
+9
+@
+Craig Sutton
+/course/3900
+29.98
+0.18
+16
+@
+John G.
+/course/3900
+0.33999999999999997
+4.9
+6
+@
+Michael Dietrich
+/course/3900
+6.56
+20.6
+26
+@
+Mark McPeek
+/course/3900
+11.98
+32.36
+27
+@
+Ryan Calsbeek
+/course/3900
+7.540000000000001
+88.44000000000001
+45
+@
+David N.
+/course/3900
+6.6000000000000005
+0.19999999999999998
+8
+@
+Colin Calloway
+/course/3900
+5.639999999999999
+358.18
+217
+@
+Warren G.
+/course/3900
+12.3
+64.58
+68
+@
+Douglas Staiger
+/course/3900
+4.220000000000001
+158.22
+101
+@
+John Butterly
+/course/3900
+5.380000000000001
+12.56
+110
+@
+Mark Hunter
+/course/3900
+0
+0.1
+2
+@
+Nicolay Ostrau
+/course/3900
+0.28
+41.86
+23
+@
+Miles Blencowe
+/course/3900
+3.7800000000000007
+166.55999999999997
+137
+@
+Walter E.
+/course/3900
+9.080000000000002
+51.620000000000005
+39
+@
+Hans-Reinhard Mueller
+/course/3900
+0.9199999999999999
+36.16
+40
+@
+Hoyt S.
+/course/3900
+9.379999999999999
+57.540000000000006
+93
+@
+John E.
+/course/3900
+4.98
+55.660000000000004
+57
+@
+Rebecca A.
+/course/3900
+0
+11.840000000000002
+8
+@
+David Lutz
+/course/3900
+0.3
+6.680000000000001
+15
+@
+Eesha Sharma
+/course/3900
+0.33999999999999997
+0
+3
+@
+Eric Edmonds
+/course/3900
+19.64
+82.52000000000001
+114
+@
+Diana I.
+/course/3900
+2.68
+8.76
+30
+@
+Paul Novosad
+/course/3900
+37.2
+15.32
+21
+@
+Nishith Prakash
+/course/3900
+8.540000000000001
+1.7800000000000002
+13
+@
+Sandip Sukhtankar
+/course/3900
+0.08
+5.28
+7
+@
+Ryan Edwards
+/course/3900
+0.04
+8.2
+4
+@
+Roy A.
+/course/3900
+32.02
+25.62
+42
+@
+John Kulvicki
+/course/3900
+0.2
+13.08
+8
+@
+Adina Roskies
+/course/3900
+5.0
+15.1
+14
+@
+Christine Thomas
+/course/3900
+0.04
+5.2
+4
+@
+Enrico Riley
+/course/3900
+2.04
+154.81999999999996
+69
+@
+Colleen Randall
+/course/3900
+6.760000000000001
+79.16
+59
+@
+Pamela Thompson
+/course/3900
+15.100000000000001
+22.78
+43
+@
+Ruth Lauer
+/course/3900
+15.020000000000001
+24.0
+19
+@
+Daniel E.
+/course/3900
+0
+5.0600000000000005
+3
+@
+Thomas Ferrara
+/course/3900
+5.04
+6.4
+5
+@
+Benjamin F.
+/course/3900
+3.56
+35.18
+30
+@
+Thomas Ferrara
+/course/3900
+0.08
+0.28
+5
+@
+Enrico Riley
+/course/3900
+3.56
+23.62
+13
+@
+James Bohary
+/course/3900
+0.13999999999999999
+0.1
+4
+@
+Susan Walp
+/course/3900
+0
+0.18
+2
+@
+Mona Domosh
+/course/3900
+55.14
+38.61999999999999
+72
+@
+Richard Wright
+/course/3900
+0.1
+20.36
+13
+@
+Christopher Sneddon
+/course/3900
+0.18
+15.78
+11
+@
+Francis Magilligan
+/course/3900
+1.84
+0.33999999999999997
+6
+@
+Martin K.
+/course/3900
+0
+17.619999999999997
+19
+@
+Jeremy Horowitz
+/course/3900
+0
+8.52
+5
+@
+Michael Dorsey
+/course/3900
+15.499999999999998
+91.38
+87
+@
+Konrad VonMoltke
+/course/3900
+35.16
+47.26
+79
+@
+Jeffrey Taube
+/course/3900
+20.619999999999997
+17.999999999999996
+61
+@
+Ryan Yoder
+/course/3900
+3.6
+17.9
+8
+@
+Kyle Smith
+/course/3900
+0.9
+17.14
+7
+@
+Alison C.
+/course/3900
+6.7
+31.720000000000006
+24
+@
+Rachel M.
+/course/3900
+0
+40.04
+18
+@
+Jared R.
+/course/3900
+1.16
+35.18
+27
+@
+Martin E.
+/course/3900
+1.6
+14.399999999999999
+22
+@
+Mitsuo Kobayashi
+/course/3900
+0.3
+14.959999999999999
+10
+@
+Nicholas A.
+/course/3900
+7.719999999999999
+13.900000000000002
+26
+@
+Daniel R.
+/course/3900
+9.26
+12.379999999999997
+19
+@
+Oscar A.
+/course/3900
+0
+12.120000000000001
+7
+@
+Patricia Cahn
+/course/3900
+0.12000000000000001
+27.799999999999997
+12
+@
+Lauren Thompson
+/course/3900
+0
+41.539999999999985
+17
+@
+Faun C.
+/course/3900
+5.220000000000001
+8.86
+12
+@
+Elizabeth R.
+/course/3900
+14.900000000000002
+6.5600000000000005
+12
+@
+Paige Rinker
+/course/3900
+0.29999999999999993
+8.12
+6
+@
+Dana Williams
+/course/3900
+0
+5.5600000000000005
+7
+@
+Mark L.
+/course/3900
+0
+8.5
+3
+@
+Marisabel Rodriguez Messan
+/course/3900
+0.9
+3.6
+3
+@
+Thomas Shemanske
+/course/3900
+1.56
+52.8
+52
+@
+Ryan Daileda
+/course/3900
+0.54
+15.420000000000002
+15
+@
+Carl Pomerance
+/course/3900
+0.24
+10.940000000000001
+12
+@
+Stephanie A.
+/course/3900
+6.48
+0.4
+9
+@
+James Brown
+/course/3900
+32.14
+96.06
+132
+@
+Stephen Taylor
+/course/3900
+16.700000000000003
+3.4200000000000004
+36
+@
+Louise Hamlin
+/course/3900
+4.6
+68.03999999999999
+52
+@
+Ehud Benor
+/course/3900
+3.2
+62.24000000000001
+53
+@
+Georgi Alexi-Meskhishvili
+/course/3900
+0
+8.28
+5
+@
+David Wykes
+/course/3900
+22.54
+43.48
+63
+@
+Richard O.
+/course/3900
+7.24
+36.419999999999995
+80
+@
+Ross Jones
+/course/3900
+32.67999999999999
+31.72
+48
+@
+Veronika Fuechtner
+/course/3900
+10.48
+40.8
+60
+@
+Ulrike Rainer
+/course/3900
+2.72
+8.74
+15
+@
+Gerd Gemunden
+/course/3900
+0
+1.1400000000000001
+8
+@
+Klaus Mladek
+/course/3900
+0.48000000000000004
+22.759999999999998
+7
+@
+Geoffrey W.
+/course/3900
+16.8
+20.940000000000005
+80
+@
+Martin Arkowitz
+/course/3900
+2.16
+43.82
+51
+@
+David Webb
+/course/3900
+0.52
+7.179999999999999
+17
+@
+Carl Pomerance
+/course/3900
+0.06
+40.459999999999994
+15
+@
+Thomas Shemanske
+/course/3900
+0.1
+0.66
+11
+@
+Lindsay J.
+/course/3900
+6.0600000000000005
+54.42
+66
+@
+Thomas Ernst
+/course/3900
+25.1
+25.62
+56
+@
+James Stanford
+/course/3900
+9.0
+104.14000000000001
+58
+@
+Alfia Rakova
+/course/3900
+0.18
+40.5
+25
+@
+Jamilya Nazyrova
+/course/3900
+6.9
+0.76
+17
+@
+Deborah Garretson
+/course/3900
+8.28
+0.16
+7
+@
+Michael A.
+/course/3900
+0.27999999999999997
+9.200000000000001
+14
+@
+Faith Beasley
+/course/3900
+1.6600000000000001
+28.560000000000002
+19
+@
+Laure Marcellesi
+/course/3900
+0.36
+40.68
+24
+@
+J. Kathleen
+/course/3900
+17.8
+0
+6
+@
+Asya Passinsky
+/course/3900
+0.02
+22.6
+5
+@
+Carole Hillenbrand
+/course/3900
+0.12
+32.46
+17
+@
+A. Kevin
+/course/3900
+0.1
+5.260000000000001
+8
+@
+Leslie Sonder
+/course/3900
+14.959999999999999
+28.339999999999993
+57
+@
+Joseph B.
+/course/3900
+7.0
+55.7
+48
+@
+Julia Rabig
+/course/3900
+0.13999999999999999
+13.040000000000001
+6
+@
+Alexander Chee
+/course/3900
+1.62
+1.96
+9
+@
+Peter Orner
+/course/3900
+0.12
+19.4
+12
+@
+Antonio Gomez
+/course/3900
+0.16
+71.92
+35
+@
+Francine A'Ness
+/course/3900
+18.660000000000004
+50.48
+42
+@
+Hugo J.
+/course/3900
+4.0
+5.1
+10
+@
+Raul Bueno-Chavez
+/course/3900
+0
+11.540000000000001
+5
+@
+Raul Bueno
+/course/3900
+0
+11.540000000000001
+5
+@
+Brian Miller
+/course/3900
+9.08
+76.83999999999999
+62
+@
+Virginia Beahan
+/course/3900
+11.7
+51.44
+44
+@
+Celia E.
+/course/3900
+11.74
+38.14
+34
+@
+Craig S.
+/course/3900
+0
+16.2
+4
+@
+Gil Raz
+/course/3900
+44.480000000000004
+49.540000000000006
+92
+@
+Robert G.
+/course/3900
+5.08
+46.38
+35
+@
+Celia E.
+/course/3900
+0
+8.639999999999999
+5
+@
+Richard Granger
+/course/3900
+34.36
+45.6
+59
+@
+John Campbell
+/course/3900
+32.58
+220.18000000000004
+149
+@
+George Schaller
+/course/3900
+14.779999999999998
+138.66000000000003
+211
+@
+Keith Paulsen
+/course/3900
+22.660000000000004
+48.22
+50
+@
+Ulf Osterberg
+/course/3900
+7.82
+39.760000000000005
+43
+@
+Eric Hansen
+/course/3900
+19.260000000000005
+14.040000000000001
+44
+@
+Ursula J.
+/course/3900
+2.8000000000000003
+6.96
+14
+@
+B Stuart Trembly
+/course/3900
+10.18
+18.240000000000002
+18
+@
+Minh Phan
+/course/3900
+16.520000000000003
+2.8400000000000003
+26
+@
+Sean Smith
+/course/3900
+7.659999999999999
+8.1
+13
+@
+Sergey Bratus
+/course/3900
+0
+0.28
+3
+@
+Charles Palmer
+/course/3900
+0.33999999999999997
+0.24
+9
+@
+George Cybenko
+/course/3900
+8.9
+25.759999999999998
+43
+@
+Jennifer Fluri
+/course/3900
+22.08
+26.200000000000003
+43
+@
+John Pfister
+/course/3900
+28.899999999999995
+62.31999999999999
+76
+@
+David Bucci
+/course/3900
+12.64
+44.78
+73
+@
+Paul Whalen
+/course/3900
+0.48
+55.279999999999994
+57
+@
+Siobhan Robinson
+/course/3900
+39.36000000000001
+12.420000000000002
+42
+@
+Courtney B.
+/course/3900
+0.8399999999999999
+34.38
+32
+@
+Kimberly A.
+/course/3900
+0.48000000000000004
+10.64
+22
+@
+Yale E.
+/course/3900
+0.78
+0.8
+17
+@
+Howard Hughes
+/course/3900
+0
+6.640000000000001
+9
+@
+Bradley Duchaine
+/course/3900
+0
+0.7000000000000001
+5
+@
+Catherine Norris
+/course/3900
+3.7600000000000002
+16.459999999999997
+13
+@
+Giavanna Munafo
+/course/3900
+0
+25.04
+7
+@
+Rosa Orellana
+/course/3900
+4.0200000000000005
+44.739999999999995
+34
+@
+Martin Arkowitz
+/course/3900
+19.139999999999997
+31.759999999999998
+27
+@
+Christopher K.
+/course/3900
+0.04
+16.820000000000004
+16
+@
+Alexander N.
+/course/3900
+0.36
+2.86
+19
+@
+Jared R.
+/course/3900
+0.6200000000000001
+36.04
+20
+@
+Kenneth P.
+/course/3900
+0.14
+6.62
+8
+@
+Daniel Rockmore
+/course/3900
+0
+4.9
+2
+@
+Sabrina Billings
+/course/3900
+0
+0.18
+3
+@
+Benoit Roisin
+/course/3900
+7.299999999999999
+164.42000000000002
+175
+@
+Colin High
+/course/3900
+35.76
+7.0
+42
+@
+Dominic W.
+/course/3900
+0
+37.4
+24
+@
+Lee J.
+/course/3900
+5.300000000000001
+28.08
+19
+@
+Scott Pauls
+/course/3900
+2.08
+20.259999999999998
+22
+@
+Joseph R.
+/course/3900
+0.1
+2.86
+7
+@
+Daniel Rockmore
+/course/3900
+0.18
+11.3
+7
+@
+Qiang Liu
+/course/3900
+1.8800000000000001
+13.780000000000001
+19
+@
+Venkatramanan Subrahmanian
+/course/3900
+0.52
+0.06
+7
+@
+Lorenzo Torresani
+/course/3900
+1.8
+1.32
+12
+@
+Jeffrey Ruoff
+/course/3900
+4.959999999999999
+46.88
+44
+@
+Sergei Kan
+/course/3900
+0
+20.439999999999998
+12
+@
+Amy Strahler
+/course/3900
+1.4
+21.28
+36
+@
+Laura Edmondson
+/course/3900
+0.1
+19.28
+23
+@
+Wendy Weckwerth
+/course/3900
+6.779999999999999
+0
+6
+@
+Karolina Kawiaka
+/course/3900
+13.520000000000001
+0.5800000000000001
+23
+@
+Gerald Auten
+/course/3900
+0
+30.019999999999996
+15
+@
+John Wilson
+/course/3900
+2.5
+8.32
+5
+@
+Virginia Beahan
+/course/3900
+0.02
+0.48
+8
+@
+Brian Miller
+/course/3900
+7.5
+21.439999999999998
+18
+@
+Albert Erives
+/course/3900
+2.8600000000000003
+22.02
+24
+@
+Peter Travis
+/course/3900
+0.3
+21.36
+32
+@
+Brenda Silver
+/course/3900
+0.12
+4.5
+5
+@
+Lucas Swaine
+/course/3900
+0
+8.32
+4
+@
+Leslie Sonder
+/course/3900
+0.64
+1.6400000000000001
+29
+@
+James H.
+/course/3900
+34.519999999999996
+18.8
+45
+@
+Roberto Onofrio
+/course/3900
+13.5
+0.22
+12
+@
+Alexander Rimberg
+/course/3900
+0.96
+0.33999999999999997
+6
+@
+Mary-Ann Mycek
+/course/3900
+0.06
+8.6
+6
+@
+Ivy Schweitzer
+/course/3900
+0
+18.72
+9
+@
+Susan Brison
+/course/3900
+6.36
+6.58
+12
+@
+Annabel Martin
+/course/3900
+0
+8.66
+7
+@
+Barbara Will
+/course/3900
+0
+33.760000000000005
+8
+@
+Brigitte Mosenthal
+/course/3900
+0.08
+36.260000000000005
+16
+@
+William Kelley
+/course/3900
+14.16
+21.18
+53
+@
+John D.
+/course/3900
+11.44
+23.619999999999997
+37
+@
+Margaret Graver
+/course/3900
+11.76
+12.78
+19
+@
+Holly Haynes
+/course/3900
+6.5600000000000005
+21.38
+12
+@
+Antonia Syson
+/course/3900
+1.6800000000000002
+36.42
+16
+@
+Roberta Stewart
+/course/3900
+0
+0.30000000000000004
+5
+@
+Jennifer Lynn
+/course/3900
+0.14
+8.2
+5
+@
+Christopher van
+/course/3900
+0.06
+1.6
+3
+@
+Simon Shepherd
+/course/3900
+0.15999999999999998
+21.720000000000002
+10
+@
+George Trumbull
+/course/3900
+0
+29.299999999999997
+20
+@
+Cirri M.
+/course/3900
+1.0
+12.82
+9
+@
+John Kulvicki
+/course/3900
+4.8599999999999985
+164.42
+72
+@
+John R.
+/course/3900
+0.12
+33.120000000000005
+21
+@
+Ann Bumpus
+/course/3900
+1.9200000000000002
+3.66
+7
+@
+Julie Rose
+/course/3900
+0
+5.54
+6
+@
+Roberto Onofrio
+/course/3900
+5.680000000000001
+83.44000000000001
+68
+@
+John Thorstensen
+/course/3900
+8.8
+84.64
+64
+@
+Miles Blencowe
+/course/3900
+1.12
+39.940000000000005
+29
+@
+Timothy Smith
+/course/3900
+0.33999999999999997
+0
+4
+@
+Spencer Hatch
+/course/3900
+0
+7.140000000000001
+5
+@
+Neeltje Kuin
+/course/3900
+4.96
+0.5
+6
+@
+Lucas Swaine
+/course/3900
+0.9
+5.620000000000001
+11
+@
+Anthony M.
+/course/3900
+0.4
+0.04
+8
+@
+Ezzedine Fishere
+/course/3900
+3.66
+65.32
+21
+@
+James Moor
+/course/3900
+56.339999999999996
+84.98
+186
+@
+Scott Silver
+/course/3900
+5.239999999999998
+64.94
+140
+@
+Jennifer Hard
+/course/3900
+0.7000000000000001
+0.1
+10
+@
+Jason Merwin
+/course/3900
+0.92
+0.66
+9
+@
+Susan Ackerman
+/course/3900
+0.64
+49.18000000000001
+42
+@
+Ehud Benor
+/course/3900
+0
+2.66
+3
+@
+Christopher Bailey-Kellogg
+/course/3900
+25.819999999999993
+8.66
+62
+@
+Amy Lawrence
+/course/3900
+4.5
+0.02
+11
+@
+Deborah Nichols
+/course/3900
+7.460000000000001
+36.02
+63
+@
+Andrew Campbell
+/course/3900
+0.30000000000000004
+2.9
+11
+@
+Sean Smith
+/course/3900
+14.659999999999998
+0
+6
+@
+Ronald Shaiko
+/course/3900
+25.919999999999995
+72.96000000000001
+112
+@
+Devin Balkcom
+/course/3900
+11.8
+13.96
+38
+@
+Roy A.
+/course/3900
+1.3
+0.8200000000000001
+11
+@
+Christine Thomas
+/course/3900
+2.58
+67.22
+49
+@
+Eugene Marshall
+/course/3900
+2.52
+27.54
+11
+@
+Stephen P.
+/course/3900
+0.16
+12.700000000000001
+18
+@
+Fabio Pellacini
+/course/3900
+0
+8.139999999999999
+3
+@
+Lorie Loeb
+/course/3900
+3.6
+0.62
+7
+@
+James M.
+/course/3900
+0
+0.88
+11
+@
+Bill Roebuck
+/course/3900
+0.2
+7.06
+15
+@
+Jack E.
+/course/3900
+0.06
+0.12
+3
+@
+Terry Osborne
+/course/3900
+0.12000000000000001
+16.8
+20
+@
+Bill Roebuck
+/course/3900
+0
+7.08
+11
+@
+Jack E.
+/course/3900
+0
+0.31999999999999995
+3
+@
+Bill Roebuck
+/course/3900
+0.9000000000000001
+15.479999999999999
+19
+@
+Jack E.
+/course/3900
+0
+0.18
+2
+@
+Amit Chakrabarti
+/course/3900
+9.1
+84.42
+78
+@
+Peter Winkler
+/course/3900
+0.4
+0.56
+8
+@
+Roy A.
+/course/3900
+0.1
+6.5
+10
+@
+Ulf Osterberg
+/course/3900
+11.879999999999999
+0
+4
+@
+Eric Hansen
+/course/3900
+0
+0.16
+2
+@
+Sergi Elizalde
+/course/3900
+0.1
+5.0200000000000005
+7
+@
+Vincent Vatter
+/course/3900
+0.4
+0.66
+7
+@
+Francis E.
+/course/3900
+0.94
+46.34
+82
+@
+Laura Ray
+/course/3900
+18.439999999999998
+14.5
+50
+@
+Jeremy Faludi
+/course/3900
+0.1
+6.680000000000001
+6
+@
+Richard Lebow
+/course/3900
+13.0
+0
+5
+@
+Linda Fowler
+/course/3900
+0
+5.3
+6
+@
+Prasad Jayanti
+/course/3900
+0.04
+5.0
+4
+@
+Samuel Velez
+/course/3900
+5.639999999999999
+0.76
+16
+@
+Charles E.
+/course/3900
+14.7
+15.78
+27
+@
+Mark Laser
+/course/3900
+2.5
+8.679999999999998
+8
+@
+Kathryn Cottingham
+/course/3900
+1.6400000000000001
+9.599999999999998
+30
+@
+Matthew Ayres
+/course/3900
+6.22
+1.94
+27
+@
+Jeremy Rutter
+/course/3900
+9.48
+47.879999999999995
+30
+@
+Brice L.
+/course/3900
+0.02
+0.2
+6
+@
+Julie Hruby
+/course/3900
+2.52
+40.760000000000005
+14
+@
+Scott Pauls
+/course/3900
+4.24
+0.62
+18
+@
+Carolyn Gordon
+/course/3900
+2.56
+20.2
+12
+@
+David Webb
+/course/3900
+0
+8.24
+3
+@
+David Peart
+/course/3900
+0
+8.42
+5
+@
+Matthew Ayres
+/course/3900
+0
+6.42
+3
+@
+Nurit Ben-yehuda
+/course/3900
+0
+9.98
+4
+@
+Nurit Ben-Yehuda
+/course/3900
+0
+9.98
+4
+@
+Richard Lebow
+/course/3900
+3.6
+0
+2
+@
+Linda Fowler
+/course/3900
+0
+9.16
+5
+@
+Dale Eickelman
+/course/3900
+25.84
+105.18
+53
+@
+Christine Rinne
+/course/3900
+0
+8.1
+6
+@
+Irene Kacandes
+/course/3900
+4.26
+18.28
+11
+@
+Christine Rinne
+/course/3900
+0.04
+8.2
+5
+@
+Christine Rinne
+/course/3900
+0.08
+8.58
+8
+@
+Bruce Duncan
+/course/3900
+0.54
+3.88
+13
+@
+Xun Shi
+/course/3900
+0
+0.2
+5
+@
+Eric Lyon
+/course/3900
+0.06
+17.759999999999998
+19
+@
+Robert Duff
+/course/3900
+0.1
+21.44
+12
+@
+Steven R.
+/course/3900
+0
+0.4
+2
+@
+Roderick V.
+/course/3900
+27.380000000000003
+1.54
+32
+@
+Darlene Drummond
+/course/3900
+0
+8.399999999999999
+4
+@
+Marysa Navarro
+/course/3900
+0.56
+9.8
+16
+@
+Robert A.
+/course/3900
+14.5
+0
+3
+@
+Pamela Crossley
+/course/3900
+0.06
+0.22
+5
+@
+Isabel Lozano-Renieblas
+/course/3900
+0.39999999999999997
+2.7800000000000002
+10
+@
+Marsha Swislocki
+/course/3900
+8.44
+17.1
+17
+@
+Rodolfo Franconi
+/course/3900
+0
+0.38
+4
+@
+Mary Desjardins
+/course/3900
+8.44
+30.02
+28
+@
+Amy Lawrence
+/course/3900
+0.1
+22.1
+23
+@
+Simon Shepherd
+/course/3900
+1.4
+92.32
+64
+@
+Christopher E.
+/course/3900
+0.74
+2.6
+10
+@
+Sean Smith
+/course/3900
+21.580000000000002
+101.52
+142
+@
+Gregory Leibon
+/course/3900
+15.339999999999998
+42.040000000000006
+37
+@
+Alexander Barnett
+/course/3900
+14.94
+47.980000000000004
+42
+@
+Eugene Demidenko
+/course/3900
+38.160000000000004
+8.26
+24
+@
+Daniel Rockmore
+/course/3900
+0.9
+0.16
+6
+@
+Kathryn Cottingham
+/course/3900
+0.56
+6.04
+17
+@
+Timothy Pulju
+/course/3900
+0.16
+8.299999999999999
+6
+@
+Samuel Findley
+/course/3900
+5.800000000000001
+0
+6
+@
+Hakan Tell
+/course/3900
+0.12
+0.33999999999999997
+5
+@
+Mary J.
+/course/3900
+0
+14.5
+3
+@
+Margaret Williamson
+/course/3900
+3.6
+8.459999999999999
+6
+@
+Margaret Graver
+/course/3900
+0
+5.1
+5
+@
+Judith A.
+/course/3900
+13.66
+0
+10
+@
+Ifi Amadiume
+/course/3900
+8.559999999999999
+0.08
+10
+@
+Tim Tregubov
+/course/3900
+0.02
+2.62
+9
+@
+Diederik Vandewalle
+/course/3900
+0
+8.139999999999999
+4
+@
+Karolina Kawiaka
+/course/3900
+0.1
+53.04
+20
+@
+Pamela Voekel
+/course/3900
+0.16
+0.22
+8
+@
+Xun Shi
+/course/3900
+0.06
+4.180000000000001
+12
+@
+Ryan Mckeon
+/course/3900
+8.299999999999999
+5.12
+10
+@
+Ryan McKeon
+/course/3900
+8.299999999999999
+5.12
+10
+@
+Matissa Hollister
+/course/3900
+12.299999999999999
+81.82
+77
+@
+Eva Fodor
+/course/3900
+10.940000000000001
+57.18
+38
+@
+David M.
+/course/3900
+1.04
+16.26
+15
+@
+Katherine Lin
+/course/3900
+4.9
+21.46
+9
+@
+Kristin Smith
+/course/3900
+0
+15.04
+7
+@
+Jason Houle
+/course/3900
+0
+13.66
+6
+@
+Hoyt S.
+/course/3900
+0
+17.06
+12
+@
+Christopher Ball
+/course/3900
+3.8200000000000003
+19.1
+17
+@
+Sabrina Billings
+/course/3900
+0.27999999999999997
+8.34
+9
+@
+Ryan Halter
+/course/3900
+0
+0.18
+5
+@
+Sunglim Kim
+/course/3900
+0.13999999999999999
+0.36
+4
+@
+John Crocker
+/course/3900
+4.5
+42.42
+42
+@
+Timothy Rosenkoetter
+/course/3900
+0.24
+14.58
+9
+@
+Julia L.
+/course/3900
+0
+0.12000000000000001
+3
+@
+Amy Allen
+/course/3900
+0.1
+0
+2
+@
+Hoyt S.
+/course/3900
+8.28
+21.519999999999996
+40
+@
+Lourdes Gutierrez-Najera
+/course/3900
+0
+3.04
+9
+@
+Hesheng Zhang
+/course/3900
+0
+14.5
+3
+@
+David G.
+/course/3900
+22.619999999999994
+34.62
+41
+@
+Jennifer Lind
+/course/3900
+16.78
+29.219999999999995
+50
+@
+Ezzedine Fishere
+/course/3900
+0.1
+1.7000000000000002
+7
+@
+Louise Hamlin
+/course/3900
+0.12
+8.26
+6
+@
+James Sargent
+/course/3900
+2.58
+17.98
+14
+@
+Ann Clark
+/course/3900
+0.12
+8.739999999999998
+10
+@
+Jesse Shipley
+/course/3900
+11.3
+0.13999999999999999
+4
+@

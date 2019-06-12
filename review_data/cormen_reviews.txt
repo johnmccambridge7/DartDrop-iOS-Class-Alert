@@ -1,0 +1,400 @@
+Thomas Cormen
+/course/680
+Review #1
+Anger: 0.6200000000000001
+Joy: 0.04
+Thomas Cormen
+/course/680
+Review #2
+Anger: 0.1
+Joy: 0
+Thomas Cormen
+/course/680
+Review #3
+Anger: 0.13999999999999999
+Joy: 6.5600000000000005
+Thomas Cormen
+/course/680
+Review #4
+Anger: 0.5800000000000001
+Joy: 0.4
+Thomas Cormen
+/course/680
+Review #5
+Anger: 2.9
+Joy: 7.720000000000001
+Thomas Cormen
+/course/680
+Review #6
+Anger: 8.1
+Joy: 0
+Thomas Cormen
+/course/680
+Review #7
+Anger: 3.6
+Joy: 0.28
+Thomas Cormen
+/course/680
+Review #8
+Anger: 0
+Joy: 16.5
+Thomas Cormen
+/course/680
+Review #9
+Anger: 10.74
+Joy: 1.98
+Thomas Cormen
+/course/680
+Review #10
+Anger: 0
+Joy: 7.000000000000001
+Thomas Cormen
+/course/680
+Review #11
+Anger: 0.04
+Joy: 5.1
+Thomas Cormen
+/course/680
+Review #12
+Anger: 0
+Joy: 12.98
+Thomas Cormen
+/course/680
+Review #13
+Anger: 0
+Joy: 3.9800000000000004
+Thomas Cormen
+/course/680
+Review #14
+Anger: 0.1
+Joy: 7.12
+Thomas Cormen
+/course/680
+Review #15
+Anger: 3.08
+Joy: 1.2200000000000002
+Thomas Cormen
+/course/680
+Review #16
+Anger: 0.12
+Joy: 8.28
+Thomas Cormen
+/course/680
+Review #17
+Anger: 0
+Joy: 0.31999999999999995
+Thomas Cormen
+/course/680
+Review #18
+Anger: 0.1
+Joy: 3.22
+Thomas Cormen
+/course/680
+Review #19
+Anger: 0.94
+Joy: 4.4799999999999995
+Thomas Cormen
+/course/680
+Review #20
+Anger: 0.16
+Joy: 8.1
+Thomas Cormen
+/course/680
+Review #21
+Anger: 0.06
+Joy: 9.68
+Thomas Cormen
+/course/680
+Review #22
+Anger: 0.9400000000000001
+Joy: 8.579999999999998
+Thomas Cormen
+/course/680
+Review #23
+Anger: 0
+Joy: 5.4799999999999995
+Thomas Cormen
+/course/680
+Review #24
+Anger: 8.1
+Joy: 0.3
+Thomas Cormen
+/course/680
+Review #25
+Anger: 0.12
+Joy: 0.18
+Thomas Cormen
+/course/680
+Review #26
+Anger: 0.08
+Joy: 8.32
+Thomas Cormen
+/course/680
+Review #27
+Anger: 0
+Joy: 27.72
+Thomas Cormen
+/course/680
+Review #28
+Anger: 0.06
+Joy: 6.62
+Thomas Cormen
+/course/680
+Review #29
+Anger: 0
+Joy: 8.5
+Thomas Cormen
+/course/680
+Review #30
+Anger: 0.18
+Joy: 8.139999999999999
+Thomas Cormen
+/course/680
+Review #31
+Anger: 0.9
+Joy: 0.16
+Thomas Cormen
+/course/680
+Review #32
+Anger: 0.28
+Joy: 8.979999999999999
+Thomas Cormen
+/course/680
+Review #33
+Anger: 0.1
+Joy: 7.119999999999999
+Thomas Cormen
+/course/680
+Review #34
+Anger: 0
+Joy: 0.4
+Thomas Cormen
+/course/680
+Review #35
+Anger: 0
+Joy: 3.4600000000000004
+Thomas Cormen
+/course/680
+Review #36
+Anger: 0
+Joy: 16.38
+Thomas Cormen
+/course/680
+Review #37
+Anger: 0
+Joy: 8.24
+Thomas Cormen
+/course/680
+Review #38
+Anger: 0.06
+Joy: 0.18
+Thomas Cormen
+/course/680
+Review #39
+Anger: 0
+Joy: 17.839999999999996
+Thomas Cormen
+/course/680
+Review #40
+Anger: 0
+Joy: 0.13999999999999999
+Thomas Cormen
+/course/680
+Review #41
+Anger: 0
+Joy: 8.54
+Thomas Cormen
+/course/680
+Review #42
+Anger: 0.4
+Joy: 17.36
+Thomas Cormen
+/course/680
+Review #43
+Anger: 5.0200000000000005
+Joy: 9.78
+Thomas Cormen
+/course/680
+Review #44
+Anger: 0
+Joy: 14.68
+Thomas Cormen
+/course/680
+Review #45
+Anger: 0.04
+Joy: 0.6
+Thomas Cormen
+/course/680
+Review #46
+Anger: 0.13999999999999999
+Joy: 14.94
+Thomas Cormen
+/course/680
+Review #47
+Anger: 0
+Joy: 6.58
+Thomas Cormen
+/course/680
+Review #48
+Anger: 2.5
+Joy: 13.54
+Thomas Cormen
+/course/680
+Review #49
+Anger: 0.04
+Joy: 19.4
+Thomas Cormen
+/course/680
+Review #50
+Anger: 0.08
+Joy: 5.420000000000001
+Thomas Cormen
+/course/680
+Review #51
+Anger: 1.0
+Joy: 0.18
+Thomas Cormen
+/course/680
+Review #52
+Anger: 0.22
+Joy: 0.16
+Thomas Cormen
+/course/680
+Review #53
+Anger: 0
+Joy: 0.13999999999999999
+Thomas Cormen
+/course/680
+Review #54
+Anger: 0
+Joy: 0.12
+Thomas Cormen
+/course/680
+Review #55
+Anger: 0
+Joy: 8.5
+Thomas Cormen
+/course/680
+Review #56
+Anger: 0
+Joy: 0.45999999999999996
+Thomas Cormen
+/course/680
+Review #57
+Anger: 0
+Joy: 5.22
+Thomas Cormen
+/course/680
+Review #58
+Anger: 0.04
+Joy: 6.54
+Thomas Cormen
+/course/680
+Review #59
+Anger: 0.18
+Joy: 0.16
+Thomas Cormen
+/course/680
+Review #60
+Anger: 0
+Joy: 8.219999999999999
+Thomas Cormen
+/course/680
+Review #61
+Anger: 0.13999999999999999
+Joy: 0.39999999999999997
+Thomas Cormen
+/course/680
+Review #62
+Anger: 0
+Joy: 6.7
+Thomas Cormen
+/course/680
+Review #63
+Anger: 0
+Joy: 0.30000000000000004
+Thomas Cormen
+/course/680
+Review #64
+Anger: 0
+Joy: 0.72
+Thomas Cormen
+/course/680
+Review #65
+Anger: 0.12
+Joy: 0.5599999999999999
+Thomas Cormen
+/course/680
+Review #66
+Anger: 0.19999999999999998
+Joy: 8.32
+Thomas Cormen
+/course/680
+Review #67
+Anger: 0
+Joy: 6.4
+Thomas Cormen
+/course/680
+Review #68
+Anger: 0
+Joy: 0.48
+Thomas Cormen
+/course/680
+Review #69
+Anger: 0
+Joy: 21.14
+Thomas Cormen
+/course/680
+Review #70
+Anger: 0.02
+Joy: 6.92
+Thomas Cormen
+/course/680
+Review #71
+Anger: 0
+Joy: 3.2800000000000007
+Thomas Cormen
+/course/680
+Review #72
+Anger: 0.1
+Joy: 0.1
+Thomas Cormen
+/course/680
+Review #73
+Anger: 0
+Joy: 4.34
+Thomas Cormen
+/course/680
+Review #74
+Anger: 0
+Joy: 8.56
+Thomas Cormen
+/course/680
+Review #75
+Anger: 0.16
+Joy: 8.319999999999999
+Thomas Cormen
+/course/680
+Review #76
+Anger: 0
+Joy: 6.48
+Thomas Cormen
+/course/680
+Review #77
+Anger: 0
+Joy: 6.78
+Thomas Cormen
+/course/680
+Review #78
+Anger: 3.6
+Joy: 6.8
+Thomas Cormen
+/course/680
+Review #79
+Anger: 0.52
+Joy: 0.2
+Thomas Cormen
+/course/680
+Review #80
+Anger: 0
+Joy: 8.5

@@ -1,0 +1,324 @@
+Thomas Cormen
+/course/680
+Huge workload and extremely hard. I think you really need to have a background in CS or some natural god given ability to thrive in this class Do not take this course with other hard classes. Cormen has tough grading rubric as well. Overall, super rewarding and interesting course, but do not expect an easy time.
+@
+Thomas Cormen
+/course/680
+He's a good professor but it's a 190 student class, and there's virtually no interaction between the prof and the students except for the questions. The class period tends to get very boring very fast. It's a nice if you're trying to experience new fields in your freshman year, but I would not recommend taking it for a distributive. The workload is heavy. I agree that you should have a natural talent or CS background to achieve high grades in this course.
+@
+Thomas Cormen
+/course/680
+Hard AF! Prof Cormen is good but very demanding class especially if you have not taken any CS before. Do not take with 2 other tough classes - many withdrew.
+@
+Thomas Cormen
+/course/680
+Came into CS1 with absolutely no prior experience. If you are interested in CS and find logical/problem-solving puzzles as satisfying as I do, you will be able to do well if you just put in a few hours of extra studying a week (usually just 1-2 for me). Sometimes I felt pretty behind compared to other students with lots of prior experience (especially after the first midterm), but I can definitely say that if you read the lectures Cormen posts on the website, go to section more often then not, and are reasonably intellectually competent, you can easily pull out a B+/A- in this class.
+@
+Thomas Cormen
+/course/680
+Half of the class had prior coding experience. During first midterm half of the room completed it within an hour, while another half was there for 3 hours. I'm afraid in order to get something close to B- you have to learn Python on your own PRIOR to enrolling into this course. I expected it to be intro course, but ended up dropping it after week 3. First 2 weeks were intro and very deceiving. Grading system is strange. Your lab assignments and homework can change your grade only to plus or minus while grade by itself is based on the 3 exams. To get A you need 98% on exams and above 90% on labs I believe. Prof Cormen is funny guy, but tough. Unless you want to major in CS or have Python knowledge AVOID.
+@
+Thomas Cormen
+/course/680
+Definitely not a class for the faint of heart. You will get stuck debugging for hours. You will find your eyelids drooping as Cormen regales you with the amazing story of how RSA encryption was thought of by a drunk guy. And the tests will make you think that you're taking literature instead of CS (SO MUCH READING). But in the end, its probably worth it, if you're actually interested in CS. Definitely rougher if you've had no CS experience at all as you go from printing out your name in week 1 to encrypting/decrypting files in week 9. Also a bit of a weeder course (at least 20% of the original class dropped out). In the end though, it is really what you make of it. Cormen gives many interesting/frustrating (depending on your viewpoint) extra credit opportunities on the labs that allow you to explore a little beyond class material. If you're just trying to get by though, you could probably learn all the material by just reading the online notes and textbook (project python) as his lectures are essentially 90% that, along with some random, completely irrelevant stories that he just likes to throw in. Do go early to lab section hours if you get stuck debugging as this will save you SO MUCH time and the line usually starts early. And finally, don't forget the three things a constructor does.... Also, laughing at all these salty dropouts who wrote shit reviews abt dis course XD
+@
+Thomas Cormen
+/course/680
+Probably the worst class I have ever taken and it's all because of the prof 1) He has a bullshit grading rubric, which basically makes all the homework count for basically nothing 2) His exams are unnecessarily wordy, which makes them unnecessarily difficult  The material is really interesting, just take it with ANY other prof and you will have a great time.
+@
+Thomas Cormen
+/course/680
+I took this course with Prof. Cormen my freshman fall (and was a section leader with Cormen and Farid other times) and I can't recommend it more highly.  It is an amazing class for anyone even marginally interested in CS or math or just learning how to think differently.  The workload is manageable if you start early and go in for help (the section leaders are always available to help you!)
+@
+Thomas Cormen
+/course/680
+Course Great course, definitely take it even if you dont have interest in majoring in anything that requires cosc. develops an appreciation for something that is all around us  Professor Cormen is incredibly smart and has a lot of experience. He is also very helpful and his course is very well structured.   Workload There's a good amount of work in CS 1 but nothing too bad, definitely manageable if you're not taking two killer courses with it.
+@
+Thomas Cormen
+/course/680
+Course Very interesting, but very fast paced. It's hard to keep up a lot of the time, and the material doesn't stop for you. If you don't have a background in CS, get ready for a ride.   Professor Cormen is the smartest dick you will ever meet here. He's incredibly arrogant, but still deserves to be so. Don't ever argue for points though, you won't get anything out of him. In fact, he prides himself in taking more points than he gives if you request a regrade. Stay on his good side though and you'll find yourself with a lot of research opportunities.   Workload SO MUCH FUCKING WORK. I've taken some tough classes here and this beats them all in terms of workload. The labs take 10-12 hours to do, and there are frequent short assignments. Plus, the exams are actually pretty hard.
+@
+Thomas Cormen
+/course/680
+I had never done any computer science before so i was apprehensive but i really likes this class. We learned how to do a lot of cool stuff and some interesting ideas about computer science, and, considering that i had started with no knowledge in the subject whatsoever, made the class very satisfying. Some of the homework is kind of busy work but most tests your skills very well. there is a quiz before almost every test and i did really badly on them all, but they showed me what i needed to work on so i could perform well on the tests. you definitely don't need the back and you don't even need to go to class, all the notes are perfectly documented online. it helps to go to the lectures though, cormen explains things really well. take this class!
+@
+Thomas Cormen
+/course/680
+This class is tough. There really is no time to slack off or fall behind. This course is a lot of work, and takes up a lot of time, especially if you're not really a comp sci person.  That being said, Prof Cormen is a good lecturer, and really wants to help each individual student. I would recommend this course, but with caution. Don't take it with other hard classes.
+@
+Thomas Cormen
+/course/680
+This was my first introduction to Computer Science and Cormen did a great job crafting this class for people without any prior exposure to computer science. Great prof. I'd definitely recommend.
+@
+Thomas Cormen
+/course/680
+I took this class because it looked interesting and I wanted the distrib.  The class was really great--it was interesting, Cormen is amazing, and it was definitely geared towards people with little to no programming experience.  The only annoying thing was that there were people in the class who had tons of programming exp and just didn't know java, which made the curve a little bit annoying.  But it was definitely a great experience.  One thing to note is that it was very time intensive for the labs, I found myself spending about 3 hours every Sunday/Monday/Tuesday getting help from the staff.
+@
+Thomas Cormen
+/course/680
+General  An excellent introduction to Computer Science. The class was somewhat intense, but very, very interesting. Go to class, pay attention in lectures, and stay on top of the work. Great prof.  Lecture notes for this class are EXCELLENT. Cormen has all of his lectures posted online in note form; these are almost word for word recounts of lecture, including jokes.   Take this class if you are even remotely interested in Computer Science, I can say I enjoyed every bit of it (you may find that it gets addicting after awhile).
+@
+Thomas Cormen
+/course/680
+Cormen is inconsiderate about how much work he gives. In the span of two weeks this term we had a lab, a quiz, and a midterm, which are all totally consuming. Also, there is NO TIME to get behind. If you take this course, learn EVERYTHING from the beginning. Otherwise you'll be in a lot of trouble and totally miserable.  Otherwise, he's a pretty good lecturer although there is no real effective way to take notes. You need to be able to write out code/drawings with pencil but he goes to fast to handwrite everything. Luckily he posts the notes online, so even if you miss things, you can look back. And you will miss things.  Overall, one of the hardest classes I've taken. If you're not a computer person now, you will be. Or you'll have to drop the class.
+@
+Thomas Cormen
+/course/680
+This course is pretty good and manageable, just don't fall behind.  It's pretty reasonable as long as it's your 1st/2nd priority as a course.  If you're taking other math/science + other demanding courses it's probably not a good combo.  If you're looking to learn a bit about programming, it's useful.  Cormen's a good prof, especially in office hours which really can help.  The undergrad TA's are also good, they helped immensely with the short assignments and labs.  Also, try to take advantage of the grad TA office hours, they can come in handy.  The book is useful if you have the time to read it, otherwise Cormen's notes will suffice.  It is a beast of a challenge though, only take it if you have the time.
+@
+Thomas Cormen
+/course/680
+Lots and lots of work.....lab assignments will kill you if you don't start them early enough....but it's a good class and you learn a TON about programming...  I hadn't taken any CS classes before and knew NOTHING about programming and now I feel a lot more comfortable and the assignments that looked challenging at first now seem really easy.
+@
+Thomas Cormen
+/course/680
+This class was amazing! I really enjoyed the material that was covered in this class. The only bad part of the course was when Professor Cormen had two guest lecturers who were grad students that he was testing out speak.  They weren't very good.  Other than that, everything about this course was remarkable. Many people found this course to be challenging, but if you enjoy the material and subject matter like I did, you will have no trouble with it. This was actually one of my easiest classes this term.
+@
+Thomas Cormen
+/course/680
+So I came into this class with a bad attitude because I wasn't supposed to take it -- I'm an ENGS major and had been planning on taking ENGS 20 as my computer prereq, but it didn't fit in my schedule, so I had to take CS 5 instead. From the beginning, I kept thinking "Oh, this class will be so useless... I'm not learning anything engineering-related." However, this bad attitude started to fade away as the term went on. I started to actually enjoy programming by the end of it, especially since the lab assignments [although quite hard and reallyyyy time-consuming] were kind of fun. It was awesome to learn how to make the computer do what you want. Professor Cormen is an excellent professor, making what is inherently not the most exciting topic quite entertaining at times. He's an extremely fair prof and is ALWAYS, ALWAYS, ALWAYS available for help. Definitely take advantage of that! it's not too often that profs reply to blitzes at 11pm on Saturdays! And the homework assignments REALLY helped me understand the material, except my one complaint is that they were far too time-consuming. I spent so much of my life on CS this term -- way more than I would have liked. So be prepared to learn a lot, and perhaps to even learn to like programming, but to also put tons of work into this class. I'd say it's worth it.
+@
+Thomas Cormen
+/course/680
+Cormen was a great professor, and the class was extremely well done. I do think that the class somewhat favored people who had the time to do extra credit though (I was really busy this term, so it screwed me over on extra credit). There are kids in this class where this is all that they do, so it can be competitive, but the material is not hard at all.
+@
+Thomas Cormen
+/course/680
+This was by far my favorite class this term! Professor Cormen is an amazing professor and he makes the course content so interesting! He is very sensitive to student concerns and makes an effort to get to know everyone in the class.  You learn Java in this class and there is a lot of focus on good form and coding practice. I think this course really changes the way you think and if you can, definitely take this class!  You will have 3 quizzes and 3 exams during the year, so the course is broken up (there isn't too much pressure for each quiz/exam). There are around 16 short assignments and 5 labs. The course is definitely fast-paced and pretty demanding, but if you try, you will definitely enjoy it!
+@
+Thomas Cormen
+/course/680
+don't buy the book or do readings - just go to all the lectures. Practical, interesting, but a LOT of work - be prepared to live in Sudikoff. Attend recitation - it helps with the labs. Great teacher lectures well & is very responsive & helpful (even if you blitz him at 1 AM on the weekend about the assignments or labs. Too bad he'll be on sabbatical for the next 2 years. Online notes and instructions are very thorough and easy to understand. You don't need previous programming exp or knowledge of comp sci, although it might help
+@
+Thomas Cormen
+/course/680
+Computer Science 5 was by far the best class that I took this term. Cormen was a great lecturer and conveyed the material very well. The material itself was useful, covering the basics of computer science from the ground up. The labs were hard, but fun to do and very rewarding. Highly recommend this class for anyone interested in computer science or analytical thinking.
+@
+Thomas Cormen
+/course/680
+This class is pretty interesting, and actually a bit of fun if you have any interest in programming. Most of the enjoyment comes out of doing the labs, where I found myself doing the extra credit just because it was a bit of a challenge. However, lectures are very slow, and definitely oriented towards freshmen, who make up the majority of the class. Not bad for an intro course where people come from very diverse skill backgrounds, but I think Cormen babies people too much by having them turn in short assignments almost every class and having an asinine lateness policy.
+@
+Thomas Cormen
+/course/680
+Professor Cormen knows his stuff.  In this course you learn the basics of using Java to create small programs that do things like sort lists and draw basic graphics.  While this course might lead into some useful, fun stuff, as of yet I haven't seen much return for all the hard work I put in except a few dinky little graphical outputs.  That said, when you look back on how difficult it was to do anything, you realize you learned a lot in this course.    As a warning, watch out for falling behind/handing things in late; they do NOT cut you any slack.  That said, Cormen and the TA's are very available for help.  I once got an email back from Professor Cormen at 12 midnight.  Play by the rules, keep up with the course, and you will do well.
+@
+Thomas Cormen
+/course/680
+Coming into this course with absolutely no background in Computer Science and an aversion to programming in general, I was shocked how much I enjoyed this course.  It's a lot of work, and my Wendesday nights were shot since we had quizzes or exams the majority of Thursday, but you get a lab distrib without having to actually go to lab, and the work is fun as well as rewarding.  Cormen is also an AMAZING prof, making the material accessible to everyone, since there is a supremely varied amount of experience amongst the students coming into the course.  Constant tests & assignments mean that if you fall behind you're in big trouble, but as long as you stay on top of your work and are willing to work hard it's very possible to do well.
+@
+Thomas Cormen
+/course/680
+Cormen is a great teacher.  He provides all of his notes online - the notes, and his lectures, are very clear, straightforward, and effective at explaining material which can often be quite complex.  Cormen also manages to keep the lectures entertaining with demonstrations and corny jokes.  My only complaint with Cormen is that he can be somewhat sarcastic when aswering students' questions in class, which doesn't exactly motivate kids to ask for help.  I found writing code (Java) to be a very enjoyable experience.  I enjoyed that it felt like solving a logic puzzle, and when I finally got a program to work I felt like a Godly Creator.
+@
+Thomas Cormen
+/course/680
+You will be worked in this class and worked hard. Do not take this course as a distrib killer; you should only take it if you have some interest in computer science.   Make sure you use all of the resources. Prof. Cormen is an amazing resource who makes himself really available.   DO NOT GET BEHIND IN THIS COURSE! That is the key to your success.
+@
+Thomas Cormen
+/course/680
+Professor Cormen really made this class great. He was an interesting lecturer and also posted nicely formated notes on the web before every class so you could review them or not go to lecture if needed.
+@
+Thomas Cormen
+/course/680
+Definitely a good deal of work, but the material's interesting, Cormen's a good professor, and coding can be addicting.  If you're unsure about the courseload, throw an NRO on it.  Of course, that doesn't mean you can get away not doing work - especially given that the only way to learn programming is to get dirty coding Java.
+@
+Thomas Cormen
+/course/680
+the course was being taught for the first time so most of the assignments were really obscure and it was often difficult to figure out what he wanted us to do. I learned the most during the TA help sessions.
+@
+Thomas Cormen
+/course/680
+Prof. Cormen loves teaching CS 5, and he's good at it. The only problem is that you need to know how to take the class. First, do NOT buy the textbook. It's a waste of money and you really do not need it. He has every lecture written out for you on the internet, WORD FOR WORD, including the jokes he makes. Print all the lectures out because it's all you will need. Do the extra credit, because my 88.88% final grade got me a B and he would have bumped it if I did extra credit. Watch out if you are not a computer science person, because lots of freshman come into the classing knowing a lot and do very well to raise the medians. Use your TA's, they help you tremendously. Good class, boring lectures, a little fast paced, a lot of work, but you learn how to get it done.
+@
+Thomas Cormen
+/course/680
+This was by far one of the best classes I've had at Dartmouth.  Cormen was amazing.  I def recommend taking the class with him but i head he was taking his sabbatical next year so he won't teach this class for the next year.  The class is a lot of work but it is very fun.  You shouldn't put things off until the last minute because that will screw you over.  Go to the lab if you need help because the TAs were very helpful.   His quizzes were a little tricky on purpose but if you know the info, you will make a good grade in the class.  Also, there is extra credit in the class so you can either get bumped up if you are on the edge or get a citation.
+@
+Thomas Cormen
+/course/680
+Lots of students in this class-- all sorts of experience/abilities.  If you can think logically then you will do well and understand most things.  EXTREMELY detailed notes are posted online.
+@
+Thomas Cormen
+/course/680
+Cormen's a really talented prof - it's obvious he has loads of experience in the field, but he hasn't lost his touch at teaching - he's personable and has no problem engaging with students inside or outside class. I didn't want to be one of those that puts a 5 in every box but I couldn't resist. Take a class with him if you can.  I had fun just with the course material as well, and I learned a lot. Theres always some useful yet cool element to the regular short assignments that makes them more enjoyable than any other kind of homework, and they're the best way to drive the material into your brain. The only drawback was restriction to the Java language - maybe take ENGS 20 if you want something more physically "practical" than random but awesome (cause you made it yourself) web applets.
+@
+Thomas Cormen
+/course/680
+This class was alot of fun and the teacher was extremely nice. He was available outside of class and he was always helpful during office hours. Professor Cormen made lectures enjoyable with his quick wit and helpful examples.
+@
+Thomas Cormen
+/course/680
+As a non-major, I took this course during my Senior spring purely out of an interest in learning some java programming. If I had taken it sooner, I would have likely ended up a CompSci major because I enjoyed it so much. Cormen is an excellent professor and the course material is organized extremely well.
+@
+Thomas Cormen
+/course/680
+The pace of this course depends on your competency in the subject. If you're good at logic or good at math, it'll be a breeze. Otherwise, it'll be torture.
+@
+Thomas Cormen
+/course/680
+Don't be scared off from taking this class by the work load, because this is one of the best classes at Dartmouth.  Prof. Cormen is excellent and extremely nice.  If you do all the homework in the class, it is pretty easy to get an A or A-.  My favorite aspect of the course is that everyone in it forms a small community.  We all work on labs together and everything, so you make a lot of new friends and you really enjoy programming.  Cormen helps make this class very interesting, you won't regret taking it.  It's so cool to be able to make your own programs, and you'll be amazed by how much you learn in such a short time!  Take this class (but make sure its with Cormen)!
+@
+Thomas Cormen
+/course/680
+If you have any interest, and you have the right mind for it, this class will be fun and easy for you.
+@
+Thomas Cormen
+/course/680
+Professor Cormen is a miracle worker.  The amount of material covered in CS 5 is immense compared to introductory programming courses at other colleges.  Cormen however managed to make it all seem accessible to the majority of students.  But, don't get me wrong, the course still requires a lot of work, and if you fall behind, you will do badly.  However even though the breadth of the material is great and the work accompanying it as well, if you go to class, do the assignments, and don't fall behind you'll be left with a good grade and a great experience learning from Professor Cormen.
+@
+Thomas Cormen
+/course/680
+This was by far the best class I've taken so far at Dartmouth. I hadn't had any past experience with computer programming whatsoever before coming into CS5, and was intially really nervous about taking the course because i had hard that it was really hard, incredibly time consuming, and that everyone who takes it plans to major and has had past computer experience. This is completely not true!!! Cormen is an amazing lecturer, and the amount of time he puts into his class and the class notes, assignments, etc, is incredible. the course is designed for people with absolutely no past computer-programming experience, and within 2 weeks everyone in the class is on even footing regardless of any past experience they might have. cormen is one of the best, most knowledgable, and caring professors at dartmouth. despite being chair of the writing program, and heavily involved with the computer science department and world-renowned for many of his works, he refuses to give up teaching an intro level computer science course. he teaches CS5 because he loves it, and it shows. he's always available in office hours, and will form a personal relationship with nearly every person in the class by the end of the term, connecting names to faces within the first week. this being said - the course can be time consuming. it is not, however, incredibly difficult in a conceptual sense, but rather just time-consuming to get the labs done on time and keep up with the work. but although the labs do take up some time, they are so well-designed that if you do them and keep up with the homework, you will know the material for the tests like the back of your hand. overall, the amount you learn in 9 short weeks in CS5 is incredible and will change the way you think about everyday problems. its knowledge that you will use for the rest of your life, very applicable, and incredibly interesting. i especially recommend this course for those without any prior computer experience. absolutely amazing course. i could go on, but just take it. also, you get your lab requirement as cormen repeatedly petitioned the college this term to get CS5 recognized as a LAB course, and told us on the last day of classes.
+@
+Thomas Cormen
+/course/680
+java doesnt have the rep that c++ has.   but seri, good prof, good course. the only real problem with it is the notes are online, so if you dont like lectures, theres really no incentive to haul yourself all the way over to moore. but the times i went to class i was glad i did. the prof's explanations are always good. he's a bit corny/into himself. but not in a way that's overly annoying. and he works really hard to get to know all the students, which is needless to say impressive in a course of that size.
+@
+Thomas Cormen
+/course/680
+Awesome class. Cormen is a great teacher and is generally interesting even though he is in front of almost 100 people. If he moves too slowly, you can simply miss class and just read his online notes which are almost word-for-word. Great availability for assistance by Cormen and the TAs.
+@
+Thomas Cormen
+/course/680
+Even though there was a lot of work, the class was definitely worth it! I felt like it took me longer to get the concepts so I always took a long time to do the assignments. The TAs were so helpful! I was in the Sudikoff computer room almost every night when we had lab assignments due but that's just me. The assignments did reinforce what we learned in class and they were always fun to do despite requiring a lot of time in my case.
+@
+Thomas Cormen
+/course/680
+First of all, I agree with most of the other reviews; Cormen is a great prof. He is funny, smart, and gives great lectures. His lecture notes are online, too, and they are a very helpful resource.  I had no cs experience and don't consider myself very technically-adept; I'm a humanities major. So, this course was very time-consuming for me. I was taking two other challenging courses at the time, and I really just did not have the time and energy to put the necessary effort into some of the assignments. The TAs are a helpful resource, and they certainly alleviated a lot of my frusturation. Be willing to ask for help and spend a few hours every night reviewing material and doing lab and homework assignments, and you should be okay. Ultimately, I am glad that I took this class as an introduction to computer science.
+@
+Thomas Cormen
+/course/680
+The class was really good, a lot of work but worth it. cormen is a great prof.
+@
+Thomas Cormen
+/course/680
+For me the course is broken into three parts. The first part is painstakingly boring if you've had any programming experience before. Cormen aims for the people who are completely new to the subject, which slows the class down at first. He puts all of his notes on the web so you can skip if you want. A warning though, grades at the end are always somewhat subjective, and if you go to class, go to office hours, and appear to make an effort, he's nicer in terms of grading.  The second third starts to get into more interesting, complete projects, including some partner labs. This was the best part of the class.  The last third is tedious dealing with program efficiency. It isn't that hard of a concept, is boring, and ends the term on a blah note.  Quizzes were conceptually based, exams programming based. Usually people could do well on at least one or the other, so they helped their grades. A fair method of testing the material.  Cormen was an awesome professor if corny at times. His animated lectures really helped you remember the material. Sometimes they were tedious, but that was because he tried to make sure everyone understood everything. He is always available to help. He even answered blitzes at 1 am on the nights before assignments were due. Office hours are a great way to get help and get to know him.
+@
+Thomas Cormen
+/course/680
+This class is very challenging for people who have never done programming before, but there is so much help available (from the prof, to the TA's in lab, to the prof's TA's) that anyone can learn it.  It does take some work, but it isn't hard to get a good grade if you seek out help.  Professor Cormen is amazing too.  I would HIGHLY recommend taking the course from him if you are able.
+@
+Thomas Cormen
+/course/680
+I took this course on the advice of a friend who thought I might like the subject. I never imagined that I would want to be a computer science major, but now I am heading down that path. This was the most interesting and exciting class I've taken at Dartmouth to date. Prof. Cormen is competent and enthusiastic. The assignments were challenging but doable, and there was always plenty of help when I got stuck. If you think you have any interest in the subject (or even just like problem solving), I recommend taking this course. By the way, the workload is not bad (I know when I read others' reviews before taking the class, they said it was and that almost discouraged me from taking the class.)
+@
+Thomas Cormen
+/course/680
+don't listen to the horror stories.  it's not too bad.  All the lecture notes are posted online, so I basically only went to class cause I enjoyed Cormen's lectures.  In my opinion, taking this class improves a student's overall ability to think logically and solve problems, so take it.    Made me want to be a major.
+@
+Thomas Cormen
+/course/680
+Don't get behind in the work in this course. It's just too much material to be able to catch back up.  It's a lot of work, but if you're even remotely interested in computers, take this course. You'll learn a lot. Perhaps TOO MUCH! But you should take it anyway.
+@
+Thomas Cormen
+/course/680
+Get used to the term Short Assignment and Labs.  Our class had about 13 short assignmnets and 6 labs.  That means at least one short assignment a week and the last 6 weeks 1 lab a week.  A lot of work, but if you put in the time it is manageable.
+@
+Thomas Cormen
+/course/680
+Lots of work but you learn more content in this class than in most science classes and that's saying a lot.
+@
+Thomas Cormen
+/course/680
+This class is a lot of fun, especially with Cormen, he really inspires enjoyment and makes things interesting.  The work is only hard if you make it, ie go into the ta and prof office hours and its not a problem at all.
+@
+Thomas Cormen
+/course/680
+The class and the homework were interesting, and help in learning material quickly.  There are all sorts of ways students can get help when necessary.  A great class to see if you want to continue CS or not, or even just to fill a distrib.
+@
+Thomas Cormen
+/course/680
+Having never programmed before I found the work for this class more time-consuming than that of most other classes. That being said, I did learn far more than I expected to. Cormen is a great lecturer, very enthusiastic, tells terrible but funny jokes, and does a good job making the material accessible. If you're willing to put in the time necessary to complete all the assignments this class is definitely rewarding. Overall, it's not nearly as bad as its reputation, and with the right attitude it can be a lot of fun.
+@
+Thomas Cormen
+/course/680
+Lots of work, but you learn a lot in the class. Cormen is an interesting & engaging lecturer - he also has the surprising ability to memorize names + random facts about you (even though you rarely show up for class). The class was a huge time commitment - (all the x hours are used + an additional 1hr recitation session/wk), but it's pretty hard not to get a good grade.
+@
+Thomas Cormen
+/course/680
+I'm the most unlikely person ever to take CS5 - a combination of all the wrong attributes disorderly, unmathematical, not even remotely considering a CS major (hello - I'm going to be a hardcore English major), a freshman, juggling several extracurriculars... but I took CS5 out of pure interest, and enjoyed it, sort of masochistically, and ended up doing vaguely all right in the end.  Oh yes - and now that I understand how for-loops work, and a little bit about how to manipulate data structures, it's been a lot easier for me to teach myself other useful things like PHP.  There, that's about all.
+@
+Thomas Cormen
+/course/680
+Its not as hard as some people make it out to be.  Concepts and logic are easy once you get the hang of things and start to think in the way you need to.  I did it freshman fall with no prior experience and I survived intact and happy.  Cormen's pretty damn good.
+@
+Thomas Cormen
+/course/680
+The assignments in this class are very interesting and really teach you a lot about programming. The lectures themselves, however, can be very boring, and I often learned more by staying home and just reading the lecture notes instead (at least then I don't fall asleep). Everyone should have a basic knowledge of this stuff nowadays, so I recommend the class. Careful though, if you aren't science-minded going into this class, a lot of the assignments can be really tough. Plan to spend a lot of time on them.
+@
+Thomas Cormen
+/course/680
+If you have past experience this course is still a bunch of work, but is not that difficult. If you're learning everything for the first time, be prepared to study.  Prof. Cormen gives well organized lectures and really wants you to learn the material. His jokes are great.
+@
+Thomas Cormen
+/course/680
+Definitely not an easy way to satisfy your TAS req, but a must for anyone with a serious interest in computers.  Even for non-majors, the JAVA skills you'll develop are incredible, and immensely useful.  Take it if you have a lot of time to spare.
+@
+Thomas Cormen
+/course/680
+I will recommend this course to anyone who would like to learn what Computer Science is all about. Apart from learning JAVA programming language, you learn how to think as a programmer. Materials are not so hard to understand and homeworks are really fun. Although be prepared. The amount of the homework and short assignement you will get is overwhelming. If you are prepared, an excellent course!
+@
+Thomas Cormen
+/course/680
+The course left me with one regret  that as a senior it is too late for me to even pursue a minor in CS.  I will definitely be continuing in the CS department until graduation, however, because this stuff is absolutely fantastic.  This is definitely a class you either love or hate.  If you hate the first short assignment, get out!  Programming is not for you.  If you find yourself eagerly awaiting the first homework, congratulations!  But a word of warning  letting yourself get caught up in doing extra credit is a potential hazard, especially if you really find this class fun.  It will steal your life away, and you will pour hours upon hours into your assignments AFTER the basic requirements are already done!
+@
+Thomas Cormen
+/course/680
+Tough class. Professor Cormen is a great prof but the amount of work is a bit absurd. Plus the exams and long assignments are extremely long. The last half of the term was absolutely chaotic. Lots of work. But in the end, you learn a lot from Cormen and I think it's a worthwhile class if you're dedicated to putting a lot of work into it.
+@
+Thomas Cormen
+/course/680
+Great prof, interesting material, makes you think in ways you never have before What more could you ask?
+@
+Thomas Cormen
+/course/680
+This class is difficult, mostly because of the amount of time required, but it is challenging in a good way, especially if you enjoy logic problems and are decent at math. It can be frustrating at times, but the programs you write for homework are actually pretty cool, and it's worth taking this course even if you're not a major as so many things involve computers today. I probably won't ever take another computer science course, or even write another program, but I'm glad I took this course. But, be prepared for work if you want to do well.
+@
+Thomas Cormen
+/course/680
+Professor Cormen is smart, and he'll let you know it.  He seems to enjoy his work, but he also enjoys being smart.  He'll let you know if you're not doing things his way, and he expects you to do things the same way he does, which isn't the most effective way to teach a problem solving course like CS 5.  One of the beauties of this course is that there are many ways to work something out, but Cormen prefers his students to do things his way.    That's my only complaint.  It's a lot of work, but I enjoyed it.  Cormen does a good job of presenting the material, and the TA's are helpful, if you want them to be.
+@
+Thomas Cormen
+/course/680
+This class was a great class, if you had the time to do all the work.  The homeworks were very time-consuming, but also very helpful.  Cormen gives good lectures (although his sense of humor can get kind of annoying).  Warning... the exams are long.  The first midterm took about 4-5 hours, the second 3-4, and the final took up almost all 3 hours.  It's a really great class, but I would only recommend it if you have the tenacity to work on code for many hours and you have the hours to spend on it.
+@
+Thomas Cormen
+/course/680
+My only criticism of this class is the exam format. The professor has a significant portion of the exams based on writing code on paper, which I quickly learned is vastly different from coding on a computer, where you can test your code and relatively quickly determine where there are errors in the code. A plus side to exams is the professor allows you to make a 8.5"x11" double sided crib sheet upon which you can write anything you want... this helped a lot on the short answer questions, but I found when coding, I remembered all I needed to and the crib sheet helped minimally. It's the small mistakes you don't realize you make in the code that takes off points from your exam grade. I found course material was extremely interesting, and I enjoyed coding. Having prior experience in coding helps immensely, though make sure you are flexible, because a significant portion of grading is also based on code "style". Make sure you give yourself plenty of time to do homework... procrastination in this course definitely affects your grade.
+@
+Thomas Cormen
+/course/680
+If you just want to take this for fun, do so in the spring term. Cormen is an excellent professor, but can be very confusing to people with absolutely no background. Also be prepared to throw a lot of time into this course.
+@
+Thomas Cormen
+/course/680
+I signed up for CS 5 looking to fulfill my TAS, but by the end of the term I was looking at ways to change my major to Computer Science or modify my major to include Computer Science.  Cormen is a wonderful professor who responds to students during class and is available outside of class as well.  The HWs are challenging, but you have a week to do them, which means if you get started early you should have no problem.  Short Assignments are also given to reinforce what has just been taught.  The TAs in this course are so helpful because they do everything from help you with HW to reviewing concepts we have learned during the weekly review sessions.  Lab hours are particularly helpful, if only to get you going on the right track.  The topics we covered in this course were very interesting, and the assignments were generally fun such as creating applets that display raindrops and programs that kill soldiers and cats (you'll just have to take the course!).  I have heard that people enjoy this class a lot more than its ENGNS equivalent.
+@
+Thomas Cormen
+/course/680
+This class takes a ton of time--but if you're willing to put that time in, it's completely worth it.  It gives you a very solid background in Java and in computer science in general, and I thought it was fun along the way.  The professor is great; he will go out of his way to help you with the material, and is very responsive to student input during lecture.  I really enjoyed this class.
+@
+Thomas Cormen
+/course/680
+This class is difficult and time consuming if you don't have a programing background, which I didn't.  However, it is very worth it.  THe material is interesting, and Cormen is amusing and gives very good lectures.  The test are not too difficult, but it is hard to get used to the format (untimed).  About ten people dropped the class after the first test.  This class has convinced me to continue in computer science.
+@
+Thomas Cormen
+/course/680
+This course is going to be a lot of work, but as long as you stay on top of things it should flow smoothly.  Cormen is very organized for his lectures and provides everything on the network.
+@
+Thomas Cormen
+/course/680
+CS 5 is supposed to be a really difficult course, but in fact, if you've had any kind of programming experience before (and I really mean anything), it should be easy for you. And if you haven't, as long as you think logically, you shouldn't have too much trouble. Besides, Prof Cormen is a great teacher for someone having trouble undestanding the material. His lectures basically summarize the contents of the book, which, although somewhat frustrating for people who've read the book, is great for those who haven't understood it. Yes, the homework takes quite a bit of time especially the extra credit options), but most of the time it's kind of fun, so it's a lot better than, say, math problems... Anyway, I strongly recommend this course. It's not as hard as it sounds!
+@
+Thomas Cormen
+/course/680
+CS 5 is a great class but it is a lot of work.  If you are a logical person, the work is more time than difficulty; if you are not, the work is both but even so is worth the effort.  Cormen is a great lecturer so you'll want to go to class, but even if you miss the stuff is on the web.  He isn't such a great guy in person so I'd say don't bother going to office hours unless you don't fit the standard cs profile, in which case he really will go to a lot of effort to encourage you to major.  Even so, that doesn't detract from his ability to teach the subject to a large group.  Take this class, but do have the time to put into it.
+@
+Thomas Cormen
+/course/680
+CS5 is a great course.  i learned an extraordinary amount, i couldn't even learn it all as well as i wanted to!  i was disencouraged however, by the amount of computer programming that other students had in the course.  i was treading water from day one just to keep up.  and no matter what, i was not able to do well on exams due to this disadvantage.  it's frustrating to me, to have to take a class and know that i can never get above a certain grade due to my lack of experience.  i feel like the same course should be offerred for students with zero experience.  it's supposed to be an introduction to computer science, that is the title of the course!!  If another course was offerred, however, students should not be penalized for taking it, nor should the pace be much slower.
+@
+Thomas Cormen
+/course/680
+The class serves as a fabulous intro to programming. Computer Science is used in almost every field in tomorrow's world; so a solid introduction to computer science is in some sense a prereq for any college major. This class is able to introduce a computer novice to the world of programming in an effective manner because it has a reasonable pace, very fair homeworks and tests, and, best of all, a dedicated prof that always makes himself available outside of class.  I would definitely recommend this class to students of any major, as mentioned before--computers are prereqs for anything one wishes to do in the future.
+@
