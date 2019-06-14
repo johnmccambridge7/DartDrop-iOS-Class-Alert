@@ -1,0 +1,1956 @@
+Thomas Cormen
+/course/1274
+56.720000000000006
+487.5400000000001
+5
+@
+Devin Balkcom
+/course/1274
+20.66
+194.4
+3
+@
+Robert Drysdale
+/course/1274
+17.259999999999994
+147.10000000000002
+3
+@
+Vasanta Lakshmi Kommineni
+/course/1274
+2.22
+82.2
+3
+@
+Hany Farid
+/course/1274
+0.52
+65.74000000000001
+8
+@
+Prasad Jayanti
+/course/1274
+0.52
+49.120000000000005
+7
+@
+Kristen McNall
+/course/1274
+0.1
+5.0
+5
+@
+Stephen Brooks
+/course/1274
+96.62
+575.82
+8
+@
+Daryl Press
+/course/1274
+64.55999999999999
+499.82
+3
+@
+Richard Lebow
+/course/1274
+143.02000000000004
+505.88
+12
+@
+Benjamin Valentino
+/course/1274
+25.499999999999996
+467.6199999999999
+2
+@
+Jennifer Lind
+/course/1274
+108.05999999999999
+235.40000000000003
+6
+@
+Allan C.
+/course/1274
+53.00000000000001
+134.32
+15
+@
+Bridget Coggins
+/course/1274
+30.58
+138.76000000000002
+2
+@
+William Wohlforth
+/course/1274
+16.119999999999997
+78.91999999999999
+7
+@
+Thomas C.
+/course/1274
+9.64
+54.379999999999995
+4
+@
+Kathleen Powers
+/course/1274
+0.33999999999999997
+49.599999999999994
+9
+@
+Cherie Steele
+/course/1274
+6.199999999999999
+8.379999999999999
+4
+@
+Dan Reiter
+/course/1274
+0
+0.5599999999999999
+2
+@
+Andrew Shaver
+/course/1274
+0
+9.18
+6
+@
+Milan Babik
+/course/1274
+0
+13.500000000000002
+6
+@
+Andreas Bentz
+/course/1274
+124.79999999999998
+1285.0600000000002
+4
+@
+Elisabeth Curtis
+/course/1274
+100.13999999999996
+1016.6600000000002
+5
+@
+Jesse Giummo
+/course/1274
+137.26000000000002
+252.29999999999995
+11
+@
+Min Chang
+/course/1274
+233.74
+91.22000000000004
+3
+@
+Patricia Anderson
+/course/1274
+71.48
+106.16
+4
+@
+Scott E.
+/course/1274
+42.199999999999996
+165.22
+5
+@
+Wolfgang H.
+/course/1274
+20.539999999999996
+120.72
+10
+@
+Randall P.
+/course/1274
+38.58
+25.419999999999998
+2
+@
+Evelyn Gick
+/course/1274
+61.379999999999995
+54.900000000000006
+4
+@
+Katerina V.
+/course/1274
+34.83999999999999
+87.33999999999999
+9
+@
+C. Frank
+/course/1274
+11.540000000000003
+57.0
+5
+@
+Sheri L.
+/course/1274
+7.319999999999999
+136.5
+10
+@
+John Scott
+/course/1274
+36.339999999999996
+92.40000000000002
+4
+@
+Parama Chaudhury
+/course/1274
+17.58
+48.480000000000004
+4
+@
+Matias E.
+/course/1274
+19.299999999999997
+17.0
+6
+@
+C Frank Zarnowski
+/course/1274
+2.64
+56.68
+2
+@
+Annamaria Lusardi
+/course/1274
+13.34
+49.099999999999994
+2
+@
+C Frank
+/course/1274
+24.88
+84.28
+6
+@
+Naama Shenhav
+/course/1274
+15.4
+21.740000000000002
+10
+@
+James Thorson
+/course/1274
+14.68
+0.38
+8
+@
+Mirjam Tabea
+/course/1274
+0.86
+0.15999999999999998
+10
+@
+William Fischel
+/course/1274
+9.739999999999998
+1.6
+5
+@
+Robert Kleck
+/course/1274
+120.96000000000001
+299.8400000000001
+3
+@
+William Kelley
+/course/1274
+93.21999999999997
+219.07999999999998
+13
+@
+Howard Hughes
+/course/1274
+12.000000000000002
+36.12
+3
+@
+G. Christian
+/course/1274
+20.92
+70.46
+11
+@
+Ann Clark
+/course/1274
+61.919999999999995
+86.74
+10
+@
+Scott T.
+/course/1274
+31.299999999999997
+1.68
+5
+@
+Bradley Duchaine, Thalia Wheatley
+/course/1274
+0.24
+15.879999999999999
+5
+@
+Thalia Wheatley
+/course/1274
+0.66
+34.35999999999999
+13
+@
+Todd Heatherton
+/course/1274
+5.38
+49.739999999999995
+7
+@
+Kelly A.
+/course/1274
+6.6
+1.2399999999999998
+5
+@
+C. Neil
+/course/1274
+0.02
+0
+2
+@
+Peter Tse
+/course/1274
+0.18
+6.4
+4
+@
+Bradley Duchaine
+/course/1274
+0.24
+15.879999999999999
+5
+@
+Timothy Pulju
+/course/1274
+92.04
+870.78
+5
+@
+Lenore A.
+/course/1274
+32.87999999999999
+119.97999999999999
+9
+@
+Ioana Chitoran
+/course/1274
+39.98
+130.83999999999997
+7
+@
+Thomas Ernst
+/course/1274
+46.14
+181.59999999999997
+7
+@
+David Peterson
+/course/1274
+73.3
+43.07999999999999
+7
+@
+Lindsay J.
+/course/1274
+23.019999999999996
+77.32000000000001
+6
+@
+James Stanford
+/course/1274
+0.9600000000000001
+88.26000000000002
+7
+@
+Laura Mcpherson
+/course/1274
+0.48000000000000004
+27.880000000000006
+7
+@
+Laura McPherson
+/course/1274
+0.48000000000000004
+27.880000000000006
+7
+@
+Enrico Riley
+/course/1274
+23.16
+215.90000000000003
+6
+@
+Colleen Randall
+/course/1274
+22.94
+88.76
+10
+@
+Pamela Thompson
+/course/1274
+21.299999999999997
+102.82
+7
+@
+Susan Walp
+/course/1274
+18.08
+161.64
+5
+@
+Louise Hamlin
+/course/1274
+29.300000000000004
+125.53999999999999
+11
+@
+Benjamin F.
+/course/1274
+14.92
+142.41999999999996
+6
+@
+Deborah Kahn
+/course/1274
+50.12
+25.759999999999998
+4
+@
+Karolina Kawiaka
+/course/1274
+11.74
+62.32
+8
+@
+Daniel E.
+/course/1274
+51.14
+28.520000000000003
+9
+@
+Chuck Holtzman
+/course/1274
+0.13999999999999999
+35.03999999999999
+4
+@
+Charles E.
+/course/1274
+9.88
+6.44
+5
+@
+Ruth Lauer
+/course/1274
+19.18
+4.94
+2
+@
+Brenda Garand
+/course/1274
+6.58
+24.72
+7
+@
+Pahl Hluchan
+/course/1274
+0.15999999999999998
+1.64
+2
+@
+Paul Bowen
+/course/1274
+0.28
+30.68
+13
+@
+Thomas Ferrara
+/course/1274
+1.6
+12.520000000000001
+7
+@
+Jeneen Piccuirro
+/course/1274
+0.1
+10.98
+3
+@
+Gerald Auten
+/course/1274
+8.12
+16.42
+8
+@
+Ginger Levant
+/course/1274
+1.26
+0.13999999999999999
+10
+@
+Katharine Cholnoky
+/course/1274
+0.1
+8.5
+6
+@
+Marilyn J.
+/course/1274
+0
+0.13999999999999999
+3
+@
+John Wilson
+/course/1274
+0
+1.08
+3
+@
+Soo Young
+/course/1274
+3.72
+21.459999999999997
+15
+@
+Ruth Miller-Forge
+/course/1274
+0
+0.13999999999999999
+2
+@
+Marjorie Rose
+/course/1274
+223.77999999999997
+530.5400000000001
+3
+@
+James Feyrer
+/course/1274
+79.36
+581.4599999999999
+10
+@
+Avner Bar-Ilan
+/course/1274
+41.74000000000001
+252.66
+5
+@
+Massimiliano DeSantis
+/course/1274
+161.74
+176.32000000000005
+6
+@
+Annamaria Lusardi
+/course/1274
+9.720000000000002
+70.0
+6
+@
+Elisabeth Curtis
+/course/1274
+14.0
+64.47999999999999
+6
+@
+Diego Comin
+/course/1274
+19.28
+42.199999999999996
+17
+@
+Nancy Marion
+/course/1274
+0.42000000000000004
+41.06
+5
+@
+Fahri Ulusoy
+/course/1274
+2.3200000000000003
+34.26
+5
+@
+Carl M.
+/course/1274
+0
+14.879999999999999
+8
+@
+Andrew Levin
+/course/1274
+0.2
+13.260000000000002
+10
+@
+Noam Gruber
+/course/1274
+2.5
+6.88
+8
+@
+Francine A'Ness
+/course/1274
+0.42000000000000004
+126.52
+5
+@
+Jennifer Fluri
+/course/1274
+34.12
+84.3
+2
+@
+Phyllis Katz
+/course/1274
+18.6
+26.040000000000006
+4
+@
+Annelise Orleck
+/course/1274
+14.32
+76.46
+8
+@
+Irene Kacandes
+/course/1274
+0.5599999999999999
+63.66
+11
+@
+Michael Bronski
+/course/1274
+0
+36.62
+6
+@
+Faith Beasley
+/course/1274
+18.28
+9.84
+4
+@
+Virginia E.
+/course/1274
+23.1
+11.100000000000001
+4
+@
+Renee Bergland
+/course/1274
+1.6800000000000002
+54.99999999999999
+8
+@
+Ana Merino
+/course/1274
+25.819999999999997
+32.1
+4
+@
+Andrea Tarnowski
+/course/1274
+0.4
+17.58
+5
+@
+Giavanna Munafo
+/course/1274
+0.38000000000000006
+31.619999999999997
+6
+@
+Angela H.
+/course/1274
+0.3
+9.5
+6
+@
+Ulrike Rainer
+/course/1274
+0.1
+3.0
+6
+@
+Ivy Schweitzer
+/course/1274
+0.1
+3.6
+4
+@
+Laura L.
+/course/1274
+0.19999999999999998
+0.02
+5
+@
+Kristin O'rourke
+/course/1274
+0
+0.33999999999999997
+7
+@
+Susan Brison
+/course/1274
+2.52
+8.479999999999999
+7
+@
+Douglas Moody
+/course/1274
+8.459999999999999
+5.98
+16
+@
+Paula A.
+/course/1274
+0
+0.31999999999999995
+5
+@
+Kristin O'Rourke
+/course/1274
+0
+0.33999999999999997
+7
+@
+Myrna Velez
+/course/1274
+115.25999999999999
+638.0800000000002
+17
+@
+Douglas Moody
+/course/1274
+8.14
+223.92000000000002
+8
+@
+Irasema Saucedo
+/course/1274
+8.459999999999999
+136.1
+6
+@
+Natalia Barantseva
+/course/1274
+1.08
+71.24
+3
+@
+Elizabeth Chamberlain
+/course/1274
+5.720000000000001
+129.92
+4
+@
+Piers Armstrong
+/course/1274
+67.67999999999999
+11.000000000000002
+4
+@
+Maitena Gorostarzu
+/course/1274
+8.74
+15.320000000000002
+3
+@
+Alba Sanchis
+/course/1274
+4.8599999999999985
+57.739999999999995
+41
+@
+Ana M.
+/course/1274
+0.16
+41.78
+5
+@
+Carmen Bascunan
+/course/1274
+0
+42.6
+5
+@
+Rodolfo Franconi
+/course/1274
+0
+17.5
+9
+@
+Julie Lirot
+/course/1274
+0
+1.7000000000000002
+4
+@
+Paloma Asensio
+/course/1274
+0
+1.7000000000000002
+4
+@
+Natalia Monetti
+/course/1274
+9.12
+14.54
+8
+@
+Gema M.
+/course/1274
+9.58
+335.05999999999995
+5
+@
+Gladys Guzman-Bueno
+/course/1274
+13.58
+578.88
+2
+@
+Cecilia I.
+/course/1274
+34.74
+93.33999999999999
+3
+@
+Douglas Moody
+/course/1274
+15.959999999999999
+88.56000000000002
+3
+@
+Natalia Barantseva
+/course/1274
+0.36
+83.6
+10
+@
+Irasema Saucedo
+/course/1274
+3.18
+54.239999999999995
+4
+@
+Rodrigo A.
+/course/1274
+7.26
+23.36
+6
+@
+Paloma Asensio
+/course/1274
+1.22
+51.839999999999996
+5
+@
+Maria I.
+/course/1274
+0.44000000000000006
+8.499999999999998
+5
+@
+Elizabeth Chamberlain
+/course/1274
+0
+75.89999999999999
+2
+@
+Sebastian Diaz
+/course/1274
+11.52
+56.36000000000001
+7
+@
+Maitena Gorostarzu
+/course/1274
+0.16
+9.9
+2
+@
+Carmen Bascunan
+/course/1274
+0.02
+35.18
+5
+@
+Alina Sokol
+/course/1274
+0.42
+14.78
+5
+@
+Julie Lirot
+/course/1274
+0
+12.32
+6
+@
+Paul Carranza
+/course/1274
+4.9
+24.2
+5
+@
+Alba Sanchis
+/course/1274
+0.54
+13.54
+13
+@
+Israel Reyes
+/course/1274
+0
+30.979999999999997
+8
+@
+Rosa Maria
+/course/1274
+8.44
+0
+6
+@
+Xenia Markowitt
+/course/1274
+0
+0.02
+2
+@
+Jorge Quintana-navarrete
+/course/1274
+0
+16.759999999999998
+7
+@
+Kianny Antigua
+/course/1274
+30.24000000000001
+0.1
+12
+@
+Ana M.
+/course/1274
+0
+0.18
+2
+@
+Rosa Matorras
+/course/1274
+0
+2.04
+10
+@
+Ivan M.
+/course/1274
+6.4
+13.36
+10
+@
+Veronica Ingham
+/course/1274
+0
+11.88
+8
+@
+Gema Mayo-Prada
+/course/1274
+0
+17.42
+8
+@
+Jorge Quintana-Navarrete
+/course/1274
+0
+16.759999999999998
+7
+@
+Antonio Gomez
+/course/1274
+4.599999999999998
+274.72
+4
+@
+Ricardo Bardo
+/course/1274
+38.760000000000005
+137.26
+8
+@
+Paloma Asensio
+/course/1274
+18.28
+65.7
+3
+@
+Joseph Aguado
+/course/1274
+3.16
+118.00000000000001
+7
+@
+Elizabeth Chamberlain
+/course/1274
+0.54
+90.25999999999999
+6
+@
+Francine A'Ness
+/course/1274
+0.06
+182.01999999999995
+4
+@
+Ana M.
+/course/1274
+22.92
+32.019999999999996
+6
+@
+Julie Lirot
+/course/1274
+52.86
+19.28
+5
+@
+Paula A.
+/course/1274
+6.44
+30.44
+7
+@
+Robert H.
+/course/1274
+0.48
+86.56
+8
+@
+Isabel Soler-Quintana
+/course/1274
+33.12
+5.2
+15
+@
+Alina Sokol
+/course/1274
+1.78
+13.46
+2
+@
+Roberto Rey Agudo
+/course/1274
+3.02
+24.599999999999994
+3
+@
+Rosa Matorras
+/course/1274
+3.7800000000000002
+34.28
+15
+@
+Isabel Lozano-Renieblas
+/course/1274
+0.1
+9.54
+6
+@
+Rodrigo A.
+/course/1274
+2.74
+0.58
+7
+@
+Rosa Maria
+/course/1274
+3.86
+5.08
+3
+@
+Fritz Glockner
+/course/1274
+1.0
+0.8999999999999999
+13
+@
+Silvia Spitta
+/course/1274
+0
+7.4
+4
+@
+Graciela Monteagudo
+/course/1274
+0.13999999999999999
+8.9
+4
+@
+Francoise E.
+/course/1274
+0.4
+0.24
+5
+@
+Annabel Martin
+/course/1274
+0.02
+8.42
+5
+@
+Noelia Cirnigliaro
+/course/1274
+0
+10.12
+6
+@
+Juan M.
+/course/1274
+11.4
+0
+9
+@
+Carlos A.
+/course/1274
+6.44
+11.84
+6
+@
+Ana Merino
+/course/1274
+0
+4.9
+2
+@
+Eusebio Rodriguez
+/course/1274
+0.28
+4.06
+10
+@
+Israel Reyes
+/course/1274
+0.04
+11.14
+8
+@
+John Carey
+/course/1274
+134.2
+384.0
+3
+@
+Lisa Baldez
+/course/1274
+66.08000000000001
+196.32000000000005
+5
+@
+M. Anne
+/course/1274
+81.86000000000001
+169.45999999999998
+6
+@
+Jeremy Horowitz
+/course/1274
+1.8600000000000003
+86.89999999999999
+4
+@
+Shelley M.
+/course/1274
+9.02
+88.52
+4
+@
+David G.
+/course/1274
+25.26
+27.92
+4
+@
+Martin K.
+/course/1274
+11.220000000000002
+36.94
+5
+@
+Diederik Vandewalle
+/course/1274
+0.4
+26.32
+15
+@
+Dennis M.
+/course/1274
+10.96
+117.52000000000002
+9
+@
+Gladys Guzman-Bueno
+/course/1274
+0.6000000000000001
+225.72
+2
+@
+Elizabeth Chamberlain
+/course/1274
+9.52
+209.5
+4
+@
+Rosa Maria
+/course/1274
+26.160000000000004
+121.76
+3
+@
+Piers Armstrong
+/course/1274
+16.58
+83.17999999999999
+2
+@
+Paula A.
+/course/1274
+8.38
+38.739999999999995
+4
+@
+Paloma Asensio
+/course/1274
+1.6199999999999999
+60.519999999999996
+5
+@
+Julie Lirot
+/course/1274
+18.72
+15.56
+3
+@
+Joseph Aguado
+/course/1274
+0.64
+60.3
+5
+@
+Lorgia Garcia-Pena
+/course/1274
+8.66
+25.02
+3
+@
+Marsha Swislocki
+/course/1274
+0.8
+24.520000000000003
+8
+@
+Antonio Gomez
+/course/1274
+13.8
+29.56
+5
+@
+Alina Sokol
+/course/1274
+0.16
+0.56
+3
+@
+Annabel Martin
+/course/1274
+0.26
+36.099999999999994
+3
+@
+Rosa Matorras
+/course/1274
+13.74
+27.08
+7
+@
+Hugo J.
+/course/1274
+6.0200000000000005
+2.52
+4
+@
+Maria De Greiff
+/course/1274
+2.5
+28.86
+4
+@
+Beatriz Pastor
+/course/1274
+0
+15.6
+5
+@
+Francine A'Ness
+/course/1274
+0.14
+8.26
+6
+@
+Ana Merino
+/course/1274
+0.02
+0.26
+4
+@
+Maria Irene
+/course/1274
+15.18
+0.1
+10
+@
+Raul Bueno-Chavez
+/course/1274
+0
+8.1
+2
+@
+Carlos Cortez
+/course/1274
+0
+6.800000000000001
+7
+@
+Rodrigo A.
+/course/1274
+2.5
+0
+3
+@
+Alexander A.
+/course/1274
+0.12
+0.32
+6
+@
+Jose del
+/course/1274
+0
+4.9
+2
+@
+Carmen Bascunan
+/course/1274
+0
+11.7
+5
+@
+Irasema Saucedo
+/course/1274
+6.4
+10.0
+4
+@
+Lee Witters
+/course/1274
+106.45999999999997
+2078.179999999999
+10
+@
+Brigitte Mosenthal
+/course/1274
+52.18000000000001
+343.9200000000001
+5
+@
+Anna Minardi
+/course/1274
+3.24
+292.32000000000005
+6
+@
+Annabelle Cone
+/course/1274
+17.68
+151.57999999999996
+7
+@
+Samuel Stark
+/course/1274
+42.82
+63.96000000000001
+6
+@
+Julia Viazmenski
+/course/1274
+3.58
+187.01999999999998
+7
+@
+Regine Tessier
+/course/1274
+18.880000000000003
+35.1
+5
+@
+Giuseppe Cavatorta
+/course/1274
+0.16
+68.08
+8
+@
+Fieke Fabricant
+/course/1274
+0.18
+124.1
+8
+@
+Margaret J.
+/course/1274
+18.1
+14.64
+13
+@
+Sandra Mefoude Obiono
+/course/1274
+24.68
+28.319999999999997
+6
+@
+Laure Marcellesi
+/course/1274
+8.5
+51.5
+4
+@
+Katherine Brown
+/course/1274
+9.0
+56.24000000000001
+10
+@
+Katharine Conley
+/course/1274
+1.78
+26.740000000000002
+2
+@
+Faith Beasley
+/course/1274
+0.2
+51.58
+4
+@
+Yasmine Renault
+/course/1274
+0.52
+30.080000000000002
+3
+@
+Nancy Canepa
+/course/1274
+22.18
+38.34
+18
+@
+Christopher J.
+/course/1274
+18.400000000000002
+3.2
+3
+@
+Olivia Holmes
+/course/1274
+0
+7.720000000000001
+3
+@
+Michael A.
+/course/1274
+3.7
+32.199999999999996
+9
+@
+Andrea Tarnowski
+/course/1274
+8.34
+10.260000000000002
+9
+@
+J. Kathleen
+/course/1274
+3.6
+11.58
+4
+@
+Miriam F.
+/course/1274
+0.46
+5.380000000000001
+4
+@
+Emanuel Rota
+/course/1274
+4.9
+8.52
+5
+@
+Roxana Verona
+/course/1274
+0
+25.28
+5
+@
+Giampiero Bevagna
+/course/1274
+4.0200000000000005
+6.58
+7
+@
+Mary Green
+/course/1274
+0.04
+6.74
+5
+@
+Catherine Prat
+/course/1274
+0
+8.28
+5
+@
+Loic Lerme
+/course/1274
+0
+39.18
+9
+@
+Manuele Gragnolati
+/course/1274
+0
+0.04
+2
+@
+Thatcher Hinman
+/course/1274
+0.04
+6.92
+7
+@
+Anna Maria
+/course/1274
+0
+19.799999999999997
+6
+@
+Diane-Marie Decharme
+/course/1274
+0
+11.879999999999999
+5
+@
+Ronald Shaiko
+/course/1274
+100.50000000000001
+375.66
+2
+@
+Richard Winters
+/course/1274
+105.71999999999996
+223.58
+7
+@
+Deborah Brooks
+/course/1274
+146.70000000000002
+120.27999999999999
+5
+@
+Dean Lacy
+/course/1274
+4.859999999999999
+203.15999999999997
+9
+@
+Linda Fowler
+/course/1274
+11.479999999999999
+105.44
+2
+@
+Emily Clough
+/course/1274
+64.32000000000001
+5.960000000000001
+4
+@
+Michael Herron
+/course/1274
+14.4
+9.24
+4
+@
+Jason Sorens
+/course/1274
+0.14
+53.6
+8
+@
+Jeffrey R.
+/course/1274
+8.1
+0.74
+7
+@
+Yale E.
+/course/1274
+275.36
+191.88000000000002
+5
+@
+David Bucci
+/course/1274
+77.92
+371.7200000000001
+8
+@
+Kirsten Dalrymple
+/course/1274
+2.9
+19.9
+5
+@
+Catherine Cramer
+/course/1274
+1.0
+17.14
+9
+@
+Julie Dumont
+/course/1274
+0.56
+0.06
+7
+@
+Wolfgang H.
+/course/1274
+102.52
+308.4
+7
+@
+Alan Gustman
+/course/1274
+96.58000000000001
+141.6
+6
+@
+Pascaline Dupas
+/course/1274
+33.160000000000004
+192.29999999999998
+12
+@
+Maura Doyle
+/course/1274
+11.719999999999999
+198.4
+11
+@
+Sameer Chandan
+/course/1274
+5.880000000000001
+57.980000000000004
+2
+@
+Avner Bar-Ilan
+/course/1274
+27.220000000000006
+45.519999999999996
+7
+@
+Andreas Bentz
+/course/1274
+14.72
+64.42
+4
+@
+John G.
+/course/1274
+38.6
+58.56000000000001
+3
+@
+Eric Edmonds
+/course/1274
+24.42
+24.779999999999998
+9
+@
+Kathleen McGarry
+/course/1274
+2.04
+26.22
+4
+@
+Francesco Passarelli
+/course/1274
+24.879999999999995
+12.7
+4
+@
+Erzo Luttmer
+/course/1274
+19.2
+31.700000000000003
+10
+@
+Joshua Schwartzstein
+/course/1274
+12.98
+8.82
+8
+@
+Fahri Ulusoy
+/course/1274
+23.740000000000002
+4.3999999999999995
+10
+@
+Katerina V.
+/course/1274
+5.420000000000001
+2.74
+6
+@
+Christopher Snyder
+/course/1274
+5.26
+39.58
+12
+@
+Dmitry Taubinsky
+/course/1274
+3.6
+3.66
+5
+@
+Lauren Russell
+/course/1274
+0.08
+13.280000000000001
+10
+@
+Robert Drysdale
+/course/1274
+50.22
+85.92000000000002
+17
+@
+Timothy Pierson
+/course/1274
+9.28
+27.64
+10
+@
+Prasad Jayanti
+/course/1274
+0
+31.7
+8
+@
+Christopher Bailey-kellogg
+/course/1274
+0.08
+0.5
+9
+@
+Christopher Bailey-Kellogg
+/course/1274
+0.08
+0.5
+9
+@
+Anna Minardi
+/course/1274
+0.4599999999999999
+525.42
+4
+@
+Fieke Fabricant
+/course/1274
+32.04
+142.44
+2
+@
+Giuseppe Cavatorta
+/course/1274
+9.999999999999998
+164.76
+10
+@
+Brigitte Mosenthal
+/course/1274
+4.279999999999999
+171.65999999999997
+5
+@
+Regine Tessier
+/course/1274
+16.08
+45.900000000000006
+4
+@
+Maud Alpi
+/course/1274
+0.2
+81.91999999999999
+6
+@
+Jean M.
+/course/1274
+0.56
+42.38
+16
+@
+Aimee Kilbane
+/course/1274
+0.24000000000000002
+63.099999999999994
+3
+@
+Nancy Canepa
+/course/1274
+7.780000000000001
+29.119999999999997
+9
+@
+Amandine Poivre
+/course/1274
+3.58
+19.18
+3
+@
+Julia Viazmenski
+/course/1274
+0
+36.6
+2
+@
+Marco Ruffini
+/course/1274
+7.6
+42.68
+4
+@
+Eleonora Stoppino
+/course/1274
+1.1600000000000001
+22.7
+3
+@
+Thatcher Hinman
+/course/1274
+0.30000000000000004
+14.82
+3
+@
+Kelly Mcconnell
+/course/1274
+0
+61.21999999999999
+4
+@
+Virginia E.
+/course/1274
+15.8
+6.6000000000000005
+3
+@
+Catherine Prat
+/course/1274
+0
+27.96
+6
+@
+Michael A.
+/course/1274
+0.02
+1.84
+5
+@
+Giacomo Mannironi
+/course/1274
+0.9
+5.18
+3
+@
+Giampiero Bevagna
+/course/1274
+0.1
+0
+2
+@
+Katherine Brown
+/course/1274
+0
+0.48
+4
+@
+Kieran Murphy
+/course/1274
+3.0
+13.26
+11
+@
+Yasmine Renault
+/course/1274
+0.12
+8.36
+11
+@
+Surian C.
+/course/1274
+0.06
+6.5600000000000005
+4
+@
+Julie Delamard
+/course/1274
+0
+1.1
+5
+@
+Emanuel Rota
+/course/1274
+0.16
+6.5600000000000005
+6
+@
+Kelly McConnell
+/course/1274
+0
+61.21999999999999
+4
+@
+Anna Maria
+/course/1274
+0.08
+16.7
+8
+@

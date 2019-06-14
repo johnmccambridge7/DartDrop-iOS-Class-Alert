@@ -1,0 +1,860 @@
+COSC001 Introduction to Programming and Computation@335
+GOVT005 International Politics@178
+ECON001 The Price System Analysis, Problems, and Policies@145
+PSYC001 Introductory Psychology@117
+LING001 Introductory Linguistics@101
+SART015 Drawing I@67
+WGSS010 Sex, Gender, and Society@66
+ECON022 Macroeconomics@66
+SPAN001 Spanish I@64
+SPAN002 Spanish II@61
+SPAN009 Culture and Conversation Advanced Spanish Language@57
+GOVT004 Politics of the World@52
+SPAN003 Spanish III@49
+BIOL002 Human Biology@45
+FREN002 Introductory French II@45
+GOVT003 The American Political System@44
+PSYC006 Introduction to Neuroscience@43
+ECON021 Microeconomics@42
+COSC010 Problem Solving via Object-Oriented Programming@42
+FREN001 Introductory French I@40
+ENGS012 Design Thinking@38
+MATH011 Accelerated Multivariable Calculus@38
+MATH013 Calculus of Vector-Valued Functions@37
+MUS051 Oral Tradition Musicianship@35
+FREN003 Introductory French III@35
+THEA030 Acting I@34
+GOVT010 Quantitative Political Analysis@34
+SOCY001 Introductory Sociology@31
+PSYC024 Abnormal Psychology@31
+EARS001 How the Earth Works@30
+MATH022 Linear Algebra with Applications@29
+MATH008 Calculus of Functions of One and Several Variables@29
+ECON020 Econometrics@28
+ENGS021 Introduction to Engineering@27
+ENGS020 Introduction to Scientific Computing@27
+GOVT006 Political Ideas@27
+PHYS013 Introductory Physics I@26
+PHYS003 General Physics I@25
+ECON039 International Trade@24
+ECON010 Introduction to Statistical Methods@24
+EDUC001 Introduction to Education Learning, Development, and Teaching@23
+ASTR002 Exploring the Universe@22
+COLT001 Read the World@20
+GEOG001 Introduction to Human Geography@20
+ANTH006 Introduction to Biological Anthropology@20
+ECON026 The Economics of Financial Intermediaries and Markets@20
+CHEM005 General Chemistry@20
+CHEM051 Organic Chemistry@19
+RUSS013 Slavic Folklore Vampires, Witches and Firebirds@18
+ARTH001 Bodies and Buildings Introduction to the History of Art in the Ancient World and the Middle Ages@18
+COSC050 Software Design and Implementation@18
+EARS006 Environmental Change@17
+ENGL015 Shakespeare@15
+GERM001 Introductory German@15
+ENGS033 Solid Mechanics@15
+FREN008 Exploring French Culture and Language@15
+HIST036 Health Care in American Society History and Current Issues@15
+PHYS015 Introductory Physics I, Honors Section@15
+CHEM006 General Chemistry@15
+ASTR003 Exploring the Universe, with Laboratory@14
+SPAN020 Writing and Reading A Critical and Cultural Approach@14
+SART016 Sculpture I@14
+CHIN004 Advanced First-Year Chinese@14
+LAT001 Introductory Latin@13
+FILM001 Introduction to Film From Script to Screen@13
+QSS015 Introduction to Data Analysis@12
+BIOL011.07 Major Events in the History of Life and the Human Genome@12
+NAS008 Perspectives in Native American Studies@11
+MUS001 Beginning Music Theory@11
+PHIL008 Introduction to Moral Philosophy@11
+ECON028 Public Economics@11
+MATH009 Multivariable Differential Calculus with Linear Algebra@11
+PHIL003 Reason and Argument@11
+ECON029 International Finance and Open-Economy Macroeconomics@11
+COSC030 Discrete Mathematics in Computer Science@11
+ENGS013 Virtual Medicine and Cybercare@10
+JWST006 Introduction to Judaism@10
+NAS025 Indian Country Today@10
+GEOG003 The Natural Environment@10
+CLST004 Classical Mythology@10
+PSYC021 Perception@10
+MATH023 Differential Equations@10
+HIST049 Early Modern England, 1485-1780@10
+BIOL014 Physiology@10
+PSYC010 Experimental Design, Methodology, and Data Analysis Procedures@9
+ARAB001 First-Year Courses in Arabic@9
+ENVS003 Environment and Society Towards Sustainability?@9
+ITAL003 Introductory Italian III@9
+GEOG022 Urban Geography@9
+MATH020 Probability@9
+BIOL016 Ecology@9
+ENGL047 A History of the English Language@8
+REL018 Indian Buddhism@8
+ITAL002 Introductory Italian II@8
+FILM033 Writing for the Screen I@8
+PHIL001.08 Philosophy of Time & Time Travel@8
+HIST026 The Vietnam War@8
+COSC022 3D Digital Modeling@8
+JAPN001 First-Year Courses in Japanese@8
+COSC076 Artificial Intelligence@8
+REL001.01 What Matters@7
+ECON002 Economic Principles and Policies@7
+SART065 Architecture I@7
+CLST006 Introduction to Classical Archaeology@7
+ECON025 Competition and Strategy@7
+GOVT053 International Security@7
+SPAN032 Introduction to Hispanic Studies III 20th-21st Centuries@7
+GEOG006 Introduction to International Development@7
+BIOL019 Honors Cell Structure and Function@7
+CHIN001 First-Year Courses in Chinese@7
+BIOL012 Cell Structure and Function@7
+ITAL001 Introductory Italian I@6
+LACS001 Introduction to Latin America and the Caribbean@6
+ENGS035 Biotechnology and Biochemical Engineering@6
+RUSS001 Introductory Russian@6
+BIOL046 Microbiology@6
+FILM020 Film History I (Silent to Sound)@6
+ECON036 Theory of Finance@6
+ENGS022 Systems@6
+MUS008 Programming for Interactive Audio-Visual Art@5
+NAS014 The Invasion of America American Indian History Pre-Contact to 1800@5
+RUSS036 The Seer of the Flesh&quot; Tolstoy's Art and Thought@5
+ECON027 Labor Economics@5
+ENVS018 Indigenous Environmental Studies@5
+COSC016 Introduction to Computational Neuroscience@5
+BIOL024 Vertebrate Zoology@5
+HIST014 The Invasion of America American Indian History, Pre-Contact to 1800@5
+ECON080 Advanced Topics in Econometrics@5
+GEOG002 Global Health and Society@4
+GERM010.01 To Be Young and German@4
+ENVS067 Political Ecology@4
+PHYS019 Relativistic and Quantum Physics@4
+ANTH036 Contemporary Africa Exploring Myths, Engaging Realities@4
+ENVS030 Global Environmental Science@4
+TUCK002 Principles of Marketing@4
+ECON024 Development Economics@4
+PHIL030 Epistemology and Methodology@4
+SART025 Painting I@4
+SART031 Painting II@4
+GEOG090 Research in Geography@4
+ECON024 Development Economics@4
+PHIL030 Epistemology and Methodology@4
+GOVT042 Politics of Africa@4
+ENVS065 Global Environmental Politics@4
+PSYC065 Systems Neuroscience with Laboratory@4
+MATH001 Introduction to Calculus@4
+MATH025 Number Theory@4
+FILM031 Filmmaking I Basic Elements of Film@3
+ENGS004 Technology of Cyberspace@3
+SART027 Printmaking I - Etching@3
+REL006 Introduction to Judaism@3
+THEA042 Scene Design I@3
+ENGL010 Anglo-Saxon and Scandinavian Epic and Saga@3
+ENVS060 Environmental Law@3
+GERM042 Topics in German Civilization (in English translation)@3
+MATH071 Algebra@3
+LING022 Syntax@3
+RUSS027 Intermediate Russian I@3
+FREN023 Introduction to French Literature II Neoclassicism and the Eighteenth Century@3
+PHIL009.07 Ethics of Freedom, Paternalism, and Intervention@3
+FREN023 Introduction to French Literature II Neoclassicism and the Eighteenth Century@3
+REL070 Foreign Study in Religion I@3
+EARS045 Field Methods Techniques of Structural and Stratigraphic Analysis@3
+MATH071 Algebra@3
+HIST022 Civil Rights in the United States in the 20th Century@3
+CRWT010 Introduction to Fiction@3
+WRIT044.02 Science and Technology Writing and Presentation@3
+ECON032 Monetary Policy and the Macroeconomy@3
+SPAN021 Traditional and Contemporary Andean Cosmogonies and Cultural Production A Historical Approach@3
+SART029 Photography I@3
+ENGL053.17 The Graphic Novel@3
+AAAS012 Race and Slavery in U.S. History@3
+REL010 The Religions of China@3
+HIST016 Race and Slavery in US History@3
+PSYC040 Introduction to Computational Neuroscience@3
+SOCY011 Research Methods@3
+BIOL040 Biochemistry@3
+ENGS023 Distributed Systems and Fields@3
+COSC055 Security and Privacy@2
+ENGS027 Discrete and Probabilistic Systems@2
+GEOG026 Women, Gender and Development@2
+ENGS027 Discrete and Probabilistic Systems@2
+COSC174 Machine Learning and Statistical Data Analysis@2
+PSYC011 Laboratory in Psychological Science.@2
+LATS003 Introduction to Latino Studies@2
+ITAL012 Advanced Writing and Speaking in Italian@2
+WGSS020.02 #MeToo Intersectionality, Hashtag Activism, and Our Lives@2
+MATH031 Topics in Algebra@2
+AAAS044 Contemporary Africa Exploring Myths, Engaging Realities@2
+ENGS037 Introduction to Environmental Engineering@2
+MATH036 Mathematical Models in the Social Sciences@2
+COSC074 Machine Learning and Statistical Data Analysis@2
+MUS005.02 History of Jazz since 1959@2
+FILM030 Documentary Videomaking@2
+ANTH039 Archaeology of the Middle East@2
+THEA015 Theatre and Society I Classical and Medieval Performance@2
+SART066 Architecture II@2
+SART030 Photography II@2
+BIOL047 Genomics From Data to Analysis@2
+ENGL090 English Study Abroad I@2
+ENGL090 English Study Abroad I@2
+CHIN031 Advanced Modern Chinese (Third-year level)@2
+FILM030 Documentary Videomaking@2
+THEA015 Theatre and Society I Classical and Medieval Performance@2
+EARS046 Field Methods Environmental Monitoring@2
+PHYS047 Optics@2
+WGSS080 Seminar in Women's, Gender, and Sexuality Studies@2
+CRWT012 Introduction to Poetry@2
+FREN011 Intensive French@2
+PSYC060 Principles of Human Brain Mapping with fMRI@2
+ENGS091 Numerical Methods in Computation@2
+LAT010 Readings in Latin Prose and Poetry@2
+PHYS043 Statistical Physics@2
+AAAS019 Africa and the World@2
+ECON078 Fed Challenge@2
+PHIL035 Mind and Psychology@2
+PSYC053.10 Social and Affective Motivations in Decision-making@2
+GOVT060.04 Ethics and Public Policy@2
+GOVT084.35 U.S. – Latin America Relations The Dynamic of Foreign Policy Formulation@2
+LAT015 Literature and the Romans@2
+GOVT064.01 Liberalism and Its Critics@2
+EARS018 Environmental Geology@2
+MES008.01 Introduction to Middle East Politics@2
+ITAL011 Intensive Italian@2
+PHIL026 Philosophy and Computers@1
+THEA040 Technical Production@1
+SOCY010 Quantitative Analysis of Social Data@1
+REL023 Jewish Mysticism@1
+COSC002 Programming for Interactive Audio-Visual Arts@1
+FILM002 Introduction to Television@1
+ENGS093 Statistical Methods in Engineering@1
+LATS089 Independent Study@1
+ANTH011 Ancient Native Americans@1
+ARAB031 Advanced Arabic@1
+COSC169 Topics in Computer Systems@1
+PBPL045 Introduction to Public Policy Research@1
+REL056 Women and the Bible@1
+COSC081 Principles of Robot Design and Programming@1
+PHIL060 Foreign Study in Philosophy I@1
+PHIL011 Ancient Greek and Roman Philosophy@1
+ANTH075 Ecology, Culture, and Environmental Change@1
+COSC075 Introduction to Bioinformatics@1
+ENVS089 Soils, Forests and Food@1
+ENVS084 Seminar on Environmental Issues of Southern Africa@1
+ENVS072 Nature Writers@1
+PHIL060 Foreign Study in Philosophy I@1
+ENVS042 Foreign Study in Environmental Problems II@1
+ENVS040 Foreign Study in Environmental Problems I@1
+COSC039 Theory of Computation@1
+PHIL061 Foreign Study in Philosophy II@1
+PHIL011 Ancient Greek and Roman Philosophy@1
+ENGS092 Fourier Transforms and Complex Variables@1
+PBPL045 Introduction to Public Policy Research@1
+NAS018 Indigenous Environmental Studies@1
+ENGS076 Machine Engineering@1
+GOVT090 Seminar@1
+ENGS066 Discrete Mathematics in Computer Science@1
+BIOL074 Advanced Neurobiology@1
+MATH068 Algebraic Combinatorics@1
+ENGS036 Chemical Engineering@1
+PHIL060 Foreign Study in Philosophy I@1
+BIOL051 Advanced Population Ecology@1
+PHIL061 Foreign Study in Philosophy II@1
+PBPL045 Introduction to Public Policy Research@1
+CLST020 Greek Prehistoric Archaeology The Emergence of Civilization in the Aegean@1
+ENGL054.15 History of the Book@1
+ENGL053.04 Telling Stories for Social Change@1
+CHIN022 Intermediate Modern Chinese (Second-year level)@1
+BIOL021 Population Ecology@1
+HEBR001 First-Year Courses in Modern Hebrew@1
+GOVT091 Seminar@1
+ANTH015 Political Anthropology@1
+GOVT090 Seminar@1
+MATH073 Measure Theory and Complex Analysis@1
+MATH068 Algebraic Combinatorics@1
+SOCY015 Sociological Classics@1
+GOVT040.09 Politics of Israel and Palestine@1
+GERM030 Studies in German History@1
+EARS062 Geochemistry@1
+EARS047 Field Methods Resource and Earth Hazards Assessment@1
+EARS062 Geochemistry@1
+EARS047 Field Methods Resource and Earth Hazards Assessment@1
+NAS018 Indigenous Environmental Studies@1
+GERM031 Studies in German Theater@1
+GERM030 Studies in German History@1
+HEBR001 First-Year Courses in Modern Hebrew@1
+GERM029 A Cultural Studies Approach to Contemporary Germany and Berlin@1
+GEOG085 Senior Thesis I@1
+SPEE037 Health Communication@1
+GEOG059 Environmental Applications of GIS@1
+MUS021 Melody and Rhythm@1
+GEOG018 Urbanization and the Environment@1
+MATH073 Measure Theory and Complex Analysis@1
+MATH068 Algebraic Combinatorics@1
+GOVT090 Seminar@1
+GOVT091 Seminar@1
+PHYS040 Quantum Physics of Matter@1
+HIST083 Twentieth-Century Latin America@1
+FILM040 Theories and Methodologies of Film and Media Studies@1
+COSC071 Numerical Methods in Computation@1
+COSC071 Numerical Methods in Computation@1
+COSC058 Operating Systems@1
+LACS050.11 Latin America and the U.S. The Dynamics of Foreign Policy@1
+MATH050 Introduction to Linear Models@1
+BIOL072 Foundations of Epidemiology I@1
+LING018 History of the English Language@1
+ENGL001 Literary History I Literature up to the mid-Seventeenth Century@1
+ECON070.03 Macroeconomics Policy in Latin America Argentina and Chile@1
+CRWT040.01 Imaginary Countries@1
+REL020.05 What is Religion?@1
+QSS030.01 Sports Analytics@1
+COLT057.09 Fascisms@1
+JAPN031 Advanced Japanese@1
+GOVT083.05 The Media and Advertising in American Politics@1
+GOVT049.05 Protest and Parties in Latin America@1
+GOVT030.03 Political Economy in the Age of Google@1
+PHYS040 Quantum Physics of Matter@1
+BIOL041 Cells into Organs Assembly, Function and Disease@1
+AAAS011 Introduction to African Studies@1
+COGS021 Introduction to Computational Neuroscience@1
+GOVT083.05 The Media and Advertising in American Politics@1
+LING018 History of the English Language@1
+GOVT049.05 Protest and Parties in Latin America@1
+GOVT030.03 Political Economy in the Age of Google@1
+MATH050 Introduction to Linear Models@1
+AAAS011 Introduction to African Studies@1
+PHYS040 Quantum Physics of Matter@1
+MUS053.03 Keyboard Individual Instruction Classical and Jazz Piano and Organ@1
+MUS053.01 Keyboard Individual Instruction Classical and Jazz Piano and Organ@1
+MUS053.02 Keyboard Individual Instruction Classical and Jazz Piano and Organ@1
+COSC098.01 Sr. Design&Impl; Project I@1
+CRWT021 Intermediate Creative Non Fiction I@1
+GOVT040.19 State-building in the Middle East and North Africa@1
+WGSS031.04 Women and Politics@1
+SOCY035 Sociology of Mental Health@1
+SART017.08 Digital Drawing@1
+HIST009.01 Empires and Colonies in North America, 1500-1763@1
+GRK010 Readings in Greek Prose and Poetry@1
+GEOG050 Geographical Information Systems (GIS)@1
+SOCY051 Prisons The American Way of Punishment@1
+NAS042 Gender Topics in Native American Life@1
+ASTR074 Astrophysics@1
+ASTR061 Observational Techniques in Astronomy@1
+ANTH009 Language and Culture@1
+PBPL091 Independent Study in Public Policy@1
+COSC175 Introduction to Bioinformatics@1
+FREN089 Honors Seminar@1
+NAS085 Independent Study in Native American Studies@1
+FREN087 Honors Thesis Reading and Research@1
+BIOL266 Ecology and Evolution@1
+NAS086 Independent Research in Native American Studies@1
+NAS041 Native American Literature and the Law@1
+COSC149 Topics in Algorithms and Complexity@1
+BIOL263 Cell Biology@1
+NAS087 Native American Studies Honors@1
+COSC094 Reading Course@1
+FILM095 Honors Project I@1
+COSC087 Rendering Algorithms@1
+BIOL199 Graduate Research I Level III@1
+FILM093 Major Project@1
+BIOL198 Graduate Research I Level II@1
+BIOL197 Graduate Research I Level I@1
+ENVS091 Thesis Research in Environmental Studies I@1
+ENVS090 Independent Study and Research@1
+BIOL174 Advanced Neurobiology@1
+COSC057 Compilers@1
+BIOL169 Supervised Teaching in Biology@1
+BIOL147 Genomics Data to Analysis@1
+ASTR087 Undergraduate Research in Astronomy@1
+ENGS160 Biotechnology and Biochemical Engineering@1
+COSC028 Advanced Projects in Digital Arts@1
+BIOL133 Foundations in Ecology@1
+ENGS131 Science of Solid State Materials@1
+ENGS125 Power Electronics and Electromechanical Energy Conversion@1
+BIOL120 Advanced Population Ecology@1
+ENGS089 Engineering Design Methodology and Project Initiation@1
+ENGS088 Honors Thesis@1
+ENGS087 Undergraduate Investigations@1
+ENGS086 Independent Project@1
+ENGS084 Reading Course@1
+ENGS089 Engineering Design Methodology and Project Initiation@1
+ENGS088 Honors Thesis@1
+ENGS087 Undergraduate Investigations@1
+ENGS086 Independent Project@1
+ENGS084 Reading Course@1
+COLT102 Tutorial@1
+BIOL097 Honors Research in Biology@1
+BIOL096 Independent Research in Biology II@1
+PHYS100 Mathematical Methods for Physicists@1
+ENGS064 Engineering Electromagnetics@1
+COLT100 Contemporary Literary Criticism and Theory@1
+BIOL095 Independent Research in Biology I@1
+PHYS087 Undergraduate Research@1
+PHYS077 Introduction to General Relativity and Gravitation@1
+MUS025 Introduction to Sonic Arts@1
+PHYS070 Fourier Transforms and Complex Variables@1
+MATH158 Independent Research@1
+PHYS050 Introductory Quantum Mechanics@1
+MATH157 Thesis Research@1
+MATH156 Graduate Research@1
+PHYS070 Fourier Transforms and Complex Variables@1
+MATH158 Independent Research@1
+PHYS127 Reading Course@1
+MATH157 Thesis Research@1
+MATH156 Graduate Research@1
+MATH149 Supervised Teaching@1
+MATH148 Independent Project@1
+ENGS015 Undergraduate Investigations in Engineering@1
+MATH137 Independent Reading@1
+MATH127 Reading Course@1
+MATH124 Current problems in Topology@1
+ENGS064 Engineering Electromagnetics@1
+MATH121 Current problems in Algebra@1
+PHYS297 Graduate Research II Level I@1
+CLST031 Ancient Literature and History Study Abroad@1
+PHYS137 Graduate Research I Level I@1
+MATH116 Applied Mathematics I@1
+MATH107 Supervised Tutoring@1
+ENGL098 Honors Course I@1
+MATH103 Measure Theory and Complex Analysis@1
+COSC149 Topics in Algorithms and Complexity@1
+PSYC088 Independent Psychology Research@1
+PBPL085 Topics in Global Policy Leadership@1
+ASCL010.02 Introduction to Korean Culture@1
+COSC094 Reading Course@1
+PSYC090 Independent Neuroscience Research@1
+CLST031 Ancient Literature and History Study Abroad@1
+SOCY098 Honors Thesis@1
+PHIL004 Philosophy and Gender@1
+SOCY090 Senior Independent Study Project@1
+SOCY080 Independent Study@1
+PSYC100 Proseminar@1
+SOCY061 Unstalling the Stalled Revolution Gender (In)equality at Work and at Home@1
+PHIL037 Ethical Theory@1
+SART090 Independent Study@1
+PSYC110 Measurement and Statistics I@1
+PSYC117 Specialist Requirement@1
+PHIL086 Research in Philosophy for the Ethics Minor@1
+PHIL087 Research in Philosophy@1
+PHIL089 Honors Program I@1
+SART074 Printmaking III@1
+SART068 Architecture III@1
+COSC087 Rendering Algorithms@1
+REL087 Honors@1
+REL084 Advanced Independent Study in Religion@1
+PHYS050 Introductory Quantum Mechanics@1
+PSYC188 Graduate Research (1 credit)@1
+PHYS070 Fourier Transforms and Complex Variables@1
+PSYC288 Graduate Research (2 credits)@1
+PHYS077 Introduction to General Relativity and Gravitation@1
+PHYS087 Undergraduate Research@1
+PHYS100 Mathematical Methods for Physicists@1
+PHYS101 Classical Mechanics@1
+PHYS127 Reading Course@1
+PHYS137 Graduate Research I Level I@1
+PHYS138 Graduate Research I Level II@1
+PHYS139 Graduate Research I Level III@1
+GEOG014 Water Policy and Politics@1
+GEOG011 Qualitative Methods and the Research Process in Geography@1
+PHYS256 Instruction in Teaching for Graduate Students@1
+GEOG067 Political Ecology@1
+PHYS257 Supervised Undergraduate Teaching@1
+GEOG087 Senior Thesis II@1
+BIOL048 Disease, The Environment, and Human History@1
+FREN089 Honors Seminar@1
+FREN087 Honors Thesis Reading and Research@1
+PHYS297 Graduate Research II Level I@1
+PHYS298 Graduate Research II Level II@1
+PHYS299 Graduate Research II Level III@1
+FILM095 Honors Project I@1
+FILM093 Major Project@1
+FILM080 Independent Study@1
+PSYC388 Graduate Research (3 credits)@1
+REL083 Independent Study in Religion@1
+BIOL095 Independent Research in Biology I@1
+ENVS091 Thesis Research in Environmental Studies I@1
+BIOL096 Independent Research in Biology II@1
+ENVS090 Independent Study and Research@1
+ENGS160 Biotechnology and Biochemical Engineering@1
+GOVT080 Readings in Government@1
+BIOL097 Honors Research in Biology@1
+BIOL120 Advanced Population Ecology@1
+BIOL133 Foundations in Ecology@1
+REL082 Joint Research in Religious Studies@1
+REL071 Foreign Study in Religion II@1
+BIOL147 Genomics Data to Analysis@1
+REL055 Ancient Egyptian Religion@1
+BIOL169 Supervised Teaching in Biology@1
+BIOL174 Advanced Neurobiology@1
+BIOL197 Graduate Research I Level I@1
+ENGS131 Science of Solid State Materials@1
+ENGS125 Power Electronics and Electromechanical Energy Conversion@1
+ARTH010.01 The Art of Ancient Egypt and the Ancient Near East@1
+ENGS089 Engineering Design Methodology and Project Initiation@1
+ENGS088 Honors Thesis@1
+BIOL198 Graduate Research I Level II@1
+ENGS087 Undergraduate Investigations@1
+BIOL199 Graduate Research I Level III@1
+BIOL263 Cell Biology@1
+BIOL266 Ecology and Evolution@1
+INTS016 Introduction to International Development@1
+BIOL268 Genes and Gene Products@1
+ENGS086 Independent Project@1
+ENGS084 Reading Course@1
+ENGS064 Engineering Electromagnetics@1
+ITAL008 Exploring Italian Culture and Language@1
+ITAL009 Italian Culture@1
+ITAL010 Introduction to Italian Literature Masterworks and Great Issues@1
+ENGS015 Undergraduate Investigations in Engineering@1
+ITAL015 Italian Cinema@1
+ENGL098 Honors Course I@1
+BIOL269 Plant Molecular Biology@1
+ENGL096 Reading Course@1
+BIOL297 Graduate Research II Level I@1
+ENGL092 English Study Abroad III@1
+LACS052 Sex and the State in Latin America@1
+LACS089 Independent Study@1
+LACS098 Honors Thesis I@1
+LACS099 Honors Thesis II@1
+ENGL091 English Study Abroad II@1
+LATS098 Honors Thesis I@1
+LATS099 Honors Thesis II@1
+BIOL298 Graduate Research II Level II@1
+BIOL299 Graduate Research II Level III@1
+EARS201 Fundamentals and Pedagogy in Earth Sciences@1
+ENGL053.43 Race and Modernity@1
+AAAS039.02 History of Jazz since 1959@1
+AAAS080.06 Civil Rights in the United States in the 20th Century@1
+AAAS087.05 Politics of Africa@1
+ANTH018 Research Methods in Cultural Anthropology@1
+ARTH017.05 Castles, Cloisters, Cathedrals@1
+BIOC101 Molecular Information in Biological Systems@1
+BIOC197 Graduate Research in Biochemistry & Cell Biology, Pre-Qual I@1
+BIOC198 Graduate Research in Biochemistry & Cell Biology, Pre-Qual II@1
+BIOC199 Graduate Research in Biochemistry & Cell Biology, Pre-Qual III@1
+BIOC297 Graduate Research in Biochemistry & Cell Biology, Post-Qual I@1
+BIOC298 Graduate Research in Biochemistry & Cell Biology, Post-Qual II@1
+BIOC299 Graduate Research in Biochemistry & Cell Biology, Post-Qual III@1
+CHEM042 Biological Chemistry II@1
+CHEM087 Undergraduate Investigation in Chemistry@1
+CHEM140 Chemistry Research Colloquia@1
+CHEM152 Advanced Organic Synthesis and Mechanisms@1
+CHEM161 Topics in Advanced Biophysical Chemistry@1
+CHEM256 Graduate Instruction in Teaching@1
+CHEM257 Supervised Undergraduate Teaching in Chemistry@1
+CHEM260 Graduate Research Colloquium in Organometallic Chemistry@1
+CHEM261 Graduate Research Colloquium in Materials Chemistry@1
+CHEM262 Graduate Research Colloquium in Synthetic Organic Chemistry@1
+CHEM263 Graduate Research Colloquium in Bioinorganic Chemistry@1
+CHEM264 Graduate Research Colloquium in Biophysical Chemistry@1
+CHEM297 Graduate Investigation in Chemistry A@1
+CHEM298 Graduate Investigation in Chemistry B@1
+CHEM299 Graduate Investigation in Chemistry C@1
+CHIN041 Advanced Chinese (Fourth-year level)@1
+CHIN042 Advanced Chinese (Fourth-year level)@1
+COGS026 Philosophy and Computers@1
+COGS086 Honors Research@1
+COLT010.11 Male Friendship from Aristotle to Almodovar@1
+COLT040.01 History of the Book@1
+ECON005 Adam Smith and Political Economy@1
+ECON076 The Financial Crisis of the Noughties@1
+ECON085 Independent Study in Economics@1
+ECON087 Senior Thesis@1
+ENGG261 Biomass Energy Conversion@1
+ENGS072 Applied Mechanics Dynamics@1
+FILM047.05 History of Documentary@1
+FREN053.06 Human Rights in France@1
+FREN070.03 Passages and Ambiguous Adventures Colonial and Postcolonial Questions of Migration and Immigration@1
+GENE197 Graduate Research in Genetics A@1
+GENE198 Graduate Research in Genetics B@1
+GENE199 Graduate Research in Genetics C@1
+GENE297 Graduate Research in Genetics A@1
+GENE298 Graduate Research in Genetics B@1
+GENE299 Graduate Research in Genetics C@1
+GOVT044 Globalization and Global Development@1
+GOVT049.04 Sex and the State in Latin America@1
+GOVT057 International Relations of East Asia@1
+GOVT083.21 Experiments in Politics@1
+GOVT085.08 US Security Policy in the 21st Century@1
+GOVT086.30 Current Research in Social/Political Philosophy@1
+GRK024 Theatre@1
+HEBR059 Independent Advanced Study in Hebrew Language and Literature@1
+HIST005.04 Introduction to Korean Culture@1
+HIST005.08 Africa and the World@1
+HIST043.02 European Intellectual and Cultural History, 1400-1800@1
+HIST095.01 Foreign Study Program London in History@1
+HIST095.02 Foreign Study Program History Study Abroad@1
+HIST096.21 Political Thought in Colonial America@1
+INTS018 Global Health and Society@1
+JAPN041 Advanced Japanese@1
+JWST040.01 Politics of Israel and Palestine@1
+MALS137 Thesis Research@1
+MALS191 Preserving the Past Oral History in Theory and Practice@1
+MICR146 Immunotherapy and the development of contemporary biologics for the treatment of human disease.@1
+MICR197 Graduate Research in Microbiology & Immunology Pre-Qual I@1
+MICR198 Graduate Research in Microbiology & Immunology Pre-Qual II@1
+MICR199 Graduate Research in Microbiology & Immunology Pre-Qual III@1
+MICR265 Microbiology and Immunology - Graduate Research Colloquium@1
+MICR297 Graduate Research in Microbiology & Immunology Post-Qual I@1
+MICR298 Graduate Research in Microbiology & Immunology Post-Qual II@1
+MICR299 Graduate Research in Microbiology & Immunology Post-Qual III@1
+MUS054.01 Woodwind Individual Instruction Flute, Oboe, Clarinet, Bassoon, Saxophone@1
+MUS054.02 Woodwind Individual Instruction Flute, Oboe, Clarinet, Bassoon, Saxophone@1
+MUS054.03 Woodwind Individual Instruction Flute, Oboe, Clarinet, Bassoon, Saxophone@1
+MUS055.01 Brass Individual Instruction Trumpet, French Horn, Trombone, Tuba@1
+MUS055.02 Brass Individual Instruction Trumpet, French Horn, Trombone, Tuba@1
+MUS055.03 Brass Individual Instruction Trumpet, French Horn, Trombone, Tuba@1
+MUS056.01 String Individual Instruction Violin, Viola, Cello, Bass Viol, Electric Bass, Classical and Electrical Guitar@1
+MUS056.02 String Individual Instruction Violin, Viola, Cello, Bass Viol, Electric Bass, Classical and Electrical Guitar@1
+MUS056.03 String Individual Instruction Violin, Viola, Cello, Bass Viol, Electric Bass, Classical and Electrical Guitar@1
+MUS057.01 Voice Individual Instruction@1
+MUS057.02 Voice Individual Instruction@1
+MUS057.03 Voice Individual Instruction@1
+MUS058.01 Percussion Individual Instruction@1
+MUS058.02 Percussion Individual Instruction@1
+MUS058.03 Percussion Individual Instruction@1
+NAS011 Ancient Native Americans@1
+PEMM101 Scientific Basis of Disease I@1
+PEMM103 Biostatistics@1
+PEMM128 Enterprise Experience Internship@1
+PEMM141 Research Rotation I@1
+PEMM297 Level I part-time research 1 course equivalent@1
+PEMM298 Level II part-time research 2 course equivalent@1
+PEMM299 Level III full-time research 3 course equivalent@1
+PHIL050.21 Current Research in Social/Political Philosophy@1
+PORT003 Portuguese III@1
+PSYC050.02 Decision Making Linking Behavior to Brain@1
+PSYC050.09 Motivation, Drugs, and Addiction@1
+QBS110 Integrative Biomedical Sciences I@1
+QBS120 Foundations of Biostatistics I Statistical Inference@1
+QBS130 Foundations of Epidemiology I Theory and Methods@1
+QBS149 Mathematics and Probability for Statistics and Data Mining@1
+QBS175 Foundations of Bioinformatics II Introduction to Bioinformatics@1
+QBS176 Methods in Statistical Genetics and Genomics@1
+QBS194 Biostatistics Journal Club@1
+QBS195 Independent Study@1
+QBS196 Supervised Teaching in QBS@1
+QBS197 Graduate Research in Quantitative Biomedical Sciences I@1
+QBS198 Graduate Research in Quantitative Biomedical Sciences II@1
+QBS199 Graduate Research in Quantitative Biomedical Sciences III@1
+QBS270 Quantitative Biomedical Sciences Seminar Series and Journal Club@1
+QBS297 Advanced Graduate Research in Quantitative Biomedical Sciences I@1
+QBS298 Advanced Graduate Research in Quantitative Biomedical Sciences II@1
+QBS299 Advanced Graduate Research in Quantitative Biomedical Sciences III@1
+QSS030.03 Experiments in Politics@1
+REL074.07 Ritual in Post-Modern Great Britain@1
+SART028 Printmaking II@1
+SPAN083 Independent Study@1
+THEA010.13 Dramatic Storytelling - Plays and Screenplays!@1
+WGSS030.01 Women, Gender and Development@1
+WGSS031.01 Sex and the State in Latin America@1
+WGSS043.03 Women and the Bible@1
+WGSS046.01 Philosophy and Gender@1
+WGSS065.07 Queer Popular Culture@1
+WRIT080 Independent Research@1
+WGSS033.05 Gender, Work, and Family@1
+SOCY079.09 Global Inequality Protests@1
+MUS050.11 Chamber Music@1
+MUS050.12 Chamber Music@1
+MUS050.13 Chamber Music@1
+MUS050.21 Contemporary Music@1
+MUS050.22 Contemporary Music@1
+MUS050.23 Contemporary Music@1
+MUS050.31 Jazz Improvisation@1
+MUS050.32 Jazz Improvisation@1
+MUS050.33 Jazz Improvisation@1
+HIST008.03 Happiness A History@1
+GOVT092 London F S P@1
+AAAS056 The African Political Novel@1
+COGS080 Major Seminar in Cognitive Science@1
+COLT051.03 The African Political Novel@1
+COSC089.14 Research Topics in Human-Computer Interaction@1
+HIST096.31 The Crisis of he Late Middle Ages Reconsidered Art, Artists, and Cultural Change@1
+PHIL028 Phenomenology and Existentialism@1
+PSYC052.04 Adolescent Risk Behaviors Corporate and Environmental Influences@1
+QBS123 Biostatistics Consulting Lab@1
+PSYC115 Supervised Undergraduate Teaching@1
+MALS246 Fiction Writing - Novella@1
+MALS290 Borders & Boundaries Race, Gender, and the Human@1
+COSC122 3D Digital Modeling@1
+BIOC259 Actin Cytoskeleton@1
+BIOC262 Lipid Biol & Neurodegeneration@1
+BIOC295 Independent Study@1
+EEES266 Ecology and Evolution Research Colloquium@1
+ENGG194 PhD Oral Qualifier(Discussion)@1
+ENGG260 Advances in Biotechnology@1
+ENGG296 Graduate Research 1@1
+ENGG297 Graduate Research 2@1
+ENGG298 Graduate Research 3@1
+ENGG300 Enterprise Experience Project@1
+ENGG390 Master of Engg Mgmt Proj@1
+GENE261 Cancer Biology@1
+MICR264 Immunology@1
+MICR295 Independent Study Course@1
+QBS136 Applied Epidemiological Methods I@1
+MICR128 Enterprise Experience Internship@1
+CLST030 Classical Art&Archaeology;@1
+QBS132 Molecular Markers in Human Health Studies@1
+BIOC260 Structural Biology@1
+EEES147 Genomics From Data to Analysis@1
+EEES169 Supervised Teaching in EEES@1
+EEES197 Graduate Research I Level I@1
+EEES198 Graduate Research I Level II@1
+EEES199 Graduate Research I Level III@1
+EEES297 Graduate Research II Level I@1
+EEES298 Graduate Research II Level II@1
+EEES299 Graduate Research II Level III@1
+ENGL072.13 The Brontës@1
+SOCY065 The Social Psychology of Inequality@1
+LING011.12 Language and Cognition@1
+ANTH050.22 Sovereignty, Race, and Rights@1
+FRIT035.02 Fascisms@1
+GOVT097 Honors Research@1
+INTS017.10 Fascisms@1
+PSYC083.07 The Problem of Other Minds@1
+ARTH011.01 Art in Ancient Greece Temples, Gods, Heroes@1
+BIOL300 Communicating Science@1
+COSC176 Artificial Intelligence@1
+EEES120 Advanced Population Ecology@1
+EEES130 Global Environmental Science@1
+EEES133 Foundations in Ecology@1
+EEES167 Political Ecology@1
+ENGG168 Biomedical Radiation Transport@1
+ENGG174 Energy Conversion@1
+ENGG195 Sem on Science,Tech&Society;(Discussion)@1
+ENGG321 Introduction to Innovation@1
+ENGM178 Technology Assessment@1
+ENGM181 Marketing@1
+ENGM188 Law,Tech & Entrepreneurship@1
+ENGM190 Platform, Design, Mgmt & Strat@1
+ENGM387 MEM Professional Skills(Discussion)@1
+ENGS108 Applied Machine Learning@1
+GOVT086.25 Adam Smith and Political Economy@1
+PEMM261 Graduate Research Colloquium(Discussion)@1
+PSYC054.07 Clinical Science Practicum@1
+ENGM184 Intro Optimization Methods@1
+PSYC164 Computational Methods@1
+UNSG300 Communicating Science@1
+EEES165 Global Environmental Politics@1
+EEES189 Forest Biogeochemistry@1
+ARTH038.01 Sacred Architecture of Asia@1
+ARTH063.71 Art & Money@1
+GENE260 Biological Rhythms Journal Clu@1
+ENGG325 Intro to Surgical Innovation@1
+REL011.01 God and Money@1
+REL019.27 Female Saints and ‘Feminine’ Spirituality@1
+QBS181 Data Wrangling@1
+COSC099.01 Thesis Research I@1
+COSC099.02 Thesis Research II@1
+PHYS129 Enterprise Experience Internship@1
+PSYC089.01 Honors Psychology Research I@1
+PSYC089.02 Honors Psychology Research II@1
+PSYC091.01 Honors Neuroscience Research I@1
+PSYC091.02 Honors Neuroscience Research II@1
+ASCL061.01 The Religions of China@1
+ASCL070.01 Sacred Architecture of Asia@1
+COSC069.11 Mobile X@1
+COSC181 Special Topics@1
+CRWT060 Senior Workshop in Creative Writing Fiction@1
+CRWT062 Senior Workshop in Creative Writing Poetry@1
+CRWT089 Creative Writing Project@1
+CRWT098 Honors Course I@1
+ENGL065.02 Writing with Algorithms A Literary Computation Workshop@1
+MES085 Independent Research@1
+MUS042 From Plato’s Republic to Mozart’s Magic Flute (Early Classical Music)@1
+MUS059.11 Barbary Coast Jazz Ensemble@1
+MUS059.21 Dartmouth College Glee Club@1
+MUS059.31 Dartmouth College Gospel Choir@1
+MUS059.41 Handel Society of Dartmouth College@1
+MUS059.51 Dartmouth Symphony Orchestra@1
+MUS059.61 Dartmouth College Wind Ensemble@1
+SOCY049.09 Critical Political Economy@1
+SOCY079.08 Nationalism and the Radical Right@1
+SPAN060.03 Racism at Work Then and Now. Five centuries of Race, Ethnicity and Culture in Span. Amer. Lit@1
+QBS132.05 Mole Bio Mark in Hum Hlth LAB(Laboratory)@1
+QBS193 Independent Study Journal Club(Discussion)@1
+SPAN063.08 ManyFacesofBrazilianCinema@1
+SPAN073.09 GeorgeTicknorDartHispanist@1
+WGSS041.06 Transnational Feminisms@1
+ENGS174 Energy Conversion@1
+GOVT020.09 Populism&Democr; in Europe@1
+QSS030.09 Data Wrangling@1
+FREN010.19 A La Recherche du bonheur@1
+MALS293 Empire & Law@1
+EARS090 Thesis Research II@1
+ASCL070.16 Eat, Drink, Japan An Interdisciplinary Approach@1
+CRWT020 Intermediate Fiction I@1
+MUS099 Proseminar@1
+MUS059.12 Barbary Coast Jazz Ensemble@1
+MUS059.13 Barbary Coast Jazz Ensemble@1
+MUS059.22 Dartmouth College Glee Club@1
+MUS059.23 Dartmouth College Glee Club@1
+MUS059.32 Dartmouth College Gospel Choir@1
+MUS059.33 Dartmouth College Gospel Choir@1
+MUS059.42 Handel Society of Dartmouth College@1
+MUS059.43 Handel Society of Dartmouth College@1
+MUS059.52 Dartmouth Symphony Orchestra@1
+MUS059.53 Dartmouth Symphony Orchestra@1
+MUS059.62 Dartmouth College Wind Ensemble@1
+MUS059.63 Dartmouth College Wind Ensemble@1
+SPAN065.10 Performing Latin American Identities@1
+ASCL054.05 Animals & Post-human World@1
+ASCL064.05 The Two Koreas,1948-Present@1
+GEOG058 Critical Analysis in GIS@1
+QSS081 Major Thesis Research@1
+WRIT020 Rhetoric of Media Culture@1
+ASCL089 Independent Research@1
+CHIN049 Ind Adv Study in Chinese@1
+COSC089.18 Physical Computing@1
+JAPN049 Ind Adv Stdy Japn Lang&Lit;@1
+ASCL090 Honors Thesis I@1
+COSC029.22 AR and VR Design@1
+COSC089.22 AR and VR Development@1
+GEOG080.07 Race, Space, and Nature@1
+INTS082.01 Global Health Field Res@1
+COSC025.02 Intro to UI/UX Design II@1
+MES012.09 Politics Israel & Palestine@1
+AAAS020.50 Memory & SlaveryDartmouth@1
+ARTH063.73 Art and Climate Change@1
+ARTH089.05 Art Hist. Theory and Method@1
+ASCL051.03 Indian Buddhism@1
+QBS187 QBS PhD Student Internship@1
+BIOL274 Neurobiology Journal Club@1
+COLT040.07 Video Games&Meaning; of Life@1
+COLT049.07 Living in the City@1
+EARS145 Supervised Field Instruction@1
+EDUC030 Educational Psychology@1
+ENGL053.39 Haunted Houses in Amer Lit@1
+ENGL053.41 Black Love Barry Jenkins@1
+ENGL062.03 19th C Brit Women Writers@1
+ENGL064.05 Cultural Analytics@1
+ENGL074.05 Word-Image Theory@1
+FILM050.04 Video Games&Meaning; of Life@1
+GERM064.04 Theater and the Revolution@1
+GOVT040.25 Intro Middle East Politics@1
+GOVT083.25 Polarization in America@1
+HIST002 Hist of Amer since CivilWar@1
+HIST003.01 Europe in the Age of Wonder@1
+HIST095 Colloquia in History@1
+ITAL014 Intro to Italian Culture@1
+JWST028 Women and The Bible@1
+JWST066.03 Jews and Arabs in America@1
+LAT021 Love Poetry@1
+MALS229 Workshop in Poetry@1
+MES017.15 Jews and Arabs in America@1
+MUS003.04 Music and Metaphor@1
+MUS046 Video Games&Meaning; of Life@1
+NAS030.02 Modern Native Amer Art Hist@1
+NAS030.19 Indigistory@1
+PHIL001.16 Morality, Freedom, & Mind@1
+PHIL050.31 Classics Modern Aesthetics@1
+PHIL080.24 Real, True, & Vaguely@1
+PSYC080.04 Neuroscience of Obesity@1
+REL001.06 Getting Religion@1
+REL019.29 Women and Religion in Japan@1
+RUSS037 Philosophy and Literature@1
+RUSS050.02 The Russian Revolution@1
+PSYC045 Behavioral Neuroscience@1
+AAAS088.16 Sovereignty, Race, and Rights@-1
+SPEE020.03 Public Speaking@-1

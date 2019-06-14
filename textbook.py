@@ -13,7 +13,6 @@ URL = "https://oracle-www.dartmouth.edu/dart/groucho/course_desc.display_non_fys
 JSON_FILE = "courses/output.json"
 SERVICE_KEY = "service_key.json"
 
-
 json_file = open(JSON_FILE, "r")
 json = json.load(json_file)
 
